@@ -1,0 +1,1001 @@
+Animal ID,Name_Intake,Intake Type,Intake Condition,Animal Type_Intake,Breed_Intake,Color_Intake,Date of Birth,Age upon Intake,DateTime_Intake,DateTime_Outcome,Age upon Outcome,Sex_Intake,Sex_State_Intake,Sex_Outcome,Sex_State_Outcome,found_Address_Line1,found_Address_City,found_Address_State,binary_outcome,recidence_Time_Ratio
+A783721,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,9/5/2018 0:00,8,11/5/2018 11:00,11/12/2018 18:24,9,Male,Intact,Male,Neutered,3108 Crownover Street,Austin,TX,1,1222
+A783635,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black Tabby,8/3/2018 0:00,13,11/3/2018 12:32,11/12/2018 15:49,14,Male,Intact,Male,Neutered,Spicewood Springs Road And Highway 183,Austin,TX,1,1175
+A788556,Slink,Stray,Normal,Cat,Domestic Medium Hair Mix,Calico,9/4/2018 0:00,62,11/17/2019 12:22,11/17/2019 15:47,62,Female,Spayed,Female,Spayed,3902 Sojourner Street,Austin,TX,1,99
+A764549,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,1/1/2006 0:00,626,1/1/2018 12:59,1/1/2018 13:30,626,Female,Intact,Female,Intact,2202 Canterbury,Austin,TX,0,99
+A651615,Marlie,Owner Surrender,Normal,Dog,Toy Poodle Mix,Cream,4/13/2010 0:00,259,4/3/2015 11:41,4/12/2015 15:24,260,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1103
+A694386,Chris,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,7/27/2010 0:00,230,12/27/2014 11:49,12/31/2014 16:49,231,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1104
+A739876,Unknown,Stray,Normal,Dog,Chihuahua Longhair,Tan,12/8/2014 0:00,104,12/8/2016 12:44,12/12/2016 17:55,105,Female,Intact,Female,Spayed,Cooper Ln & Buckingham Pl,Austin,TX,1,1109
+A731038,Unknown,Owner Surrender,Normal,Dog,Toy Poodle Mix,Cream,6/23/2016 0:00,3,7/15/2016 9:56,8/24/2016 11:42,8,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,13161
+A357122,Madison,Stray,Normal,Dog,Border Collie,Black,12/6/2003 0:00,786,1/2/2019 8:14,1/3/2019 13:17,786,Female,Spayed,Female,Spayed,8702 Black Oak St.,Austin,TX,1,99
+A777598,Ink,Stray,Normal,Cat,Domestic Shorthair Mix,Black,5/1/2018 0:00,13,7/31/2018 11:40,8/6/2018 17:31,13,Female,Intact,Female,Spayed,10604 Lanshire Drive,Austin,TX,1,99
+A720690,Joey,Stray,Normal,Dog,Dachshund Mix,Tricolor,9/13/2015 0:00,21,2/13/2016 18:21,2/18/2016 12:03,22,Male,Intact,Male,Neutered,1300 Duepree St,Austin,TX,1,1146
+A678789,Charlie,Stray,Normal,Dog,Miniature Poodle,Red,5/12/2012 0:00,104,5/12/2014 17:22,5/13/2014 13:22,104,Male,Neutered,Male,Neutered,Montopolis & Vargas,Austin,TX,1,99
+A795378,Unknown,Stray,Normal,Dog,Chihuahua Shorthair,Brown,3/20/2019 0:00,8,5/20/2019 11:06,5/24/2019 17:07,9,Male,Intact,Male,Neutered,Blake Manor And Fm 969,Manor,TX,1,1222
+A758269,Lucky,Stray,Normal,Dog,Australian Cattle Dog Mix,Brown,9/13/2015 0:00,104,9/13/2017 13:08,9/13/2017 16:19,104,Male,Intact,Male,Intact,Clifford Avenue And Martin Luther King Jr Blvd,Austin,TX,1,99
+A777615,Peekaboo,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,3/31/2018 0:00,17,7/31/2018 14:04,8/4/2018 16:04,18,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,1157
+A800743,Audi Murphy,Stray,Sick,Cat,Domestic Shorthair,Orange,5/1/2007 0:00,638,7/26/2019 7:09,7/27/2019 16:39,638,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A796610,Hazel,Stray,Normal,Dog,Mastiff Mix,Tan,1/3/2019 0:00,21,6/3/2019 13:33,6/10/2019 16:45,22,Female,Intact,Female,Spayed,6212 Brown Lane,Austin,TX,1,1146
+A790133,Alu,Owner Surrender,Normal,Dog,Labrador Retriever,Tan,3/5/2010 0:00,469,3/5/2019 13:52,1/3/2020 6:48,513,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,48227
+A718450,Kimbo,Stray,Normal,Dog,Labrador Retriever Mix,Black,10/15/2015 0:00,10,12/30/2015 13:53,1/23/2017 17:15,66,Male,Intact,Male,Neutered,7100 N Interstate Hwy 3,Austin,TX,1,366594
+A729909,Khonzu,Stray,Normal,Dog,German Shepherd,Brown,5/11/2016 0:00,0,5/11/2016 12:50,7/6/2016 17:41,8,Male,Intact,Male,Neutered,7101 Ed Bluestein Blvd,Austin,TX,1,647999
+A704988,Mia,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,3/20/2015 0:00,11,6/11/2015 15:21,6/22/2015 16:07,13,Female,Intact,Female,Spayed,21306 Dodge Trl,Lago Vista,TX,1,2459
+A723770,Red,Public Assist,Normal,Dog,Pit Bull Mix,White,10/8/2014 0:00,78,4/8/2016 10:37,4/15/2016 11:37,79,Male,Intact,Male,Intact,1205 Fort Branch,Austin,TX,1,1112
+A772925,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,4/25/2018 0:00,4,5/25/2018 7:46,5/25/2018 12:20,4,Female,Intact,Female,Intact,12034 Research Blvd,Austin,TX,1,97
+A723199,Laurel,Stray,Normal,Dog,Siberian Husky Mix,Black,3/28/2007 0:00,469,3/28/2016 12:56,4/5/2016 17:16,470,Female,Intact,Female,Spayed,1156 W Cesar Chavez St,Austin,TX,1,1102
+A715214,Unknown,Owner Surrender,Normal,Dog,Cocker Spaniel,Tan,9/2/2015 0:00,8,11/2/2015 11:01,11/4/2015 19:17,9,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,1222
+A675807,Oreo,Stray,Normal,Dog,Cocker Spaniel,Black,4/1/2008 0:00,313,4/1/2014 13:26,4/4/2014 17:40,313,Male,Neutered,Male,Neutered,12512 Treeline,Austin,TX,1,99
+A771993,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/13/2017 0:00,52,5/13/2018 12:54,5/16/2018 17:01,52,Unknown,Unknown,Unknown,Unknown,6009 Perlita Drive,Austin,TX,1,99
+A765928,Unknown,Stray,Normal,Dog,Boxer Mix,White,12/3/2017 0:00,8,1/30/2018 11:08,2/3/2018 16:37,8,Female,Intact,Female,Spayed,East Springdale Road And Bolm Road,Austin,TX,1,98
+A637464,Dukie,Stray,Normal,Dog,Pit Bull Mix,Chocolate,2/18/2012 0:00,376,5/4/2019 13:54,5/6/2019 16:24,376,Female,Spayed,Female,Spayed,13802 Dois D Arc,Manor,TX,1,99
+A740768,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,12/22/2014 0:00,104,12/22/2016 13:35,12/23/2016 8:27,104,Unknown,Unknown,Unknown,Unknown,2401 S Ih 35 Suite 210,Austin,TX,0,99
+A742682,Unknown,Stray,Normal,Dog,Toy Poodle Mix,White,1/26/2016 0:00,52,1/26/2017 9:39,1/31/2017 12:24,53,Male,Intact,Male,Neutered,Blessing Ave And E St Johns Ave,Austin,TX,1,1119
+A715668,Unknown,Wildlife,Injured,Bird,Pigeon Mix,Gray,11/7/2013 0:00,104,11/7/2015 17:14,11/7/2015 17:17,104,Unknown,Unknown,Unknown,Unknown,830 Bastrop Hwy,Austin,TX,0,99
+A787591,Bo Peep,Stray,Injured,Dog,Clumber Spaniel Mix,White,1/16/2009 0:00,521,1/16/2019 13:00,2/6/2019 9:54,524,Female,Spayed,Female,Spayed,212 Perdenales St,Austin,TX,1,3117
+A718225,Missy Santa,Stray,Normal,Dog,German Shepherd Mix,Black,12/25/2014 0:00,52,12/25/2015 16:00,12/31/2015 14:20,53,Female,Spayed,Female,Spayed,12400 Limerick,Austin,TX,1,1119
+A670737,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,9/13/2013 0:00,17,1/13/2014 13:04,1/19/2014 17:57,18,Female,Intact,Female,Spayed,301 Park Ln,Austin,TX,1,1157
+A737099,Ava,Stray,Normal,Dog,Border Collie Mix,Black,1/22/2016 0:00,39,10/22/2016 11:15,10/22/2016 18:19,39,Female,Spayed,Female,Spayed,S Pleasant Valley Rd & Dove Springs Dr,Austin,TX,1,99
+A810476,Max,Owner Surrender,Normal,Dog,Chihuahua Longhair,Brown,12/14/2018 0:00,52,12/14/2019 11:36,12/17/2019 16:13,52,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A737450,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,10/28/2015 0:00,52,10/28/2016 12:16,10/29/2016 9:00,52,Male,Intact,Male,Intact,1701 Inverness Blvd,Austin,TX,1,99
+A676313,Petey,Stray,Normal,Dog,Jack Russell Terrier Mix,White,4/8/2007 0:00,365,4/8/2014 7:43,4/8/2014 10:35,365,Male,Neutered,Male,Neutered,Found At Harcourt/Cabana,Austin,TX,1,99
+A755141,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/14/2017 0:00,2,7/29/2017 15:27,7/29/2017 16:36,2,Unknown,Unknown,Unknown,Unknown,7902 Marble Ridge,Austin,TX,1,95
+A716064,Lady,Stray,Normal,Dog,Chihuahua Shorthair Mix,Tan,11/13/2010 0:00,260,11/13/2015 16:25,11/23/2015 0:00,262,Female,Intact,Female,Intact,Fireside And Hearthstone,Austin,TX,1,2115
+A797187,Lulu,Owner Surrender,Normal,Dog,Anatol Shepherd Mix,Brown,3/10/2019 0:00,13,6/10/2019 15:13,6/13/2019 12:34,13,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A764152,Lala,Stray,Normal,Dog,American Bulldog Mix,Yellow Brindle,6/23/2015 0:00,130,12/22/2017 19:08,12/23/2017 15:38,130,Female,Spayed,Female,Spayed,King George And King Edward,Austin,TX,1,99
+A751691,Meeko,Stray,Normal,Dog,Dachshund Mix,Black,6/11/2011 0:00,313,6/11/2017 12:22,6/16/2017 11:55,313,Male,Intact,Male,Neutered,Spicewood Springs Rd & Mcneil Dr,Austin,TX,1,99
+A812362,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Brown,1/21/2018 0:00,104,1/21/2020 12:40,1/25/2020 16:47,104,Male,Intact,Male,Neutered,6111 South Congress,Austin,TX,1,99
+A689269,Mindy,Stray,Normal,Dog,Soft Coated Wheaten Terrier Mix,Tan,10/1/2012 0:00,104,10/1/2014 15:00,10/1/2014 16:52,104,Female,Spayed,Female,Spayed,Blue Bluff Rd Manor,Manor,TX,1,99
+A693584,Diego,Stray,Normal,Dog,Yorkshire Terrier Mix,Blue,12/10/2007 0:00,365,12/10/2014 18:19,12/10/2014 19:23,365,Male,Neutered,Male,Neutered,Pearce Ln And Los Cielos Blvd,Del Valle,TX,0,99
+A748820,Izzy,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/4/2017 0:00,4,5/7/2017 13:47,6/2/2017 17:55,8,Female,Intact,Female,Spayed,9040 Elroy Road,Travis,TX,1,8000
+A743167,Rocky,Stray,Normal,Dog,Pit Bull Mix,Black,12/5/2016 0:00,14,3/17/2017 12:11,3/20/2017 18:17,15,Male,Neutered,Male,Neutered,E 6Th St And Robert Martinez,Austin,TX,1,1170
+A728935,Dory,Stray,Normal,Dog,Labrador Retriever Mix,Tan,6/11/2013 0:00,156,6/11/2016 11:34,7/19/2016 18:02,162,Female,Spayed,Female,Spayed,Fuchs Grove Rd And Gregg Manor Rd,Manor,TX,1,6330
+A706911,Jazmin,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Tortie,4/20/2015 0:00,12,7/18/2015 17:43,11/15/2019 14:10,238,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,4447256
+A717615,Lily,Stray,Normal,Dog,Pembroke Welsh Corgi Mix,Brown,12/11/2011 0:00,208,12/11/2015 13:23,12/12/2015 13:20,208,Female,Spayed,Female,Spayed,1306 Mckie Cove,Austin,TX,1,99
+A776931,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,4/29/2018 0:00,11,7/21/2018 11:13,8/5/2018 14:20,14,Female,Intact,Female,Intact,78601 Bock Road,Travis,TX,1,3909
+A713195,Saya,Stray,Nursing,Cat,Domestic Shorthair Mix,Tortie,9/11/2015 0:00,3,10/3/2015 16:10,12/7/2015 14:19,12,Female,Intact,Female,Spayed,Betty Cook,Austin,TX,1,35225
+A780141,Unknown,Owner Surrender,Normal,Dog,Australian Cattle Dog Mix,Tan,7/10/2018 0:00,8,9/10/2018 11:52,9/13/2018 11:00,9,Male,Intact,Male,Neutered,Unknown address,Del Valle,TX,1,1222
+A757193,Buckwheat,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,8/22/2017 0:00,1,8/31/2017 11:42,11/24/2017 14:29,13,Male,Intact,Male,Neutered,1817 East Oltorf,Austin,TX,1,142999
+A637451,Panther,Stray,Normal,Cat,Domestic Shorthair Mix,Black,8/17/2012 0:00,300,5/22/2018 11:08,8/10/2018 16:45,312,Male,Neutered,Male,Neutered,717 Dulwich,Austin,TX,0,12579
+A801208,Si,Owner Surrender,Normal,Cat,Siamese Mix,Seal Point,8/1/2018 0:00,52,8/1/2019 13:06,8/6/2019 12:00,52,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,99
+A745158,Dash,Stray,Normal,Dog,Cardigan Welsh Corgi Mix,Tricolor,3/13/2016 0:00,169,6/10/2019 13:45,6/14/2019 14:06,169,Male,Neutered,Male,Neutered,1915 Wells Branch Parkway,Austin,TX,1,99
+A791657,Bowie,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,3/11/2019 0:00,2,3/29/2019 11:03,5/23/2019 8:52,10,Male,Intact,Male,Neutered,9121 Burklund Farms Road,Travis,TX,1,38571
+A776357,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Brown,7/12/2015 0:00,156,7/12/2018 12:46,7/18/2018 16:29,157,Female,Intact,Female,Spayed,7201 Levander Loop,Austin,TX,1,1106
+A692032,Clementine,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,10/13/2014 0:00,4,11/13/2014 15:05,1/31/2015 17:40,15,Female,Intact,Female,Spayed,7209 N Lamar Blvd,Austin,TX,1,40609
+A718444,Rolf,Stray,Normal,Dog,Dachshund Mix,Black,12/30/2007 0:00,417,12/30/2015 12:30,1/4/2016 11:06,418,Male,Neutered,Male,Neutered,Hermitage Dr And Durham Dr,Austin,TX,1,1102
+A706393,Charles,Stray,Normal,Cat,Domestic Medium Hair Mix,Blue Tabby,5/28/2015 0:00,4,6/28/2015 13:27,11/24/2015 11:58,25,Male,Intact,Male,Neutered,78725 Beauregaurd Cir,Austin,TX,1,128658
+A736867,Koba,Owner Surrender,Sick,Dog,Miniature Poodle Mix,Cream,10/19/2001 0:00,782,10/18/2016 15:20,10/19/2016 17:16,782,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A679366,Unknown,Stray,Normal,Dog,Pit Bull Mix,Black,12/5/2013 0:00,23,5/20/2014 7:00,5/25/2014 17:45,24,Male,Intact,Male,Intact,4434 Frontier Trl,Austin,TX,1,1142
+A796430,Scar,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/10/2019 0:00,3,6/1/2019 16:07,7/24/2019 13:27,10,Male,Intact,Male,Neutered,333 East Slaughter Lane,Austin,TX,1,22903
+A665793,Oreo,Owner Surrender,Normal,Dog,Australian Shepherd Mix,Black,1/22/2013 0:00,49,12/31/2013 16:56,1/6/2014 17:46,49,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A651015,Clifford,Stray,Normal,Dog,Golden Retriever,Tan,4/4/2010 0:00,223,7/18/2014 17:25,7/21/2014 11:16,224,Male,Intact,Male,Intact,Mercy Side,Pflugerville,TX,1,1104
+A782802,Princess,Stray,Normal,Dog,Chihuahua Shorthair,Tan,10/21/2017 0:00,52,10/21/2018 13:16,10/21/2018 19:01,52,Female,Intact,Female,Intact,1100 Cumberland,Austin,TX,1,99
+A777484,Dan Dan,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,White,5/7/2018 0:00,11,7/29/2018 13:45,8/2/2018 17:57,12,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,1189
+A749780,Toby,Stray,Normal,Dog,Dachshund Mix,Tan,1/19/2017 0:00,17,5/19/2017 13:57,5/23/2017 17:57,17,Male,Intact,Male,Neutered,3706 Goodwin Ave,Austin,TX,1,99
+A781075,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/24/2018 0:00,17,9/24/2018 12:11,10/21/2018 12:49,21,Male,Intact,Male,Neutered,15525 Fm 969,Austin,TX,1,5035
+A703505,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,Brown Tabby,5/25/2013 0:00,104,5/25/2015 15:14,5/25/2015 15:26,104,Male,Intact,Male,Intact,6600 Fm 969,Austin,TX,0,99
+A804711,Callie,Stray,Normal,Dog,Labrador Retriever Mix,Brown,9/17/2018 0:00,52,9/17/2019 18:40,12/26/2019 8:14,66,Female,Intact,Female,Spayed,500 E Anderson Ln,Austin,TX,1,17861
+A732857,Travis,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,6/28/2016 0:00,6,8/13/2016 18:04,9/10/2016 16:54,10,Male,Intact,Male,Neutered,6121 Saddler Ln,Austin,TX,1,6721
+A800978,Junior Grande,Owner Surrender,Normal,Dog,Rat Terrier Mix,Black,7/29/2011 0:00,417,7/29/2019 15:21,7/30/2019 15:32,417,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,99
+A682849,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Sable,4/30/2014 0:00,9,7/3/2014 17:31,7/7/2014 18:04,9,Male,Intact,Male,Neutered,E 3Rd St And Comal,Austin,TX,1,98
+A754217,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,7/11/2017 0:00,0,7/17/2017 13:59,7/17/2017 17:35,0,Unknown,Unknown,Unknown,Unknown,2301 E St Elmo,Austin,TX,1,0
+A796694,Burton,Public Assist,Normal,Dog,Pug,Brown,6/4/2012 0:00,365,6/4/2019 13:26,6/11/2019 15:09,366,Male,Intact,Male,Intact,3812 Southway Drive,Austin,TX,1,1102
+A759062,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,8/29/2017 0:00,4,9/26/2017 12:30,10/3/2017 0:00,5,Male,Intact,Male,Intact,3601 South Congress Avenue,Austin,TX,1,1341
+A803552,Tailz,Stray,Normal,Dog,Weimaraner,Gray,9/2/2017 0:00,104,9/2/2019 17:52,9/17/2019 14:55,106,Male,Intact,Male,Intact,1807 W Slaughter,Austin,TX,1,2138
+A755337,Malibou,Public Assist,Normal,Dog,Pit Bull,Black Brindle,8/4/2008 0:00,470,8/7/2017 11:20,8/12/2017 17:42,470,Male,Intact,Male,Intact,Unknown address,Pflugerville,TX,1,99
+A679782,Sunshine,Owner Surrender,Sick,Cat,Domestic Shorthair Mix,Blue Tabby,5/26/2012 0:00,107,6/20/2014 11:58,7/2/2014 14:39,109,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2137
+A785624,Unknown,Stray,Injured,Dog,Chihuahua Shorthair Mix,Tan,10/17/2018 0:00,7,12/6/2018 11:45,12/26/2018 17:07,10,Female,Intact,Female,Spayed,10600 Thaxton,Austin,TX,1,4366
+A729159,Unknown,Wildlife,Injured,Other,Opossum,Gray,12/14/2015 0:00,26,6/14/2016 11:53,6/14/2016 12:03,26,Unknown,Unknown,Unknown,Unknown,1314 Rosewood Ave,Austin,TX,0,99
+A761255,Beau,Owner Surrender,Normal,Dog,Staffordshire Mix,Black,11/1/2016 0:00,57,12/8/2017 0:00,12/8/2017 13:50,57,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A768661,Unknown,Wildlife,Normal,Other,Bat,Brown,3/23/2016 0:00,104,3/23/2018 12:48,3/23/2018 17:58,104,Unknown,Unknown,Unknown,Unknown,14223 The Lakes Blvd,Austin,TX,0,99
+A789066,Dodger,Stray,Normal,Dog,Doberman Pinsch Mix,Chocolate,2/13/2018 0:00,52,2/13/2019 19:03,2/15/2019 12:38,52,Male,Intact,Male,Intact,Viewpoint Drive,Austin,TX,1,99
+A755832,Gandelf,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black Tabby,8/9/2015 0:00,104,8/9/2017 15:28,8/17/2017 13:52,105,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1109
+A718024,Snickerdood,Stray,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,10/4/2015 0:00,10,12/19/2015 16:47,1/2/2016 18:11,12,Male,Intact,Male,Neutered,Daisy Dr And Pansy Trail,Austin,TX,1,2495
+A759060,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,8/29/2017 0:00,4,9/26/2017 12:30,10/3/2017 0:00,5,Female,Intact,Female,Intact,3601 South Congress Avenue,Austin,TX,1,1341
+A734012,Harvey,Stray,Normal,Dog,Labrador Retriever Mix,Chocolate,8/31/2009 0:00,365,8/31/2016 11:19,12/12/2017 15:00,432,Male,Intact,Male,Neutered,2411 Patsy Pkwy,Austin,TX,1,79395
+A743154,Dakota,Stray,Normal,Dog,Dachshund Longhair Mix,Brown,2/5/2011 0:00,313,2/4/2017 16:13,2/5/2017 11:16,313,Female,Spayed,Female,Spayed,Antique Finish Dr And Lantern Dr,Travis,TX,1,99
+A702496,Murphy,Stray,Normal,Dog,Basset Hound Mix,Black,9/14/2014 0:00,34,5/14/2015 15:01,5/18/2015 18:22,35,Male,Intact,Male,Neutered,Santa Rosa And Robert Martinez,Austin,TX,1,1129
+A609701,G-Man,Stray,Normal,Dog,Blue Lacy Mix,Blue,3/12/2010 0:00,300,12/16/2015 11:56,4/18/2016 0:00,318,Male,Neutered,Male,Neutered,Ross Rd And Gilwill,Travis,TX,1,19179
+A796868,Blanco,Stray,Normal,Dog,Pit Bull Mix,White,10/22/2018 0:00,32,6/6/2019 13:28,6/10/2019 16:12,33,Male,Intact,Male,Intact,Dessau And Applegate,Austin,TX,1,1130
+A792617,Guero,Public Assist,Normal,Dog,Jack Russell Terrier Mix,White,4/12/2016 0:00,156,4/12/2019 16:25,8/31/2019 14:05,176,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,22662
+A752048,Unknown,Stray,Normal,Dog,Pomeranian,Black,6/17/2016 0:00,52,6/17/2017 11:24,6/21/2017 17:26,52,Male,Intact,Male,Neutered,Sherwood,Austin,TX,1,99
+A778930,Unknown,Stray,Normal,Dog,Rhod Ridgeback Mix,Brown,8/22/2013 0:00,260,8/22/2018 17:43,8/26/2018 16:53,261,Male,Intact,Male,Neutered,Palm Way And Domain Drive,Austin,TX,1,1103
+A752357,Nina,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,4/21/2017 0:00,8,6/21/2017 13:36,7/2/2017 15:25,10,Female,Intact,Female,Spayed,3003 Catalinda Dr,Austin,TX,1,2592
+A775140,Bain,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,4/10/2018 0:00,10,6/25/2018 13:45,7/28/2018 13:57,15,Male,Intact,Male,Intact,2005 Paloduro Road,Austin,TX,1,7574
+A694899,Unknown,Stray,Nursing,Dog,Pit Bull Mix,Black,12/22/2014 0:00,2,1/6/2015 11:35,1/8/2015 12:38,2,Male,Intact,Male,Intact,11604 Loweswater,Austin,TX,1,95
+A691604,Unknown,Stray,Normal,Dog,Toy Poodle Mix,White,11/7/2013 0:00,52,11/7/2014 11:57,11/15/2014 11:40,53,Female,Intact,Female,Spayed,8401 Colony Loop,Austin,TX,1,1119
+A788447,Sven,Stray,Normal,Dog,Black,Black,2/2/2016 0:00,156,2/2/2019 14:50,2/13/2019 17:00,158,Male,Intact,Male,Intact,5300 South Mopac,Austin,TX,1,2125
+A745943,Maya,Owner Surrender,Normal,Other,Guinea Pig,Black,2/19/2017 0:00,5,3/26/2017 17:50,3/27/2017 12:56,5,Female,Intact,Female,Intact,Unknown address,Travis,TX,1,98
+A719262,Nia,Stray,Normal,Dog,American Bulldog Mix,White,1/16/2008 0:00,417,1/16/2016 13:31,1/17/2016 14:44,417,Female,Spayed,Female,Spayed,301 E. Longspur Blvd.,Austin,TX,1,99
+A747619,Caster,Stray,Normal,Dog,Shih Tzu Mix,White,4/22/2015 0:00,104,4/22/2017 12:42,4/26/2017 16:22,105,Male,Intact,Male,Neutered,Tobler Trl And Deupree Dr,Austin,TX,1,1109
+A791077,Archie,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,2/14/2019 0:00,5,3/21/2019 10:37,4/25/2019 8:07,10,Male,Intact,Male,Neutered,8868 Research Boulevard,Austin,TX,1,10000
+A799181,Blossom,Owner Surrender,Normal,Cat,Domestic Shorthair,White,7/14/2018 0:00,58,8/24/2019 15:37,11/18/2019 15:11,70,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,14578
+A794581,Lucy,Stray,Nursing,Cat,Domestic Shorthair,Brown Tabby,4/9/2019 0:00,4,5/9/2019 17:42,7/1/2019 17:14,11,Female,Intact,Female,Intact,6106 Sadler Ln,Austin,TX,1,19048
+A746725,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,3/17/2017 0:00,3,4/8/2017 11:28,4/8/2017 11:42,3,Unknown,Unknown,Unknown,Unknown,Unknown address,Austin,TX,0,96
+A788410,Champ,Stray,Injured,Dog,Bull Terrier,White,2/2/2015 0:00,208,2/2/2019 0:38,2/2/2019 12:04,208,Male,Intact,Male,Intact,8207 Beaver Brook Ln,Austin,TX,1,99
+A712544,Alex,Stray,Normal,Cat,Domestic Shorthair Mix,Orange,7/30/2015 0:00,8,9/24/2015 18:21,10/11/2015 17:40,10,Male,Intact,Male,Neutered,18100 Maxa Dr,Manor,TX,1,2592
+A779650,Unknown,Stray,Normal,Dog,Australian Cattle Dog Mix,Tricolor,1/4/2018 0:00,34,9/4/2018 12:03,9/11/2018 14:40,35,Female,Intact,Female,Spayed,2200 Garden Street,Austin,TX,1,1129
+A766772,Gavin,Stray,Normal,Dog,German Shepherd Mix,Black,2/16/2016 0:00,104,2/16/2018 12:10,4/6/2018 12:12,111,Male,Neutered,Male,Neutered,11209 River Plantation,Austin,TX,1,7570
+A803871,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/16/2019 0:00,7,9/7/2019 14:32,9/19/2019 17:16,9,Male,Intact,Male,Intact,12345 North Lamar,Austin,TX,1,2661
+A681931,Heather,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,5/6/2014 0:00,6,6/21/2014 16:16,7/8/2014 15:40,9,Female,Intact,Female,Intact,9102 Happy Trl,Austin,TX,1,4573
+A794701,Cheeta,Owner Surrender,Normal,Dog,Pit Bull,Black Brindle,12/11/2018 0:00,21,5/11/2019 11:43,5/14/2019 17:51,22,Female,Intact,Female,Intact,4311 Shallow Brook Trail,Austin,TX,1,1146
+A773957,Bear,Stray,Normal,Dog,Black Mouth Cur Mix,Brown,12/8/2017 0:00,26,6/8/2018 11:57,8/29/2018 18:50,37,Male,Intact,Male,Intact,5508 Manowar Drive,Travis,TX,1,15735
+A732531,Gonzo,Stray,Normal,Dog,Chihuahua Shorthair Mix,Red,11/1/2014 0:00,92,8/9/2016 13:07,8/13/2016 13:56,93,Male,Neutered,Male,Neutered,19089 Lakehurst Loop,Travis,TX,1,1110
+A788834,Unknown,Stray,Normal,Dog,Norfolk Terrier Mix,Tan,11/17/2018 0:00,12,2/9/2019 17:09,2/13/2019 18:42,12,Female,Intact,Female,Spayed,Metric Boulevard And Scofield Ridge Parkway,Austin,TX,1,99
+A700644,Unknown,Stray,Normal,Dog,Pit Bull Mix,Tricolor,4/17/2013 0:00,104,4/17/2015 12:33,4/21/2015 18:23,104,Male,Intact,Male,Neutered,Fred Morse Dr And Meadowood Dr,Austin,TX,1,99
+A762797,Tippi,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/4/2017 0:00,12,11/27/2017 14:16,12/6/2017 15:27,13,Female,Intact,Female,Spayed,8105 Linden Road,Del Valle,TX,1,1181
+A726529,Pascal,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,3/16/2016 0:00,8,5/11/2016 17:36,5/15/2016 17:07,8,Male,Intact,Male,Neutered,10510 Wendts Way,Austin,TX,1,98
+A744962,Sunny,Stray,Normal,Dog,Australian Cattle Dog Mix,Blue Merle,3/10/2016 0:00,52,3/10/2017 11:17,3/18/2017 15:46,53,Male,Intact,Male,Neutered,18000 Maxa Dr,Travis,TX,1,1119
+A681513,Chicho,Public Assist,Injured,Dog,Rat Terrier Mix,Tricolor,6/17/2007 0:00,365,6/17/2014 16:37,6/17/2014 17:08,365,Male,Intact,Male,Intact,215 E 6Th Street,Austin,TX,1,99
+A740397,Poncho,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Tan,12/16/2014 0:00,104,12/16/2016 15:31,12/18/2016 17:02,104,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,99
+A751710,Zoe,Owner Surrender,Normal,Dog,Staffordshire Mix,Brown Brindle,6/11/2015 0:00,118,9/19/2017 15:38,10/21/2017 18:05,123,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,5311
+A669173,Unknown,Stray,Normal,Cat,Burmese,Chocolate,6/16/2013 0:00,26,12/16/2013 13:53,12/20/2013 17:52,26,Male,Intact,Male,Neutered,14515  James Vincent R,Austin,TX,1,99
+A755239,Sally,Stray,Normal,Dog,Beagle Mix,White,6/9/2017 0:00,15,9/27/2017 14:06,10/3/2017 13:35,16,Female,Spayed,Female,Spayed,124 W Anderson Ln,Austin,TX,1,1165
+A768584,Zoe,Owner Surrender,Normal,Dog,Anatol Shepherd Mix,Brown,3/22/2016 0:00,104,3/22/2018 11:15,4/8/2018 17:13,106,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,2138
+A773236,Blue,Stray,Normal,Dog,Australian Shepherd Mix,Chocolate,4/29/2018 0:00,4,5/29/2018 13:26,7/9/2018 17:23,10,Male,Intact,Male,Neutered,13925 Rector Loop,Manor,TX,1,14878
+A750225,Garfield,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,7/26/2012 0:00,251,5/24/2017 14:48,6/18/2017 18:45,255,Male,Neutered,Male,Neutered,5901 Little Creek Trl,Austin,TX,1,4163
+A749831,Hopo Chico,Stray,Normal,Other,English Spot Mix,White,5/20/2015 0:00,104,5/20/2017 11:22,5/26/2017 19:32,105,Male,Intact,Male,Intact,2302 Durwood,Austin,TX,1,1109
+A648168,Rusty,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Tan,3/23/2006 0:00,501,11/4/2015 11:03,12/2/2015 12:42,505,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,4131
+A738868,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,11/22/2015 0:00,52,11/22/2016 16:35,11/22/2016 16:46,52,Unknown,Unknown,Unknown,Unknown,401 Congress,Austin,TX,0,99
+A730926,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/13/2015 0:00,52,7/13/2016 11:09,7/14/2016 9:00,52,Male,Intact,Male,Intact,18300 River Timber Rd,Del Valle,TX,1,99
+A789549,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,2/23/2017 0:00,104,2/23/2019 15:39,2/28/2019 10:50,105,Male,Intact,Male,Intact,6813 Campina Crossing,Austin,TX,1,1109
+A723398,Unknown,Stray,Normal,Other,Rabbit Sh Mix,White,3/31/2015 0:00,52,3/31/2016 12:59,4/4/2016 11:10,52,Unknown,Unknown,Unknown,Unknown,1420 E Anderson Ln,Austin,TX,1,99
+A736648,Twig,Stray,Normal,Cat,Siamese,Chocolate Point,7/14/2016 0:00,13,10/14/2016 14:16,10/25/2016 14:32,14,Female,Intact,Female,Intact,5011 E Cesar Chavez St,Austin,TX,1,1175
+A806189,Cassel,Owner Surrender,Normal,Dog,Pointer,White,7/6/2019 0:00,16,10/27/2019 12:58,11/1/2019 17:11,16,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,99
+A775107,Astro,Stray,Normal,Cat,Domestic Medium Hair Mix,Orange Tabby,4/24/2018 0:00,8,6/24/2018 14:59,7/28/2018 14:32,13,Male,Intact,Male,Neutered,1301 Lily Terrace,Austin,TX,1,8185
+A747552,Sassy,Owner Surrender,Normal,Cat,Turkish Angora Mix,White,4/21/2013 0:00,208,4/21/2017 9:51,5/9/2017 14:00,211,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,3143
+A681963,Diamond,Stray,Normal,Dog,Australian Cattle Dog Mix,White,6/18/2014 0:00,0,6/22/2014 10:47,8/13/2014 17:26,8,Female,Intact,Female,Spayed,912 U.S. 183,Austin,TX,1,647999
+A691997,Chicka,Owner Surrender,Injured,Dog,Chihuahua Shorthair Mix,Tan,11/13/2012 0:00,132,6/1/2015 12:18,6/2/2015 9:22,133,Female,Spayed,Female,Spayed,7209 Crystalbrook Drive,Austin,TX,0,1107
+A726403,Janelle,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Flame Point,2/10/2016 0:00,12,5/10/2016 13:05,6/1/2016 10:06,16,Female,Intact,Female,Spayed,1206 Woodfield Dr,Austin,TX,1,5421
+A703961,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,Brown Tabby,5/27/2015 0:00,0,5/30/2015 18:41,5/30/2015 18:42,0,Unknown,Unknown,Unknown,Unknown,Unknown address,Austin,TX,1,0
+A712578,Lily,Owner Surrender,Normal,Dog,Papillon Mix,White,9/25/2014 0:00,52,9/25/2015 13:50,9/26/2015 14:37,52,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A668550,Pushkin,Public Assist,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,12/4/2012 0:00,52,12/4/2013 23:12,12/20/2013 12:51,54,Male,Intact,Male,Neutered,Unknown address,Lago Vista,TX,1,2176
+A763475,Forest,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,White,12/9/2014 0:00,156,12/9/2017 18:38,12/16/2017 13:43,157,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1106
+A731879,Bobbie Ann,Stray,Normal,Dog,Australian Cattle Dog,Blue Merle,7/28/2012 0:00,208,7/28/2016 16:42,8/3/2016 19:07,209,Female,Intact,Female,Spayed,8109 Colony Loop Dr,Austin,TX,1,1104
+A696769,Remmy,Stray,Normal,Dog,Labrador Retriever,White,4/29/2010 0:00,249,2/11/2015 20:25,2/12/2015 13:19,250,Female,Spayed,Female,Spayed,12024 Herb Brook Dr.,Austin,TX,1,1103
+A727998,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Brown Brindle,3/14/2016 0:00,10,5/29/2016 14:32,6/2/2016 17:57,11,Female,Intact,Female,Spayed,Bluff Springs And Knuckols Crossing Rd,Austin,TX,1,1198
+A746438,Unknown,Stray,Injured,Cat,Domestic Medium Hair,Gray Tabby,4/3/2014 0:00,156,4/3/2017 9:30,4/3/2017 9:59,156,Male,Intact,Male,Intact,Nuckols Crossing & Stassney,Austin,TX,0,99
+A770475,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Gray,2/28/2018 0:00,7,4/20/2018 11:53,4/24/2018 12:20,7,Female,Intact,Female,Intact,3709 Thompson Lane #B,Austin,TX,1,98
+A678112,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,5/1/2014 0:00,0,5/4/2014 11:57,5/4/2014 13:52,0,Male,Intact,Male,Intact,4610 Borage Dr,Austin,TX,1,0
+A769866,Sadie,Stray,Normal,Dog,Labrador Retriever Mix,Tan,6/11/2017 0:00,43,4/11/2018 16:30,4/16/2018 17:05,44,Female,Spayed,Female,Spayed,5800 Colton Road,Austin,TX,1,1122
+A674045,Unknown,Wildlife,Injured,Other,Raccoon Mix,Sable,3/6/2013 0:00,52,3/6/2014 16:15,3/6/2014 16:59,52,Unknown,Unknown,Unknown,Unknown,831 Houston St,Austin,TX,0,99
+A795908,Unknown,Owner Surrender,Nursing,Dog,Chihuahua Shorthair,Brown,5/3/2019 0:00,3,5/25/2019 17:17,5/25/2019 18:30,3,Unknown,Unknown,Unknown,Unknown,Unknown address,Austin,TX,1,96
+A808525,T-Bone,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Tan,5/10/2018 0:00,78,11/10/2019 12:54,11/14/2019 12:17,79,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1112
+A807060,Butch,Stray,Normal,Dog,Australian Cattle Dog,Red Tick,10/20/2006 0:00,678,10/20/2019 12:11,10/20/2019 15:23,678,Male,Intact,Male,Intact,1401 Ridgehaven Drive,Austin,TX,1,99
+A750003,Little Bob,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/7/2017 0:00,6,5/22/2017 14:00,6/22/2017 17:37,10,Male,Intact,Male,Neutered,20401 Fm 969,Travis,TX,1,6721
+A738862,Nero,Stray,Normal,Dog,Catahoula,Blue Merle,1/22/2016 0:00,43,11/22/2016 14:28,11/27/2016 18:48,44,Female,Intact,Female,Spayed,Lime Creek Road And Jackson,Travis,TX,1,1122
+A772201,Kooper,Public Assist,Normal,Dog,Cocker Spaniel,Buff,5/16/2016 0:00,104,5/16/2018 15:35,5/26/2018 12:02,105,Male,Intact,Male,Intact,6609 Scrub Oak,Austin,TX,1,1109
+A769608,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,White,4/7/2017 0:00,52,4/7/2018 12:11,4/10/2018 18:30,52,Female,Intact,Female,Intact,6408 Garden Rose Path,Austin,TX,1,99
+A697253,Hazel,Stray,Normal,Dog,Black Mouth Cur Mix,Tan,12/20/2014 0:00,173,4/18/2018 11:35,4/18/2018 13:20,173,Female,Spayed,Female,Spayed,Parmer Lane And Dessau Road,Austin,TX,1,99
+A695308,Dolly,Stray,Normal,Dog,Chihuahua Shorthair,White,1/13/2002 0:00,678,1/13/2015 14:19,1/14/2015 14:19,678,Female,Spayed,Female,Spayed,Magna Carta Loop And Breeds Hill,Austin,TX,1,99
+A798351,Tina,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,6/24/2017 0:00,104,6/24/2019 18:22,8/21/2019 15:55,112,Female,Intact,Female,Spayed,1120 Estes Avenue,Austin,TX,1,8714
+A807051,Hydo,Stray,Normal,Dog,American Staffordshire Terrier Mix,Blue,10/20/2016 0:00,156,10/20/2019 11:11,10/20/2019 14:17,156,Male,Intact,Male,Intact,8500 Mayview Drive,Austin,TX,1,99
+A678313,Lulu,Stray,Normal,Dog,Beagle,Brown,5/7/2013 0:00,52,5/7/2014 11:42,5/16/2014 16:50,53,Female,Intact,Female,Spayed,4801 Freidrich Ln #106,Austin,TX,1,1119
+A672392,Bubba,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,2/9/2012 0:00,104,2/9/2014 11:19,2/16/2014 11:59,105,Male,Intact,Male,Neutered,15803 Pearce Ln,Del Valle,TX,1,1109
+A777430,Draco,Public Assist,Normal,Dog,Bull Terrier Mix,White,11/9/2017 0:00,37,7/28/2018 14:37,8/9/2018 18:33,39,Male,Intact,Male,Neutered,2711 Crownover St,Austin,TX,1,2207
+A489417,Fifi,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/27/2007 0:00,517,8/24/2017 12:20,8/27/2017 14:00,517,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A689093,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/7/2014 0:00,3,9/29/2014 13:36,9/29/2014 14:33,3,Female,Intact,Female,Intact,6102 Club Terrace,Austin,TX,1,96
+A690344,Grover,Stray,Normal,Dog,Blue Lacy Mix,Blue,10/18/2013 0:00,162,11/26/2016 12:52,12/20/2016 15:03,165,Male,Neutered,Male,Neutered,8400 Research Blvd,Austin,TX,1,3155
+A695297,Sparkles,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,6/13/2014 0:00,30,1/13/2015 13:37,1/19/2015 17:53,31,Female,Intact,Female,Spayed,1137 Gunter,Austin,TX,1,1132
+A704612,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/27/2015 0:00,1,6/6/2015 18:12,6/6/2015 19:06,1,Unknown,Unknown,Unknown,Unknown,5701 Johnny Morris Rd,Austin,TX,1,90
+A756585,Buddie,Owner Surrender,Normal,Dog,Catahoula Mix,Tan,2/22/2016 0:00,78,8/22/2017 12:36,9/9/2017 17:53,80,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,2151
+A677839,Unknown,Stray,Normal,Other,Lop-English Mix,Chocolate,1/29/2014 0:00,12,4/29/2014 18:38,5/3/2014 8:00,13,Unknown,Unknown,Unknown,Unknown,1500 E Riverside Dr,Austin,TX,1,1181
+A732894,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,7/14/2016 0:00,4,8/14/2016 13:15,8/15/2016 16:27,4,Male,Intact,Male,Intact,2911 Rogge Ln,Austin,TX,1,97
+A698603,Myra,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,3/14/2003 0:00,626,3/14/2015 15:18,3/22/2015 15:22,627,Female,Spayed,Female,Spayed,3808 Maplewood,Austin,TX,1,1101
+A794869,Dillo,Stray,Normal,Dog,Pit Bull,Brown,5/13/2017 0:00,109,6/20/2019 11:25,6/25/2019 16:40,110,Male,Neutered,Male,Neutered,13145 N Us 183,Austin,TX,1,1109
+A742536,Unknown,Stray,Normal,Dog,Boxer Mix,Tan,5/23/2016 0:00,35,1/23/2017 14:18,1/27/2017 17:20,35,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,99
+A712328,Unknown,Stray,Sick,Cat,Domestic Shorthair Mix,Black,9/21/2005 0:00,521,9/21/2015 15:33,9/25/2015 12:15,522,Female,Intact,Female,Intact,4800 Placid Place,Austin,TX,0,1101
+A707444,Unknown,Stray,Normal,Cat,Domestic Longhair Mix,Black Smoke,6/21/2015 0:00,3,7/13/2015 11:48,7/13/2015 13:50,3,Female,Intact,Female,Intact,8225 Sam Rayburn Drive,Austin,TX,1,96
+A750412,Rowena,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Calico,5/26/2016 0:00,52,5/26/2017 18:25,5/27/2017 13:31,52,Female,Intact,Female,Intact,Unknown address,Austin,TX,1,99
+A793376,Owen,Stray,Normal,Dog,Beagle Mix,Tricolor,7/24/2015 0:00,195,4/24/2019 11:26,4/24/2019 17:30,195,Male,Intact,Male,Intact,6104 Seville Drive,Austin,TX,1,99
+A697343,Macy,Stray,Normal,Dog,Yorkshire Terrier Mix,Brown,2/21/2012 0:00,156,2/21/2015 17:11,2/22/2015 11:17,156,Female,Spayed,Female,Spayed,Parmer Lane And Lamplight Village Ave,Austin,TX,1,99
+A785386,Charlie,Stray,Normal,Cat,Domestic Shorthair Mix,White,12/2/2014 0:00,208,12/2/2018 12:12,12/6/2018 16:48,209,Male,Neutered,Male,Neutered,7131 Wood Hollow Drive,Austin,TX,1,1104
+A725733,Madden,Owner Surrender,Normal,Dog,Cocker Spaniel,Buff,5/5/2005 0:00,576,5/20/2016 11:15,5/20/2016 18:55,576,Male,Neutered,Male,Neutered,Unknown address,Outside Jurisdiction,unknown,1,99
+A686386,Shelby,Stray,Normal,Dog,German Shepherd,Brown,10/21/2013 0:00,51,10/17/2014 11:49,10/25/2014 12:36,52,Female,Spayed,Female,Spayed,1500 Alameda Drive,Austin,TX,1,1119
+A684384,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,Brown Tabby,7/8/2014 0:00,2,7/22/2014 18:08,7/22/2014 18:55,2,Female,Intact,Female,Intact,8400 Linden Lp,Travis,TX,1,95
+A769967,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Black,12/13/2017 0:00,17,4/13/2018 13:26,4/17/2018 16:37,17,Female,Intact,Female,Spayed,1515 Wickersham Lane,Austin,TX,1,99
+A770266,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,3/24/2018 0:00,3,4/17/2018 12:09,4/20/2018 6:25,3,Female,Intact,Female,Intact,6201 Sneed Cove,Austin,TX,1,96
+A678314,Peabody,Stray,Normal,Dog,Chihuahua Shorthair Mix,Cream,5/7/2011 0:00,156,5/7/2014 11:51,5/22/2014 11:50,158,Male,Intact,Male,Neutered,3101 Caleb Dr,Austin,TX,1,2125
+A717125,Unknown,Stray,Normal,Other,Rabbit Sh Mix,White,12/2/2013 0:00,104,12/2/2015 15:43,12/6/2015 11:34,104,Unknown,Unknown,Unknown,Unknown,4312 Duval St,Austin,TX,1,99
+A793638,Unknown,Wildlife,Normal,Other,Bat,Black,4/27/2018 0:00,52,4/27/2019 21:18,4/28/2019 10:14,52,Unknown,Unknown,Unknown,Unknown,10701 S Ih 35,Austin,TX,0,99
+A694290,Arielle,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,6/24/2013 0:00,78,12/24/2014 11:14,12/26/2014 11:45,78,Female,Spayed,Female,Spayed,14407 Highsmith,Austin,TX,1,99
+A681488,Root Beer,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/10/2014 0:00,9,6/17/2014 13:58,6/21/2014 19:07,10,Female,Intact,Female,Intact,9940 Wading Pool,Austin,TX,1,1208
+A742060,Muneco,Stray,Normal,Dog,Miniature Poodle Mix,White,1/15/2003 0:00,730,1/14/2017 11:43,1/15/2017 13:51,730,Male,Intact,Male,Intact,W Willaim Cannon Dr And West Gate Blvd,Austin,TX,1,99
+A761436,Finn,Stray,Normal,Cat,Domestic Shorthair Mix,White,10/9/2017 0:00,3,11/4/2017 16:18,12/17/2017 16:35,9,Male,Intact,Male,Intact,2301 Quicksilver,Austin,TX,1,17709
+A742647,Bear,Stray,Normal,Dog,Rottweiler Mix,Black,3/25/2016 0:00,43,1/25/2017 17:21,1/26/2017 13:55,43,Male,Intact,Male,Intact,10203 River Plantation Dr,Austin,TX,1,99
+A634272,Marshall,Public Assist,Normal,Dog,Dachshund,Brown,8/8/2009 0:00,228,12/24/2013 13:37,1/5/2014 15:13,230,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,2117
+A697649,Lily,Stray,Normal,Dog,Rat Terrier,Tricolor,8/25/2013 0:00,78,2/25/2015 18:12,3/7/2015 18:02,79,Female,Intact,Female,Spayed,Wycliff And Everest,Austin,TX,1,1112
+A703736,Violet,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/28/2015 0:00,4,5/28/2015 12:40,8/7/2015 15:43,14,Female,Intact,Female,Spayed,2110 Thrasher Ln,Austin,TX,1,34487
+A721860,Unknown,Stray,Injured,Bird,Parrot,Green,3/6/2011 0:00,261,3/6/2016 10:47,3/10/2016 20:22,261,Unknown,Unknown,Unknown,Unknown,2401 Marcus Abrams,Austin,TX,1,99
+A762982,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,11/7/2017 0:00,3,11/30/2017 18:49,12/31/2017 15:41,7,Female,Intact,Female,Spayed,8213 Sam Rayburn,Austin,TX,1,9258
+A695063,Tiger,Stray,Normal,Dog,Cairn Terrier Mix,Tan,8/8/2014 0:00,21,1/8/2015 13:47,1/12/2015 12:32,22,Male,Intact,Male,Intact,S Interstate 35 Frontage,Austin,TX,1,1146
+A785774,Tina,Stray,Normal,Cat,Domestic Shorthair Mix,Black,12/9/2016 0:00,104,12/9/2018 16:03,7/10/2019 8:25,134,Female,Intact,Female,Spayed,1413 Charolais Drive,Austin,TX,1,38745
+A665127,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Orange Tabby,9/22/2013 0:00,3,10/14/2013 10:45,10/14/2013 12:17,3,Female,Intact,Female,Intact,9110 Us Hwy 183 South,Austin,TX,1,96
+A724938,Unknown,Stray,Nursing,Cat,Domestic Medium Hair Mix,Brown Tabby,4/3/2016 0:00,2,4/23/2016 7:48,4/23/2016 12:30,2,Female,Intact,Female,Intact,2107 Courtney Street,Austin,TX,1,95
+A779408,Ciabatta,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,7/24/2018 0:00,5,8/31/2018 14:01,9/3/2018 10:39,5,Male,Intact,Male,Intact,1054 Springdale Road,Austin,TX,1,98
+A744745,Unknown,Wildlife,Injured,Other,Opossum Mix,White,3/6/2017 0:00,0,3/7/2017 7:52,3/7/2017 10:27,0,Unknown,Unknown,Unknown,Unknown,Red River,Austin,TX,0,0
+A671950,Toto,Owner Surrender,Normal,Dog,Chihuahua Longhair Mix,Tan,2/1/2010 0:00,208,2/1/2014 17:07,2/3/2014 12:26,209,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1104
+A682599,Shiva,Owner Surrender,Normal,Cat,Domestic Longhair,Calico,2/28/2014 0:00,17,6/30/2014 12:09,7/3/2014 18:45,17,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,99
+A696746,Nibbler,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,2/14/2003 0:00,705,8/19/2016 13:36,2/10/2017 8:20,730,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,25986
+A702091,Fiona,Stray,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,4/2/2015 0:00,5,5/9/2015 10:55,6/16/2015 8:39,10,Female,Intact,Female,Spayed,1116 1/2 Gunter St,Austin,TX,1,10000
+A665634,Sydney,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,10/20/2005 0:00,417,10/20/2013 16:01,11/18/2013 16:05,421,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,4138
+A811830,Layla,Stray,Normal,Dog,Basenji,Red,1/10/2019 0:00,52,1/10/2020 12:15,1/19/2020 12:55,53,Female,Intact,Female,Intact,600 Vermont Road,Austin,TX,1,1119
+A804179,Quasimodo,Stray,Normal,Dog,German Shepherd,Black,9/11/2015 0:00,208,9/11/2019 14:36,9/17/2019 12:54,209,Male,Intact,Male,Intact,12555 Harris Branch Parkway,Manor,TX,1,1104
+A764471,Rocky,Stray,Normal,Dog,Labrador Retriever Mix,Black,12/30/2010 0:00,365,12/30/2017 16:03,1/22/2018 16:00,368,Female,Spayed,Female,Spayed,Thompson Lane And Us Highway 183 South,Austin,TX,1,3124
+A757537,Milo,Stray,Normal,Cat,Siamese Mix,Lynx Point,7/20/2017 0:00,6,9/3/2017 16:54,10/1/2017 18:16,10,Male,Intact,Male,Neutered,3102 Robinson Avenue,Austin,TX,1,6721
+A738552,Beatrix,Stray,Normal,Cat,Domestic Shorthair Mix,Black,10/10/2016 0:00,5,11/17/2016 13:10,12/22/2016 13:29,10,Female,Intact,Female,Spayed,1309 Deloney,Austin,TX,1,10000
+A772780,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,White,3/16/2018 0:00,9,5/23/2018 13:55,5/31/2018 16:15,10,Female,Intact,Female,Spayed,224 Dry Creek Rd,Travis,TX,1,1208
+A749630,Bailey,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,3/17/2017 0:00,8,5/17/2017 12:05,5/24/2017 17:06,9,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,1222
+A739822,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,11/22/2016 0:00,2,12/7/2016 15:20,12/7/2016 18:05,2,Unknown,Unknown,Unknown,Unknown,6506 Bolm Rd,Austin,TX,1,95
+A703182,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/8/2015 0:00,1,5/21/2015 13:12,7/12/2015 13:26,9,Female,Intact,Female,Spayed,7711 Mullen,Austin,TX,1,66272
+A694574,Olive Mae,Stray,Normal,Dog,Rat Terrier,White,12/30/2009 0:00,260,12/30/2014 16:37,1/4/2015 17:10,261,Female,Intact,Female,Spayed,Pearce Ln And Ross Rd,Del Valle,TX,1,1103
+A735191,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange,6/20/2016 0:00,13,9/20/2016 12:27,9/21/2016 9:00,13,Male,Intact,Male,Intact,12001 Metric Blvd,Austin,TX,1,99
+A792071,Oscar,Stray,Normal,Dog,Dachshund Mix,Black,4/6/2003 0:00,834,4/5/2019 12:06,4/6/2019 11:25,834,Male,Neutered,Male,Neutered,West Cesar Chavez,Austin,TX,1,99
+A793283,Riley,Owner Surrender,Normal,Dog,Siberian Husky Mix,Buff,1/22/2019 0:00,12,4/22/2019 17:16,4/23/2019 17:19,13,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1181
+A725503,Arnie,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Blue,11/29/2014 0:00,76,5/18/2016 15:08,7/1/2016 15:40,82,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,6572
+A796220,Unknown,Stray,Sick,Dog,Great Pyrenees,White,3/2/2019 0:00,12,5/30/2019 12:47,5/31/2019 11:43,12,Male,Intact,Male,Intact,16800 Fagerquist Drive,Travis,TX,0,99
+A712914,Unknown,Wildlife,Sick,Other,Bat Mix,Brown,9/30/2014 0:00,52,9/30/2015 0:17,9/30/2015 7:59,52,Unknown,Unknown,Unknown,Unknown,412 Congress,Austin,TX,0,99
+A681969,Hank,Stray,Normal,Dog,Australian Cattle Dog Mix,White,6/18/2014 0:00,0,6/22/2014 10:47,8/13/2014 16:50,8,Male,Intact,Male,Neutered,912 U.S. 183,Austin,TX,1,647999
+A680255,Carlo,Stray,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,5/1/2014 0:00,4,5/31/2014 13:53,7/12/2014 20:48,10,Male,Intact,Male,Neutered,9205 North Dr,Austin,TX,1,14878
+A791068,Unknown,Wildlife,Sick,Other,Bat Mix,Black,3/21/2018 0:00,52,3/21/2019 8:08,3/21/2019 11:33,52,Unknown,Unknown,Unknown,Unknown,714 E 8Th St,Austin,TX,0,99
+A782932,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,10/23/2016 0:00,104,10/23/2018 12:55,10/25/2018 14:04,104,Female,Spayed,Female,Spayed,Circle S Road And East William Cannon Drive,Austin,TX,1,99
+A767747,Kona,Stray,Normal,Dog,Labrador Retriever,Black,3/3/2018 0:00,0,3/6/2018 8:59,5/22/2018 11:54,11,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,1220999
+A788795,Sophie,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,2/10/2002 0:00,886,2/9/2019 11:36,3/3/2019 18:03,890,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,4118
+A746289,Unknown,Stray,Nursing,Cat,Domestic Longhair Mix,Black,3/3/2017 0:00,4,3/31/2017 8:43,3/31/2017 11:56,4,Male,Intact,Male,Intact,Cameron Rd & 52Nd,Austin,TX,1,97
+A702959,Bubu,Public Assist,Normal,Dog,Shih Tzu Mix,Gray,12/22/2013 0:00,74,5/26/2015 16:38,5/27/2015 18:50,74,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A770696,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,10/23/2017 0:00,26,4/23/2018 18:58,4/29/2018 15:00,26,Female,Intact,Female,Intact,10507 Mellow Meadows,Austin,TX,1,99
+A689398,Buster,Stray,Normal,Dog,American Bulldog Mix,Black,10/3/2012 0:00,104,10/3/2014 14:58,12/6/2014 17:02,113,Male,Intact,Male,Neutered,Skyway Cir And Barton Skyway,Austin,TX,1,9878
+A753586,Cheyenne,Stray,Normal,Dog,Pit Bull Mix,Brown,7/8/2015 0:00,104,7/8/2017 13:36,9/13/2017 18:36,114,Female,Intact,Female,Spayed,124 West Anderson Lane,Austin,TX,1,11060
+A718415,Sandra,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,12/29/2012 0:00,156,12/29/2015 14:51,1/3/2016 16:50,157,Female,Spayed,Female,Spayed,1156 W Cesar Chavez,Austin,TX,1,1106
+A758115,Rose,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,6/12/2017 0:00,16,10/3/2017 19:07,10/7/2017 15:46,16,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A751143,Tejon,Stray,Normal,Dog,German Shepherd,Black,6/4/2014 0:00,156,6/4/2017 14:14,6/5/2017 17:26,156,Male,Intact,Male,Intact,5625 Abby Anne,Austin,TX,1,99
+A689451,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,White,10/4/2012 0:00,104,10/4/2014 11:34,10/5/2014 9:00,104,Female,Intact,Female,Intact,2329 Benridge Trl,Austin,TX,1,99
+A699538,Donaghue,Stray,Normal,Dog,Chihuahua Shorthair Mix,Red,3/29/2013 0:00,105,4/4/2015 11:35,4/15/2015 18:39,106,Male,Neutered,Male,Neutered,1200 Barton Hills Dr,Austin,TX,1,1109
+A673275,Prince,Stray,Normal,Dog,Pit Bull Mix,Blue Tiger,2/21/2011 0:00,156,2/21/2014 12:22,3/19/2014 15:17,160,Male,Intact,Male,Intact,9308 N Lamar,Austin,TX,0,4202
+A794115,Paco,Stray,Normal,Dog,Rat Terrier Mix,Tan,5/4/2005 0:00,730,5/4/2019 11:30,5/4/2019 12:54,730,Male,Intact,Male,Intact,East Rundberg And Payton Gin,Austin,TX,1,99
+A758424,Beautiful,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/16/2010 0:00,365,9/16/2017 14:57,11/8/2017 17:07,372,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,7234
+A560071,Tortie,Stray,Sick,Cat,Domestic Shorthair Mix,Tortie,11/2/2008 0:00,493,4/20/2018 7:54,4/20/2018 16:52,493,Female,Spayed,Female,Spayed,7239 Coronado Circle,Austin,TX,1,99
+A642201,Sam,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,9/4/2012 0:00,84,4/15/2014 18:07,11/22/2014 13:01,115,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,42526
+A801802,Unknown,Stray,Normal,Cat,Domestic Shorthair,Tortie,8/9/2018 0:00,52,8/9/2019 12:21,8/12/2019 0:00,52,Female,Intact,Female,Intact,621 River Oaks Drive,Austin,TX,1,99
+A752545,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/8/2017 0:00,10,6/23/2017 15:33,7/1/2017 19:30,12,Male,Intact,Male,Neutered,14813 Vevey Dr,Austin,TX,1,2495
+A712237,Donna,Stray,Normal,Cat,Domestic Shorthair Mix,Black,8/4/2015 0:00,6,9/19/2015 14:31,10/16/2015 17:39,10,Male,Intact,Male,Neutered,6808 S Ih35,Austin,TX,1,6721
+A748749,Rainy,Stray,Nursing,Cat,Domestic Shorthair Mix,Calico,5/6/2016 0:00,52,5/6/2017 15:11,9/1/2017 15:45,69,Female,Intact,Female,Spayed,1834 Ferguson,Austin,TX,1,22646
+A676565,Lady,Stray,Injured,Dog,Chihuahua Shorthair Mix,Cream,4/11/2011 0:00,156,4/11/2014 17:59,4/19/2014 11:44,157,Female,Intact,Female,Spayed,5405 Village Ln,Austin,TX,1,1106
+A682629,Speedy,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Brown,12/30/2007 0:00,339,6/30/2014 17:00,7/4/2014 13:26,339,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A669508,Tilly,Owner Surrender,Normal,Dog,Affenpinscher Mix,Black,12/21/2010 0:00,156,12/21/2013 17:02,12/23/2013 18:24,156,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,99
+A667349,Unknown,Stray,Normal,Other,Rabbit Sh Mix,Brown,10/16/2013 0:00,4,11/16/2013 13:40,11/17/2013 11:49,4,Unknown,Unknown,Unknown,Unknown,7301 Buttonbush Dr,Austin,TX,1,97
+A741428,Cosmeaux,Stray,Normal,Dog,Labrador Retriever Mix,Brown,1/2/2016 0:00,52,1/2/2017 11:45,1/9/2017 17:23,53,Male,Intact,Male,Neutered,8207 Canoga Ave,Travis,TX,1,1119
+A809376,Pippa,Stray,Normal,Dog,American Pit Bull Terrier Mix,White,11/23/2018 0:00,52,11/23/2019 13:18,11/30/2019 16:18,53,Female,Intact,Female,Spayed,8300 Bluff Springs,Travis,TX,1,1119
+A768356,Unknown,Wildlife,Feral,Other,Bat Mix,Brown,3/17/2017 0:00,52,3/17/2018 16:05,3/17/2018 16:43,52,Unknown,Unknown,Unknown,Unknown,74 Trinity St,Austin,TX,0,99
+A726312,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,4/19/2016 0:00,2,5/9/2016 14:34,5/9/2016 18:59,2,Unknown,Unknown,Unknown,Unknown,125 Stork Rd,Austin,TX,1,95
+A696397,Peanut,Stray,Normal,Dog,Labrador Retriever Mix,Brown Brindle,12/4/2014 0:00,8,2/4/2015 12:15,2/8/2015 18:16,9,Male,Intact,Male,Neutered,8501 Yaupon Springs,Travis,TX,1,1222
+A702109,Unknown,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,3/9/2015 0:00,8,5/9/2015 12:57,5/11/2015 17:56,9,Male,Intact,Male,Neutered,512 Evans Ave,Austin,TX,1,1222
+A750069,Q,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,5/1/2017 0:00,3,5/23/2017 12:27,6/29/2017 16:56,8,Male,Intact,Male,Neutered,3300 Killingsworth Ln,Pflugerville,TX,1,13161
+A781608,Bertie,Stray,Normal,Cat,Domestic Medium Hair Mix,Brown Tabby,10/2/2017 0:00,52,10/2/2018 13:11,1/7/2019 18:03,66,Female,Intact,Female,Spayed,5516 Spring Meadow Road,Austin,TX,1,17861
+A736928,Hank,Stray,Normal,Dog,Labrador Retriever,Yellow,10/19/2015 0:00,52,10/19/2016 13:29,10/20/2016 11:30,52,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,99
+A727507,Alien,Stray,Normal,Dog,Lhasa Apso,White,5/22/2014 0:00,104,5/22/2016 17:00,5/23/2016 11:20,104,Male,Intact,Male,Intact,Riverside And Pleasant Valley,Austin,TX,1,99
+A724003,Marisol,Stray,Normal,Dog,Labrador Retriever Mix,Black,4/10/2015 0:00,52,4/10/2016 13:26,4/17/2016 14:58,53,Female,Intact,Female,Spayed,Rundberg And Parkfield,Austin,TX,1,1119
+A801946,Patches,Owner Surrender,Normal,Cat,Domestic Shorthair,Calico,11/8/2005 0:00,727,10/15/2019 12:52,11/3/2019 18:12,729,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2105
+A701158,Unknown,Stray,Normal,Cat,Siamese Mix,Lynx Point,4/9/2015 0:00,2,4/24/2015 15:00,4/24/2015 15:54,2,Male,Intact,Male,Intact,71 & Tx 45,Austin,TX,1,95
+A697439,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,8/23/2014 0:00,26,2/23/2015 17:38,2/24/2015 8:41,26,Unknown,Unknown,Unknown,Unknown,11400 Concordia University Dr.,Austin,TX,0,99
+A675247,Unknown,Owner Surrender,Sick,Other,Rex Mix,White,3/25/2012 0:00,104,3/25/2014 14:47,3/25/2014 17:29,104,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,99
+A701956,Davis,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/6/2014 0:00,43,7/10/2015 11:41,10/18/2015 17:07,58,Female,Spayed,Female,Spayed,12203 B Alderbrook Drive,Austin,TX,1,20320
+A723349,Bertie,Stray,Normal,Dog,Great Pyrenees Mix,White,10/30/2014 0:00,73,3/30/2016 13:40,4/3/2016 17:53,74,Male,Intact,Male,Neutered,7313 Colony Park,Austin,TX,1,1113
+A753331,Gabe,Stray,Normal,Dog,Pit Bull Mix,Blue,11/5/2016 0:00,34,7/4/2017 19:11,7/12/2017 11:58,35,Male,Intact,Male,Intact,12409 Drummond Dr,Travis,TX,1,1129
+A726562,Little Hero,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Blue,2/21/2007 0:00,481,5/12/2016 12:01,6/25/2016 19:05,487,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,6174
+A754713,Unknown,Wildlife,Injured,Other,Raccoon,Gray,7/23/2016 0:00,52,7/23/2017 14:30,7/23/2017 14:36,52,Unknown,Unknown,Unknown,Unknown,903 Wayside Dr,Austin,TX,0,99
+A728346,Jaxs,Owner Surrender,Normal,Dog,Boxer,Brown Brindle,11/2/2015 0:00,30,6/2/2016 15:46,6/25/2016 15:18,33,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,3398
+A737558,Monkey,Stray,Normal,Dog,Yorkshire Terrier,Tricolor,10/31/2015 0:00,52,10/31/2016 15:53,11/3/2016 12:48,52,Male,Intact,Male,Intact,7201 Levander Loop,Austin,TX,1,99
+A806381,Unknown,Stray,Normal,Dog,Siberian Husky,Black,10/9/2016 0:00,156,10/9/2019 18:24,10/15/2019 15:58,157,Male,Intact,Male,Neutered,2306 West Howard Lane,Austin,TX,1,1106
+A805967,Opus,Owner Surrender,Normal,Cat,Domestic Shorthair,Black,7/20/2019 0:00,10,10/4/2019 14:07,1/12/2020 18:14,25,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,37376
+A750272,Unknown,Wildlife,Normal,Other,Bat,Brown,5/25/2015 0:00,104,5/25/2017 9:41,5/25/2017 9:58,104,Unknown,Unknown,Unknown,Unknown,701 W Riverside Drive,Austin,TX,0,99
+A718565,Mancho,Stray,Normal,Dog,Chihuahua Shorthair Mix,Red,1/2/2008 0:00,417,1/2/2016 12:04,1/2/2016 15:01,417,Male,Neutered,Male,Neutered,Dexford Dr,Austin,TX,1,99
+A667557,Scotch,Owner Surrender,Normal,Dog,Cardigan Welsh Corgi Mix,Tricolor,11/19/2006 0:00,365,11/19/2013 18:40,11/23/2013 11:06,365,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A693857,Maybelle,Stray,Normal,Cat,Domestic Shorthair Mix,Black,12/15/2004 0:00,521,12/15/2014 17:17,12/22/2014 15:23,522,Female,Intact,Female,Intact,7918 El Dorado Dr,Austin,TX,1,1101
+A626165,Dorian,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,5/11/2012 0:00,77,11/4/2013 13:02,12/23/2013 18:50,84,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,7735
+A765556,Unknown,Owner Surrender,Normal,Dog,Chihuahua Shorthair,Brown,11/30/2017 0:00,7,1/22/2018 16:16,1/25/2018 17:14,8,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,1239
+A743064,Coco,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,2/3/2014 0:00,156,2/3/2017 12:06,2/27/2017 12:30,160,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,4202
+A749536,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,5/16/2012 0:00,260,5/16/2017 11:42,5/22/2017 15:15,261,Female,Intact,Female,Spayed,Del Curto Rd & Cinnamon Path,Austin,TX,1,1103
+A780044,Galaxy,Public Assist,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/9/2017 0:00,52,9/9/2018 9:36,9/19/2018 12:48,53,Male,Neutered,Male,Neutered,7809 Woodrow Ave,Austin,TX,1,1119
+A758922,Unknown,Stray,Normal,Cat,Domestic Medium Hair,Tortie,7/24/2017 0:00,8,9/24/2017 7:53,9/29/2017 11:59,9,Female,Intact,Female,Spayed,Wolf Lane,Austin,TX,1,1222
+A766638,Nubbs,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,11/13/2017 0:00,13,2/13/2018 12:04,2/14/2018 18:32,13,Female,Intact,Female,Spayed,Unknown address,Del Valle,TX,1,99
+A779797,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/5/2018 0:00,17,9/5/2018 0:00,9/5/2018 16:48,17,Male,Intact,Male,Intact,6403 Johnny Morris Road,Austin,TX,0,99
+A800791,Max,Stray,Normal,Dog,Pit Bull,Brown,7/26/2017 0:00,104,7/26/2019 16:17,7/29/2019 18:07,104,Male,Intact,Male,Intact,E Riverside Dr And Parker Ln,Austin,TX,1,99
+A805611,Pork Chop,Owner Surrender,Normal,Dog,Labrador Retriever,Black,9/28/2019 0:00,0,9/29/2019 13:05,12/1/2019 11:34,9,Female,Intact,Female,Spayed,5804 Burleson Road,Austin,TX,1,818999
+A702769,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/25/2015 0:00,3,5/17/2015 14:38,5/17/2015 18:48,3,Female,Intact,Female,Intact,6909 Shannon Drive,Austin,TX,1,96
+A690036,Flo,Stray,Normal,Dog,Boxer,Tan,4/13/2014 0:00,26,10/13/2014 13:39,10/17/2014 16:59,26,Female,Intact,Female,Intact,13600 Clara Martin Dr.,Manor,TX,1,99
+A699832,Itsy Bitsy,Public Assist,Other,Dog,Shih Tzu,Black,4/3/2005 0:00,522,4/8/2015 19:56,4/9/2015 15:30,522,Male,Neutered,Male,Neutered,5200 Knight Cir,Austin,TX,1,99
+A717798,Amber,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,7/15/2015 0:00,21,12/15/2015 15:08,12/26/2015 14:40,23,Female,Spayed,Female,Spayed,7404 Crepe Myrtle Dr,Austin,TX,1,2289
+A709991,Fanchon,Stray,Normal,Cat,Domestic Shorthair Mix,White,6/15/2015 0:00,8,8/15/2015 14:08,8/26/2015 13:15,10,Female,Intact,Female,Intact,1100 Debco Ln,Travis,TX,1,2592
+A744222,Maya,Stray,Normal,Dog,Labrador Retriever,Red,6/10/2013 0:00,193,2/25/2017 13:30,2/25/2017 16:52,193,Female,Spayed,Female,Spayed,Mosley And Amherst Dr,Austin,TX,1,99
+A777955,Habanero,Owner Surrender,Normal,Dog,Pointer,Sable,6/10/2018 0:00,8,8/6/2018 8:06,8/21/2018 16:50,10,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,2592
+A800992,Waddles,Stray,Normal,Dog,Australian Cattle Dog Mix,Brown,11/29/2010 0:00,452,7/29/2019 17:06,8/2/2019 18:09,452,Male,Neutered,Male,Neutered,Santana Street,Travis,TX,1,99
+A670260,Unknown,Owner Surrender,Normal,Dog,Chow Chow Mix,Red,1/4/2002 0:00,626,1/4/2014 13:24,1/4/2014 17:52,626,Female,Intact,Female,Intact,Unknown address,Austin,TX,0,99
+A782119,Charley,Stray,Normal,Dog,Labrador Retriever Mix,Brown,7/17/2018 0:00,12,10/10/2018 16:15,10/17/2018 16:51,13,Male,Intact,Male,Neutered,1200 East Rundberg,Austin,TX,1,1181
+A802492,Zoey,Stray,Normal,Dog,Catahoula,Brown,8/20/2018 0:00,52,8/19/2019 10:09,8/20/2019 15:52,52,Female,Intact,Female,Intact,Duty St,Travis,TX,1,99
+A791689,Tobias,Public Assist,Normal,Cat,Domestic Shorthair Mix,Black,3/30/2012 0:00,365,3/30/2019 12:47,4/9/2019 12:59,366,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1102
+A705523,Buddy,Public Assist,Normal,Dog,Labrador Retriever,Tan,6/18/2008 0:00,365,6/18/2015 14:12,6/22/2015 19:05,365,Male,Neutered,Male,Neutered,506 S Pacebend,Travis,TX,1,99
+A722043,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,3/9/2015 0:00,52,3/9/2016 18:08,3/10/2016 8:37,52,Unknown,Unknown,Unknown,Unknown,11000 Middle Fiskville Rd,Austin,TX,0,99
+A759906,Andy,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,White,10/9/2015 0:00,108,11/7/2017 12:35,11/25/2017 15:20,111,Male,Neutered,Male,Neutered,Unknown address,Manor,TX,1,3183
+A798287,Eleanor,Stray,Normal,Dog,Siberian Husky,Gray,6/24/2018 0:00,52,6/24/2019 11:16,6/29/2019 13:56,52,Female,Intact,Female,Intact,5400 East Highway 71,Travis,TX,1,99
+A783266,Jellybean,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/28/2018 0:00,26,10/28/2018 11:11,11/9/2018 17:30,27,Female,Intact,Female,Spayed,15525 Fm 969,Austin,TX,1,1137
+A706169,Panda,Stray,Normal,Dog,Chihuahua Shorthair Mix,White,6/25/2009 0:00,313,6/25/2015 16:35,6/25/2015 18:26,313,Male,Neutered,Male,Neutered,3209 E 17Th St,Austin,TX,1,99
+A798706,Lola,Owner Surrender,Normal,Dog,Chihuahua Shorthair,Brown,6/29/2017 0:00,104,6/29/2019 14:00,6/29/2019 17:59,104,Female,Spayed,Female,Spayed,Unknown address,Travis,TX,1,99
+A688854,Unknown,Stray,Normal,Dog,English Bulldog Mix,Black Brindle,9/25/2011 0:00,156,9/25/2014 14:08,10/1/2014 16:32,157,Female,Intact,Female,Intact,1901 Montopolis Dr,Austin,TX,1,1106
+A676794,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,4/12/2014 0:00,0,4/15/2014 12:32,4/19/2014 13:15,1,Female,Intact,Female,Intact,5808 Mckinney Falls Pkwy,Austin,TX,0,11000
+A778151,Kid,Stray,Normal,Dog,Pit Bull,Fawn,8/9/2015 0:00,156,8/9/2018 11:33,4/12/2019 18:44,191,Male,Neutered,Male,Neutered,100 Sheraton Avenue,Austin,TX,1,42947
+A738498,Unknown,Stray,Normal,Cat,Domestic Longhair Mix,Brown Tabby,10/16/2016 0:00,4,11/16/2016 13:27,1/19/2017 14:36,13,Male,Intact,Male,Neutered,3700 Rach Creek Drive,Austin,TX,1,28853
+A727533,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Brown,3/8/2016 0:00,10,5/23/2016 10:44,5/28/2016 12:46,11,Male,Intact,Male,Neutered,4800 Manor Rd,Austin,TX,1,1198
+A513956,Sweetie,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Brown,4/21/2008 0:00,477,6/14/2017 11:54,6/17/2017 11:27,477,Female,Spayed,Female,Spayed,5604 Southwest Parkway,Austin,TX,1,99
+A709237,Lucy,Stray,Normal,Cat,Siamese Mix,Seal Point,6/21/2015 0:00,6,8/6/2015 12:39,8/19/2015 8:33,8,Female,Intact,Female,Intact,2600 Willow St,Austin,TX,1,2754
+A699931,Missy,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,4/4/2005 0:00,529,5/30/2015 14:32,7/7/2015 7:28,535,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,6168
+A803149,Birch,Stray,Normal,Cat,Domestic Shorthair,Brown Tabby,8/8/2019 0:00,2,8/28/2019 11:05,8/31/2019 16:26,3,Male,Intact,Male,Intact,2607 Garrettson Drive,Austin,TX,1,1571
+A679412,Marybell,Stray,Normal,Dog,Pit Bull Mix,White,5/20/2011 0:00,156,5/20/2014 17:17,6/17/2014 13:46,160,Female,Intact,Female,Intact,Thomson & Hwy 183,Austin,TX,1,4202
+A593827,Momo,Public Assist,Normal,Dog,Labrador Retriever,Black,11/22/2010 0:00,355,9/15/2017 11:08,9/23/2017 11:50,356,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1102
+A807411,Unknown,Stray,Nursing,Dog,Great Pyrenees,Brown,10/17/2019 0:00,1,10/24/2019 14:19,10/26/2019 15:41,1,Unknown,Unknown,Unknown,Unknown,14620 Plover Place,Travis,TX,1,90
+A756945,Pepper,Public Assist,Normal,Dog,Border Collie Mix,Tricolor,8/28/2008 0:00,469,8/29/2017 12:56,9/8/2017 11:56,471,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2108
+A721667,Chita,Euthanasia Request,Injured,Dog,Chihuahua Shorthair Mix,Black,3/2/1999 0:00,887,3/2/2016 8:37,3/2/2016 14:14,887,Female,Intact,Female,Intact,5212 St Georges Green,Austin,TX,0,99
+A690188,Snakes,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,8/21/2014 0:00,220,11/11/2018 13:24,11/12/2018 11:45,220,Male,Neutered,Male,Neutered,Parkfield Drive And Kramer Lane,Austin,TX,1,99
+A489686,Juan,Stray,Normal,Dog,Chihuahua Shorthair,Tan,10/16/2002 0:00,680,11/1/2015 11:47,11/1/2015 14:43,680,Male,Neutered,Male,Neutered,Mt Vernon Dr And Green Forest Dr,Austin,TX,1,99
+A780268,Drake,Stray,Normal,Dog,Pit Bull Mix,Brown,9/12/2015 0:00,156,9/12/2018 12:11,12/20/2018 18:30,170,Male,Intact,Male,Neutered,5106 Village Square,Austin,TX,1,15355
+A716965,Biscuit,Stray,Normal,Dog,Dachshund Mix,Black,11/29/2014 0:00,52,11/29/2015 16:20,12/6/2015 16:30,53,Male,Intact,Male,Neutered,Woodward St And Willowrun Dr,Austin,TX,1,1119
+A746326,Whitey,Stray,Injured,Dog,Chihuahua Shorthair Mix,White,3/31/2012 0:00,260,3/31/2017 15:30,4/5/2017 18:43,261,Male,Intact,Male,Neutered,1804 Holly Street,Austin,TX,1,1103
+A624949,Axle,Owner Surrender,Normal,Dog,German Shepherd Mix,Black,9/1/2010 0:00,189,4/18/2014 16:11,4/30/2014 16:25,191,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,0,2121
+A797267,Osa,Owner Surrender,Normal,Cat,Domestic Medium Hair,Black,6/11/2013 0:00,329,10/3/2019 13:38,10/19/2019 12:24,331,Female,Spayed,Female,Spayed,Unknown address,Travis,TX,1,2112
+A759713,Myrtle,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,8/6/2017 0:00,8,10/6/2017 12:50,10/10/2017 18:57,9,Female,Intact,Female,Intact,Chaparral Road And Circle S,Austin,TX,1,1222
+A790842,Unknown,Wildlife,Sick,Other,Bat Mix,Black,3/17/2017 0:00,104,3/17/2019 15:15,3/17/2019 16:04,104,Unknown,Unknown,Unknown,Unknown,1902 Pinon Hills Ct,Travis,TX,0,99
+A750738,Puma,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,5/31/2016 0:00,52,5/31/2017 10:59,6/22/2017 14:21,55,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,3272
+A772428,Sampson,Stray,Normal,Dog,Boxer,Brown,5/19/2016 0:00,104,5/19/2018 14:44,6/2/2018 16:58,106,Male,Intact,Male,Neutered,1104 Mansell Avenue,Austin,TX,1,2138
+A808799,Unknown,Stray,Nursing,Dog,Chihuahua Shorthair,Black,9/14/2019 0:00,8,11/13/2019 18:36,11/17/2019 17:28,9,Male,Intact,Male,Neutered,Bluebell Circle And Marigold Terrace,Austin,TX,1,1222
+A793396,Piki,Stray,Normal,Dog,Staffordshire Mix,Blue,4/24/2018 0:00,61,6/26/2019 9:46,6/26/2019 18:48,61,Male,Intact,Male,Intact,Kramer Lane And Macmora Road,Austin,TX,1,99
+A670923,Kayna,Stray,Normal,Dog,Pit Bull Mix,Brown Brindle,3/22/2012 0:00,95,1/16/2014 7:29,2/6/2014 14:01,98,Female,Intact,Female,Spayed,7201 Levander,Austin,TX,0,3194
+A618663,Bailey,Owner Surrender,Normal,Dog,Whippet Mix,Brown,1/17/2011 0:00,236,8/1/2015 13:18,8/18/2015 13:40,239,Male,Neutered,Male,Neutered,Unknown address,Travis,TX,1,3138
+A712868,Cecil,Stray,Normal,Dog,Chihuahua Shorthair,Sable,9/29/2013 0:00,104,9/29/2015 12:42,10/5/2015 16:34,105,Male,Intact,Male,Neutered,10015 Lake Creek Pkwy,Austin,TX,1,1109
+A760797,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Gray,10/24/2016 0:00,52,10/24/2017 11:39,10/27/2017 19:44,52,Female,Intact,Female,Intact,3520 Victorine Lane,Del Valle,TX,1,99
+A807219,Unknown,Stray,Normal,Dog,Whippet Mix,White,3/22/2019 0:00,30,10/22/2019 12:31,10/26/2019 16:44,31,Male,Intact,Male,Neutered,Cameron,Austin,TX,1,1132
+A766914,Panther,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,4/19/2017 0:00,49,4/1/2018 11:56,4/7/2018 13:57,50,Male,Neutered,Male,Neutered,Unknown address,Lakeway,TX,1,1120
+A726123,Bailey,Stray,Normal,Dog,Labrador Retriever Mix,White,2/7/2016 0:00,12,5/6/2016 16:20,5/10/2016 17:52,13,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,1181
+A768644,Carlisle,Owner Surrender,Normal,Dog,Pomeranian Mix,Brown,3/23/2008 0:00,522,3/28/2018 16:15,4/16/2018 18:01,525,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,3117
+A803005,Bacon,Stray,Normal,Cat,Domestic Shorthair,Orange Tabby,7/14/2019 0:00,6,8/26/2019 11:33,10/4/2019 17:12,11,Male,Intact,Male,Neutered,18721 Waltz Court,Austin,TX,1,9196
+A555168,Lulu,Stray,Normal,Dog,Miniature Schnauzer,Black,9/11/2007 0:00,545,2/26/2018 13:12,2/27/2018 18:52,546,Female,Spayed,Female,Spayed,Parkfield Drive And Woodfield,Austin,TX,1,1101
+A758049,Barney,Stray,Normal,Cat,Domestic Shorthair Mix,White,8/19/2017 0:00,3,9/10/2017 15:15,11/15/2017 16:58,12,Male,Intact,Male,Neutered,1301 West Oltorf,Austin,TX,1,35225
+A678815,Joli,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/6/2014 0:00,5,5/13/2014 11:05,6/19/2014 16:35,10,Female,Intact,Female,Spayed,14811 Bescott,Austin,TX,1,10000
+A777044,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/22/2017 0:00,52,7/22/2018 15:12,7/25/2018 15:09,52,Female,Intact,Female,Intact,2411 Lakehurst Drive,Austin,TX,1,99
+A667251,Delilah,Owner Surrender,Normal,Dog,Pit Bull,Black,11/15/2011 0:00,148,9/19/2014 17:18,11/22/2014 18:13,157,Female,Intact,Female,Spayed,Unknown address,Austin,TX,0,9646
+A775200,Unknown,Stray,Normal,Dog,Miniature Poodle,White,6/26/2017 0:00,52,6/26/2018 11:30,7/2/2018 12:34,53,Female,Spayed,Female,Spayed,4013 Canyon Glen Circle,Austin,TX,1,1119
+A718004,Mufasa,Stray,Normal,Dog,Great Dane Mix,Brown,12/19/2013 0:00,104,12/19/2015 12:35,12/24/2015 17:00,105,Male,Intact,Male,Neutered,Thaxton Rd And Sassmon Rd,Austin,TX,1,1109
+A767976,Lucille,Stray,Normal,Dog,Pit Bull Mix,Brown,11/10/2017 0:00,17,3/10/2018 13:30,3/12/2018 18:22,17,Female,Intact,Female,Intact,Interstate 35 And Martin Luther King Boulevard,Austin,TX,1,99
+A740449,Harry,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,12/17/2013 0:00,156,12/17/2016 13:03,1/31/2017 12:24,163,Unknown,Unknown,Unknown,Unknown,Unknown address,Austin,TX,1,7413
+A678604,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Buff,5/10/2012 0:00,104,5/10/2014 16:14,5/24/2014 15:31,106,Male,Intact,Male,Intact,407 Cooper Dr,Austin,TX,1,2138
+A735736,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,White,11/28/2015 0:00,43,9/28/2016 12:34,10/4/2016 17:03,44,Male,Intact,Male,Neutered,6600 Elm Creek,Austin,TX,1,1122
+A711492,Unknown,Stray,Normal,Dog,Plott Hound Mix,White,7/23/2015 0:00,6,9/7/2015 14:26,9/19/2015 13:06,8,Female,Intact,Female,Spayed,973 & 183,Travis,TX,1,2754
+A771391,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,4/24/2018 0:00,1,5/4/2018 12:09,5/4/2018 15:35,1,Unknown,Unknown,Unknown,Unknown,1925 Rutland Drive,Austin,TX,1,90
+A766589,Unknown,Stray,Sick,Cat,Domestic Longhair Mix,Black,2/12/2017 0:00,52,2/12/2018 13:07,2/14/2018 0:00,52,Male,Intact,Male,Intact,17141 Rocky Ridge Road,Travis,TX,1,99
+A768430,Unknown,Wildlife,Sick,Other,Skunk Mix,Black,3/19/2016 0:00,104,3/19/2018 13:46,3/19/2018 14:39,104,Unknown,Unknown,Unknown,Unknown,Penelope Circle And Dk Ranch Road,Austin,TX,0,99
+A659836,Thelma,Stray,Normal,Dog,Labrador Retriever,Black,7/23/2013 0:00,11,10/11/2013 10:10,5/13/2014 11:57,42,Female,Spayed,Female,Spayed,Lago Vista/Jonestown,Jonestown,TX,1,117675
+A771933,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,White,5/12/2016 0:00,104,5/12/2018 12:09,5/12/2018 15:06,104,Male,Intact,Male,Intact,Romeria Dr And N Lamar Blvd,Austin,TX,0,99
+A779210,Frank,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,7/28/2018 0:00,4,8/27/2018 18:01,12/15/2018 13:06,20,Male,Intact,Male,Neutered,1300 South Pleasant Valley Road,Austin,TX,1,78536
+A723907,Wenonah,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,4/8/2012 0:00,208,4/8/2016 16:37,6/10/2016 12:57,217,Female,Spayed,Female,Spayed,Mlk & San Jacinto Blvd,Austin,TX,1,9489
+A714919,Romulus,Owner Surrender,Normal,Cat,Siamese Mix,Lilac Point,9/13/2015 0:00,6,10/29/2015 14:58,11/19/2015 18:02,9,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,4573
+A754257,Chico,Stray,Normal,Dog,Chihuahua Shorthair Mix,Tan,7/18/2015 0:00,104,7/18/2017 10:59,7/22/2017 12:44,105,Male,Neutered,Male,Neutered,2305 Burleson Rd,Austin,TX,1,1109
+A697190,Wiggins,Stray,Normal,Dog,Australian Cattle Dog,White,2/19/2013 0:00,104,2/19/2015 13:17,2/24/2015 13:40,105,Male,Intact,Male,Intact,4908E Yager Ln,Travis,TX,1,1109
+A729315,Abby,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Tricolor,1/16/2010 0:00,334,6/16/2016 11:03,6/20/2016 0:00,335,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1102
+A712276,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/20/2012 0:00,156,9/20/2015 12:28,10/4/2015 15:02,158,Female,Intact,Female,Intact,7604 Lazy River Cv,Austin,TX,1,2125
+A728522,Shirley,Owner Surrender,Normal,Dog,Australian Cattle Dog Mix,White,6/5/2014 0:00,111,7/23/2016 16:14,10/18/2016 16:09,123,Female,Spayed,Female,Spayed,Unknown address,Hays,TX,1,13396
+A697276,Troy,Stray,Normal,Dog,Queensland Heeler Mix,Blue Tick,2/21/2006 0:00,469,2/20/2015 17:22,2/21/2015 11:25,469,Male,Intact,Male,Intact,6504 Bridge Point Pwky,Austin,TX,1,99
+A771739,Teddy,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,4/13/2018 0:00,3,5/8/2018 11:22,6/23/2018 19:00,10,Male,Intact,Male,Neutered,17305 Pearce Lane,Del Valle,TX,1,22903
+A751862,Wayne,Owner Surrender,Normal,Dog,Pit Bull Mix,Red,9/14/2016 0:00,39,6/14/2017 11:20,6/23/2017 12:41,40,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,1125
+A797934,Unknown,Wildlife,Normal,Other,Bat,Brown,6/19/2018 0:00,52,6/19/2019 14:05,6/20/2019 8:06,52,Unknown,Unknown,Unknown,Unknown,12109 Musket Rim,Austin,TX,0,99
+A307592,Arthur,Owner Surrender,Normal,Cat,Domestic Longhair Mix,Orange Tabby,5/23/2002 0:00,626,5/24/2014 11:22,6/14/2014 15:15,629,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,3114
+A759343,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,12/30/2016 0:00,39,9/30/2017 16:58,10/5/2017 17:44,39,Female,Intact,Female,Intact,2303 Alta Vista,Austin,TX,1,99
+A698567,Eve,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Brown,3/23/2006 0:00,493,9/5/2015 14:21,9/13/2015 16:51,494,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1102
+A742879,Unknown,Stray,Injured,Cat,Domestic Longhair Mix,Black,1/30/2014 0:00,156,1/30/2017 11:12,2/3/2017 15:23,157,Male,Neutered,Male,Neutered,1515 Wickersham Lane,Austin,TX,1,1106
+A679631,Callie,Owner Surrender,Normal,Cat,Domestic Longhair Mix,Tortie,5/24/2002 0:00,626,5/24/2014 11:22,7/14/2014 18:08,633,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,0,7178
+A775656,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,6/3/2018 0:00,4,7/3/2018 11:50,7/3/2018 18:23,4,Male,Intact,Male,Intact,124 West Anderson Lane,Austin,TX,1,97
+A716878,Unknown,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,6/27/2015 0:00,21,11/27/2015 14:55,12/8/2015 15:12,23,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,2289
+A773762,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,5/15/2018 0:00,3,6/5/2018 0:00,6/5/2018 11:39,3,Male,Intact,Male,Intact,12349 Metric Boulevard,Austin,TX,1,96
+A747260,Unknown,Wildlife,Sick,Other,Raccoon,Gray,4/17/2016 0:00,52,4/17/2017 12:39,4/18/2017 8:10,52,Unknown,Unknown,Unknown,Unknown,3706 S 2Nd St,Austin,TX,0,99
+A732266,Tucker,Owner Surrender,Normal,Bird,Duck Mix,Black,8/4/2008 0:00,417,8/4/2016 18:58,8/6/2016 12:23,417,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,99
+A808600,Unknown,Stray,Injured,Cat,Domestic Shorthair,Black,11/11/2018 0:00,52,11/11/2019 0:00,11/11/2019 8:32,52,Unknown,Unknown,Unknown,Unknown,Riata Trace Prkway,Austin,TX,0,99
+A709096,Unknown,Stray,Normal,Dog,Plott Hound Mix,Black Brindle,3/4/2015 0:00,21,8/4/2015 17:35,8/9/2015 13:24,22,Male,Intact,Male,Neutered,W Rundberg Ln And Northgate,Austin,TX,1,1146
+A679005,Unknown,Stray,Normal,Cat,Domestic Longhair Mix,Orange Tabby,5/15/2012 0:00,104,5/19/2014 13:20,5/25/2014 17:34,105,Female,Intact,Female,Intact,1314 Morgan,Austin,TX,1,1109
+A765847,Milo,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Tricolor,12/20/2017 0:00,2,1/6/2018 16:28,2/24/2018 17:21,9,Male,Intact,Male,Neutered,Unknown address,Pflugerville,TX,1,30428
+A802474,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,8/9/2019 0:00,1,8/18/2019 15:27,8/18/2019 18:00,1,Female,Intact,Female,Intact,6744 Broad Brook,Austin,TX,1,90
+A742365,Unknown,Stray,Normal,Dog,Australian Shepherd Mix,Tan,8/20/2016 0:00,21,1/20/2017 14:23,1/24/2017 17:42,22,Female,Intact,Female,Spayed,6614 Blue Bluff Rd,Travis,TX,1,1146
+A737691,Scarlett,Stray,Normal,Dog,Pit Bull Mix,Brown Brindle,5/2/2016 0:00,26,11/2/2016 15:30,4/19/2017 8:38,50,Female,Intact,Female,Spayed,Peppertree Pkwy & Peach Ct,Austin,TX,1,46168
+A791871,Terry,Stray,Normal,Dog,Pit Bull Mix,Blue,4/2/2015 0:00,209,4/6/2019 13:12,4/6/2019 14:09,209,Male,Neutered,Male,Neutered,4809 S Congress Avenue,Austin,TX,1,99
+A710051,Cloudy,Stray,Normal,Dog,Pit Bull Mix,White,12/16/2014 0:00,34,8/16/2015 13:14,9/11/2015 18:10,38,Male,Intact,Male,Neutered,Cloudmore Ln And Western Sky Blvd,Travis,TX,1,4568
+A766507,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,2/10/2017 0:00,52,2/10/2018 15:30,2/13/2018 19:30,52,Female,Intact,Female,Intact,5400 West Parmer Lane,Austin,TX,1,99
+A755089,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,12/7/2016 0:00,33,7/29/2017 10:54,8/9/2017 13:03,35,Female,Intact,Female,Intact,810 Bastrop Highway,Austin,TX,1,2220
+A733774,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,8/1/2012 0:00,212,8/26/2016 18:34,9/3/2016 14:33,213,Female,Spayed,Female,Spayed,15500 Imperial Jade Dr,Austin,TX,1,1104
+A737958,Twila,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,11/7/2015 0:00,52,11/7/2016 13:14,11/26/2016 13:55,55,Female,Intact,Female,Spayed,801 E William Cannon Dr,Austin,TX,1,3272
+A667197,Athos,Owner Surrender,Normal,Cat,Domestic Medium Hair Mix,Blue,10/14/2013 0:00,4,11/14/2013 12:47,11/22/2013 11:51,5,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,1341
+A692058,Unknown,Stray,Normal,Dog,French Bulldog Mix,Tan,11/13/2013 0:00,52,11/13/2014 18:09,11/18/2014 13:28,52,Male,Intact,Male,Neutered,6200 Linda Ln,Austin,TX,1,99
+A766186,Hobie,Stray,Normal,Dog,Australian Kelpie Mix,Black,2/3/2016 0:00,104,2/3/2018 18:58,3/4/2018 14:16,108,Male,Intact,Male,Neutered,Westminster Drive And Gaston Place Drive,Austin,TX,1,4253
+A750876,Rabi,Owner Surrender,Normal,Other,Rabbit Sh Mix,Brown,6/1/2016 0:00,52,6/1/2017 15:40,6/25/2017 12:14,55,Unknown,Unknown,Unknown,Unknown,Unknown address,Austin,TX,1,3272
+A797561,Minnie,Owner Surrender,Normal,Dog,Boxer Mix,Black,4/14/2019 0:00,8,6/14/2019 17:01,6/17/2019 16:37,9,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,1222
+A797806,Hilda,Stray,Injured,Dog,German Shepherd,Brown,6/18/2013 0:00,313,6/18/2019 9:20,11/26/2019 13:33,336,Female,Intact,Female,Intact,8804 Highway 183,Austin,TX,1,24789
+A768878,Unknown,Wildlife,Normal,Other,Bat,Brown,3/26/2016 0:00,104,3/26/2018 16:47,3/27/2018 9:10,104,Unknown,Unknown,Unknown,Unknown,11301 Farrah Ln,Austin,TX,0,99
+A780895,Sylvester,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Blue,8/6/2018 0:00,6,9/21/2018 14:50,10/20/2018 17:49,10,Male,Intact,Male,Neutered,Unknown address,Travis,TX,1,6721
+A790538,Lola,Stray,Normal,Dog,Australian Cattle Dog,Brown,9/12/2017 0:00,78,3/12/2019 11:13,3/22/2019 11:46,79,Female,Spayed,Female,Spayed,Rainey Street,Austin,TX,1,1112
+A702194,Unknown,Stray,Normal,Other,Raccoon Mix,Gray,5/10/2014 0:00,52,5/10/2015 14:27,5/11/2015 10:00,52,Unknown,Unknown,Unknown,Unknown,305 Loganberry Ct,Austin,TX,0,99
+A714292,Unknown,Wildlife,Normal,Other,Snake,Brown,9/20/2015 0:00,4,10/20/2015 21:57,3/31/2016 14:18,27,Unknown,Unknown,Unknown,Unknown,2201 Post Rd,Austin,TX,1,152121
+A680821,Unknown,Owner Surrender,Normal,Cat,Domestic Medium Hair Mix,Orange Tabby,3/24/2014 0:00,10,6/8/2014 12:47,6/14/2014 16:25,11,Female,Intact,Female,Spayed,2317 S Pleasant Valley Rd,Austin,TX,1,1198
+A811339,Odin,Stray,Normal,Dog,American Staffordshire Terrier,Blue,1/2/2018 0:00,104,1/2/2020 11:36,1/3/2020 11:28,104,Male,Neutered,Male,Neutered,915 Red Cliff Drive,Austin,TX,1,99
+A733591,Jordan,Owner Surrender,Normal,Dog,Pit Bull Mix,White,8/24/2010 0:00,313,8/24/2016 10:12,9/1/2016 17:52,314,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,0,1103
+A781928,Unknown,Stray,Normal,Dog,German Shepherd Mix,Cream,7/17/2018 0:00,11,10/8/2018 12:03,10/15/2018 16:33,12,Female,Intact,Female,Spayed,10001 Burleson Road,Austin,TX,1,1189
+A753841,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,7/11/2016 0:00,52,7/11/2017 19:31,7/12/2017 7:50,52,Unknown,Unknown,Unknown,Unknown,12001 Dessau Rd,Austin,TX,0,99
+A743670,Presley,Stray,Normal,Dog,Australian Kelpie Mix,Black,6/14/2016 0:00,35,2/14/2017 14:19,2/20/2017 17:50,35,Female,Intact,Female,Spayed,1000 E 41St St,Austin,TX,1,99
+A679596,Sandy,Stray,Normal,Dog,Doberman Pinsch Mix,Liver,5/23/2011 0:00,156,5/23/2014 13:44,6/2/2014 18:29,158,Female,Intact,Female,Spayed,5200 E Stassney,Austin,TX,1,2125
+A807974,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Blue,9/14/2019 0:00,7,11/2/2019 13:33,11/13/2019 11:41,8,Male,Intact,Male,Neutered,6005 Leisure Run Road,Austin,TX,1,1239
+A706248,Buda,Stray,Normal,Dog,Pit Bull Mix,Blue,1/26/2015 0:00,21,6/26/2015 14:59,7/5/2015 18:26,22,Male,Intact,Male,Neutered,S Redondo Dr And Meander Dr,Austin,TX,1,1146
+A781643,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,7/7/2018 0:00,12,10/3/2018 10:56,10/7/2018 17:44,13,Male,Intact,Male,Neutered,7112 Ed Bluestein Boulevard,Austin,TX,1,1181
+A705370,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,Cream Tabby,5/25/2015 0:00,3,6/16/2015 14:08,6/16/2015 17:46,3,Unknown,Unknown,Unknown,Unknown,4200 Turnerville Rd,Creedmoor,TX,1,96
+A683493,Daphne,Stray,Injured,Dog,Chihuahua Shorthair Mix,Black,7/11/2012 0:00,104,7/11/2014 7:58,8/1/2014 12:33,107,Female,Intact,Female,Spayed,Lakewood Dr /Bull Creek,Austin,TX,1,3186
+A695495,Belinda,Stray,Normal,Dog,Chihuahua Longhair Mix,Tan,1/16/2011 0:00,208,1/16/2015 18:12,1/23/2015 14:29,209,Female,Intact,Female,Spayed,1308 Thorneberry Rd,Del Valle,TX,1,1104
+A670154,Bevo,Stray,Normal,Dog,Border Collie Mix,Cream,10/22/2013 0:00,10,1/2/2014 17:27,1/6/2014 17:51,10,Male,Intact,Male,Neutered,Palo Blanco,Austin,TX,1,99
+A792436,Unknown,Stray,Nursing,Dog,Rottweiler Mix,Black,4/3/2019 0:00,1,4/10/2019 15:10,4/10/2019 15:15,1,Female,Intact,Female,Intact,1156 West Cesar Chavez Street,Austin,TX,1,90
+A754201,Eevee,Stray,Normal,Cat,Domestic Longhair Mix,Calico,7/17/2010 0:00,365,7/17/2017 12:40,8/12/2017 19:01,369,Female,Spayed,Female,Spayed,12316 Alderbrook Side A,Austin,TX,1,4143
+A673338,Joplin,Stray,Normal,Dog,Labrador Retriever Mix,Chocolate,2/22/2010 0:00,208,2/22/2014 13:28,2/28/2014 15:11,209,Male,Intact,Male,Neutered,2604 Rollingwood Dr,Austin,TX,1,1104
+A712698,Unknown,Stray,Normal,Dog,Shih Tzu Mix,White,9/18/2015 0:00,1,9/26/2015 18:04,9/26/2015 19:12,1,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,90
+A667285,Ginger,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,8/15/2013 0:00,13,11/15/2013 14:28,11/30/2013 19:05,15,Female,Intact,Female,Spayed,5414 Bolm Rd,Austin,TX,1,2404
+A770948,Zoey,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,4/27/2016 0:00,104,4/27/2018 14:16,5/1/2018 18:06,104,Female,Spayed,Female,Spayed,Unknown address,Pflugerville,TX,1,99
+A534548,Chloe,Stray,Normal,Dog,Parson Russell Terrier Mix,White,8/2/2007 0:00,351,4/29/2014 18:30,5/9/2014 13:53,353,Female,Spayed,Female,Spayed,Crystalbrook Dr And Boulder Creek,Austin,TX,1,2111
+A641632,Mary,Stray,Normal,Dog,Pit Bull Mix,White,11/10/2008 0:00,381,3/3/2016 13:14,3/8/2016 15:51,382,Female,Intact,Female,Intact,1903 S L Davis,Austin,TX,1,1102
+A791374,Unknown,Wildlife,Normal,Other,Bat Mix,Black,3/25/2017 0:00,104,3/25/2019 9:44,3/25/2019 11:55,104,Unknown,Unknown,Unknown,Unknown,1700 East Slaughter Lane,Austin,TX,0,99
+A725752,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/29/2016 0:00,0,5/2/2016 17:05,5/2/2016 19:02,0,Unknown,Unknown,Unknown,Unknown,10701 S 1St St,Austin,TX,1,0
+A798912,Unknown,Stray,Injured,Dog,Labrador Retriever,Yellow,5/18/2019 0:00,6,7/2/2019 7:36,7/6/2019 9:15,7,Male,Intact,Male,Intact,3201 Duval St,Austin,TX,0,1262
+A771763,Unknown,Stray,Normal,Cat,Domestic Longhair Mix,Blue,4/3/2018 0:00,5,5/9/2018 17:59,6/19/2018 8:32,11,Female,Intact,Female,Spayed,2514 Howellwood,Austin,TX,1,13156
+A752155,Nova,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Tan,6/19/2016 0:00,55,7/11/2017 11:03,7/14/2017 17:39,55,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,99
+A726778,Unknown,Stray,Normal,Dog,Border Terrier Mix,Brown,5/14/2015 0:00,52,5/14/2016 14:20,5/19/2016 12:41,53,Female,Intact,Female,Intact,13332 Elm Grove Rd,Travis,TX,1,1119
+A723638,Elsa,Owner Surrender,Normal,Dog,Chihuahua Shorthair,White,10/4/2014 0:00,78,4/4/2016 12:48,4/26/2016 11:03,81,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,3215
+A783737,Unknown,Stray,Normal,Dog,Plott Hound Mix,Brown Brindle,9/13/2018 0:00,7,11/5/2018 12:41,12/22/2018 18:08,14,Female,Intact,Female,Spayed,9945 Rodriguez Road,Austin,TX,1,14000
+A795144,Unknown,Stray,Normal,Cat,Domestic Shorthair,White,5/16/2019 0:00,0,5/16/2019 15:22,5/16/2019 18:16,0,Unknown,Unknown,Unknown,Unknown,126 West Oltorf,Austin,TX,1,0
+A769388,Unknown,Stray,Nursing,Dog,Labrador Retriever Mix,Chocolate,3/31/2018 0:00,0,4/4/2018 13:07,4/4/2018 13:10,0,Male,Intact,Male,Intact,2110 West Slaughter Lane,Austin,TX,1,0
+A672958,Zoe,Owner Surrender,Normal,Dog,Miniature Pinscher,Black Smoke,2/18/2011 0:00,156,2/18/2014 15:38,2/21/2014 17:29,157,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,1106
+A751737,Shoshanna,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/27/2017 0:00,6,6/12/2017 11:01,6/18/2017 10:59,7,Female,Intact,Female,Intact,18509 Rivertimer Dr,Travis,TX,1,1262
+A674047,Osiris,Stray,Normal,Dog,German Shepherd Mix,Brown,1/6/2014 0:00,8,3/6/2014 16:25,3/10/2014 18:51,9,Male,Intact,Male,Neutered,10300 Golden Meadow Dr,Austin,TX,1,1222
+A793934,Little Eddie,Stray,Injured,Dog,Chihuahua Shorthair,Tricolor,12/2/2018 0:00,21,5/1/2019 22:07,5/13/2019 16:22,23,Male,Intact,Male,Intact,6448 E Us 290 Hwy Svrd Wb,Austin,TX,1,2289
+A767573,Charles,Stray,Injured,Cat,Domestic Longhair Mix,Orange Tabby,3/3/2016 0:00,104,3/3/2018 15:33,3/9/2018 13:42,105,Male,Neutered,Male,Neutered,South Lakeshore And Pleasant Valley,Austin,TX,1,1109
+A683455,Unknown,Owner Surrender,Normal,Other,Rabbit Sh Mix,White,7/10/2013 0:00,52,7/10/2014 14:01,7/16/2014 16:11,53,Unknown,Unknown,Unknown,Unknown,Unknown address,Austin,TX,1,1119
+A782203,Curley,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,8/21/2018 0:00,7,10/11/2018 16:35,10/29/2018 17:18,9,Male,Intact,Male,Neutered,5930 Middle Fiskville Road,Austin,TX,1,2661
+A696171,Ophelia,Owner Surrender,Normal,Cat,Snowshoe Mix,Seal Point,1/30/2008 0:00,365,1/30/2015 16:08,2/28/2015 15:46,369,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,4143
+A721219,Unknown,Stray,Normal,Dog,Yorkshire Terrier Mix,Blue,2/23/2007 0:00,469,2/23/2016 14:51,2/27/2016 11:29,470,Female,Spayed,Female,Spayed,Rowe Ln And,Pflugerville,TX,1,1102
+A728534,Lula,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,6/5/2013 0:00,156,6/5/2016 13:48,7/2/2016 18:06,160,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,4202
+A774980,Unknown,Stray,Normal,Dog,Border Collie Mix,Black,6/7/2018 0:00,2,6/22/2018 18:13,6/22/2018 19:43,2,Male,Intact,Male,Intact,6720 Broad Brook Drive,Austin,TX,1,95
+A763736,Power,Stray,Normal,Dog,Chihuahua Shorthair Mix,Brown,2/15/2016 0:00,95,12/15/2017 11:33,12/15/2017 15:23,95,Male,Intact,Male,Intact,Braker Lane And Ptarmigen Drive,Austin,TX,1,99
+A789952,Chico,Stray,Normal,Dog,Jack Russell Terrier Mix,White,3/2/2018 0:00,52,3/2/2019 13:24,3/6/2019 18:43,52,Male,Intact,Male,Neutered,13021 Dessau Road,Austin,TX,1,99
+A666502,Duke,Stray,Normal,Dog,American Staffordshire Terrier Mix,Blue,11/2/2012 0:00,52,11/2/2013 12:20,11/12/2013 18:06,53,Male,Intact,Male,Neutered,6911 North Ih 35,Austin,TX,1,1119
+A691381,Lucky,Owner Surrender,Normal,Dog,Miniature Schnauzer,Red,12/3/2009 0:00,256,11/3/2014 16:20,11/7/2014 13:07,257,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1103
+A732942,Lily,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,8/15/2006 0:00,521,8/15/2016 12:43,8/29/2016 0:00,523,Female,Intact,Female,Spayed,808 Eberhart Ln,Austin,TX,1,2107
+A715039,Asparagus,Stray,Injured,Cat,Domestic Shorthair Mix,Brown Tabby,10/30/2013 0:00,104,10/30/2015 18:42,12/28/2015 13:46,112,Male,Intact,Male,Neutered,1100 E Oltorf St,Austin,TX,1,8714
+A735067,Cyndi,Stray,Normal,Dog,Anatol Shepherd Mix,Tan,1/19/2016 0:00,34,9/17/2016 15:20,9/23/2016 18:22,35,Female,Intact,Female,Spayed,13300 Breve,Travis,TX,1,1129
+A680259,Ella,Owner Surrender,Normal,Cat,Domestic Medium Hair Mix,Tortie,10/1/2001 0:00,660,5/31/2014 14:58,8/5/2014 16:17,670,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,10251
+A803375,Sonny,Stray,Normal,Dog,Black Mouth Cur Mix,Red,8/31/2016 0:00,156,8/31/2019 13:11,9/17/2019 14:52,158,Male,Intact,Male,Intact,5701 Johnny Morris Road,Austin,TX,1,2125
+A730856,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,Black,1/11/2015 0:00,78,7/11/2016 16:58,7/12/2016 15:56,78,Female,Intact,Female,Intact,7700 W Parmer Ln,Austin,TX,0,99
+A787938,Squeedle,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Calico,1/23/2017 0:00,104,1/23/2019 11:50,1/25/2019 17:58,104,Female,Spayed,Female,Spayed,5400 Freidrich Lane,Austin,TX,1,99
+A711943,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,8/23/2015 0:00,3,9/14/2015 12:00,9/14/2015 17:16,3,Female,Intact,Female,Intact,7710 Hidden View Cir,Austin,TX,1,96
+A792205,Kaizer,Stray,Normal,Dog,Siberian Husky,Gray,4/7/2017 0:00,104,4/7/2019 17:27,4/15/2019 11:40,105,Male,Intact,Male,Neutered,Rockridge And William Cannon,Austin,TX,1,1109
+A800187,Unknown,Stray,Normal,Cat,Abyssinian,Brown,7/17/2018 0:00,52,7/17/2019 13:47,7/21/2019 11:11,52,Unknown,Unknown,Unknown,Unknown,1101 Brodie Street,Austin,TX,1,99
+A796626,Hunter,Owner Surrender,Normal,Dog,Beagle,Tricolor,6/3/2012 0:00,366,6/11/2019 15:38,6/12/2019 14:58,366,Male,Neutered,Male,Neutered,Unknown address,Outside Jurisdiction,unknown,1,99
+A690460,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,10/6/2014 0:00,2,10/21/2014 12:05,10/21/2014 12:57,2,Female,Intact,Female,Intact,3504 Harmon Ave,Austin,TX,1,95
+A746880,Harley,Stray,Normal,Dog,Labrador Retriever Mix,Chocolate,12/11/2016 0:00,52,12/16/2017 14:42,12/26/2017 0:00,54,Male,Intact,Male,Intact,Schmidt Lane And Fm 973,Manor,TX,1,2176
+A783020,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,10/24/2016 0:00,104,10/24/2018 12:54,10/27/2018 14:49,104,Female,Intact,Female,Intact,1901 East Anderson Lane,Austin,TX,1,99
+A698528,Drew Boy,Stray,Normal,Cat,Domestic Shorthair Mix,Black,2/8/2015 0:00,4,3/13/2015 12:32,4/13/2015 12:17,9,Male,Intact,Male,Neutered,2600 Scofield Ridge,Austin,TX,1,11195
+A795982,Swan,Stray,Normal,Cat,Domestic Shorthair,Orange Tabby,4/9/2019 0:00,6,5/27/2019 12:13,8/17/2019 11:45,18,Female,Intact,Female,Spayed,Carl Road,Travis,TX,1,35704
+A533795,Sandy,Owner Surrender,Normal,Cat,Domestic Shorthair,Torbie,7/24/2008 0:00,396,2/27/2016 17:38,3/13/2016 14:35,398,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2110
+A808871,Oddy,Stray,Normal,Dog,Chihuahua Shorthair,Tan,8/15/2019 0:00,13,11/15/2019 12:12,11/19/2019 17:10,13,Male,Intact,Male,Neutered,4213 Shallowbrook Trail,Austin,TX,1,99
+A705925,Caesar,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Brown,6/22/2008 0:00,365,6/22/2015 16:24,7/27/2015 15:47,370,Male,Intact,Male,Neutered,Unknown address,Del Valle,TX,1,5168
+A695984,Unknown,Stray,Injured,Dog,Pit Bull Mix,Blue,3/27/2014 0:00,43,1/26/2015 22:05,1/30/2015 10:10,44,Male,Intact,Male,Intact,9414 Parkfield Dr,Austin,TX,0,1122
+A802089,Unknown,Stray,Normal,Cat,Domestic Shorthair,Brown Tabby,7/22/2019 0:00,3,8/13/2019 16:27,8/13/2019 17:54,3,Unknown,Unknown,Unknown,Unknown,401 Little Texas Lane,Austin,TX,1,96
+A691299,Lara,Stray,Normal,Dog,Chihuahua Shorthair Mix,Brown,11/2/2012 0:00,104,11/2/2014 15:12,11/11/2014 12:02,105,Female,Spayed,Female,Spayed,10702 Landshire,Austin,TX,1,1109
+A777067,Unknown,Stray,Normal,Dog,Standard Poodle Mix,Chocolate,7/23/2017 0:00,52,7/23/2018 8:34,7/27/2018 16:06,52,Male,Intact,Male,Neutered,Turnersville And Parmer,Travis,TX,1,99
+A795663,Sophie,Owner Surrender,Normal,Other,Netherlnd Dwarf,Black,5/23/2016 0:00,156,5/23/2019 11:52,5/27/2019 12:22,157,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1106
+A667037,Dexter,Stray,Normal,Dog,Labrador Retriever,Brown Brindle,1/11/2013 0:00,43,11/11/2013 16:04,11/22/2013 15:19,45,Male,Intact,Male,Neutered,8806 Redfield Dr.,Austin,TX,1,2192
+A691514,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Orange Tabby,10/21/2014 0:00,2,11/5/2014 16:16,11/14/2014 9:15,3,Male,Intact,Male,Intact,923 Walter St,Austin,TX,1,1571
+A752338,Unknown,Stray,Normal,Dog,Jack Russell Terrier Mix,White,12/26/2012 0:00,234,6/21/2017 11:25,6/25/2017 17:19,234,Male,Intact,Male,Neutered,1434 Wells Branch Pkwy,Travis,TX,1,99
+A674928,Flour,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,2/13/2014 0:00,5,3/20/2014 13:13,4/26/2014 18:17,10,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,10000
+A701658,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,4/10/2015 0:00,3,5/2/2015 16:50,5/2/2015 18:16,3,Female,Intact,Female,Intact,5703 Whitebrook Dr,Austin,TX,1,96
+A765681,Selah,Stray,Normal,Dog,Labrador Retriever Mix,Black,1/24/2016 0:00,104,1/24/2018 15:26,1/30/2018 12:12,105,Female,Intact,Female,Spayed,1709 East Highway 71,Austin,TX,1,1109
+A753449,Ruxson,Owner Surrender,Normal,Dog,Pit Bull Mix,Brown,7/6/2015 0:00,127,12/17/2017 12:25,12/19/2017 11:56,128,Male,Neutered,Male,Neutered,Unknown address,Pflugerville,TX,1,1107
+A691533,Sugar,Stray,Normal,Dog,Australian Cattle Dog Mix,Brown Brindle,11/6/2013 0:00,52,11/6/2014 18:17,11/7/2014 12:12,52,Female,Intact,Female,Intact,7214 Dan-Jean Dr,Austin,TX,1,99
+A795397,Ruby,Stray,Normal,Cat,Domestic Longhair,Brown Tabby,4/16/2019 0:00,4,5/20/2019 11:30,6/22/2019 13:52,9,Female,Intact,Female,Spayed,2503 East Side Drive,Austin,TX,1,11195
+A686525,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,8/14/2014 0:00,1,8/23/2014 10:49,8/26/2014 14:43,1,Female,Intact,Female,Intact,13320 Pine Needle St,Manor,TX,1,90
+A806116,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,Brown Tabby,10/5/2016 0:00,156,10/8/2019 8:34,10/8/2019 10:00,156,Unknown,Unknown,Unknown,Unknown,8516 Brookfeild,Austin,TX,0,99
+A727663,Bruce,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,5/24/2015 0:00,52,5/24/2016 13:27,5/31/2016 17:40,53,Male,Intact,Male,Neutered,5409 Ponciana Dr,Austin,TX,1,1119
+A793608,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/20/2019 0:00,1,4/27/2019 0:00,4/27/2019 13:05,1,Unknown,Unknown,Unknown,Unknown,12517 Campana Drive,Travis,TX,1,90
+A702111,Popeye,Stray,Aged,Dog,German Shepherd Mix,Black,5/9/2005 0:00,521,5/9/2015 13:26,5/9/2015 15:49,521,Male,Neutered,Male,Neutered,Bond Dr And Warely Ln,Austin,TX,1,99
+A671307,Bubbles,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,8/22/2013 0:00,21,1/22/2014 13:19,3/16/2014 17:27,29,Male,Intact,Male,Neutered,Hog Eye & Lockwood,Austin,TX,1,11132
+A658799,Boi,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,7/16/2013 0:00,23,12/26/2013 16:50,1/20/2015 10:27,79,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,191857
+A769433,Tulip,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,3/4/2018 0:00,4,4/4/2018 19:09,5/23/2018 13:34,11,Female,Intact,Female,Spayed,306 West Rundberg Lane,Austin,TX,1,19048
+A802190,Boysenberry,Stray,Normal,Cat,Russian Blue,Blue,7/15/2019 0:00,4,8/15/2019 10:20,9/28/2019 12:09,10,Female,Intact,Female,Spayed,412 East William Cannon Drive,Austin,TX,1,14878
+A737464,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,10/28/2009 0:00,365,10/28/2016 16:27,10/28/2016 17:46,365,Male,Intact,Male,Intact,1409 E Cesar Chavez,Austin,TX,0,99
+A790644,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,2/22/2019 0:00,2,3/13/2019 16:21,3/13/2019 18:11,2,Male,Intact,Male,Intact,2605 Park Ln,Austin,TX,1,95
+A677765,Sophie,Public Assist,Normal,Dog,Boxer Mix,Brown Brindle,4/29/2013 0:00,52,4/29/2014 11:00,4/29/2014 12:42,52,Female,Intact,Female,Intact,200 W 4Th St,Austin,TX,1,99
+A713745,Unknown,Wildlife,Normal,Other,Bat,Brown,4/12/2015 0:00,26,10/12/2015 11:09,10/12/2015 11:40,26,Unknown,Unknown,Unknown,Unknown,110 E 2Nd St,Austin,TX,0,99
+A724731,Luna,Stray,Injured,Dog,Siberian Husky Mix,Sable,4/21/2010 0:00,313,4/21/2016 10:11,6/22/2016 16:28,322,Female,Intact,Female,Spayed,Park At Woodlands,Austin,TX,1,9358
+A707152,Unknown,Stray,Normal,Other,Rabbit Sh Mix,Black,7/8/2014 0:00,52,7/8/2015 16:24,7/9/2015 13:26,52,Unknown,Unknown,Unknown,Unknown,E Anderson Ln,Austin,TX,1,99
+A700646,Lady,Owner Surrender,Normal,Dog,Pit Bull Mix,White,10/17/2012 0:00,130,4/17/2015 12:43,5/1/2015 11:30,132,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,0,2130
+A668480,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,11/12/2013 0:00,3,12/4/2013 12:29,12/4/2013 14:39,3,Female,Intact,Female,Intact,4204 Sojourner Ln,Austin,TX,1,96
+A680659,Molly,Stray,Normal,Dog,Pit Bull Mix,White,2/5/2013 0:00,69,6/5/2014 13:25,7/10/2014 14:55,74,Female,Intact,Female,Spayed,13419 Imanuel,Austin,TX,1,5461
+A722032,Zac,Public Assist,Normal,Dog,Labrador Retriever Mix,Yellow,3/17/2010 0:00,312,3/10/2016 11:24,5/22/2016 11:33,322,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,10420
+A759333,Truffles,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,9/30/2012 0:00,260,9/30/2017 15:39,2/4/2018 13:02,279,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,20487
+A712589,Captain,Stray,Nursing,Cat,Domestic Shorthair Mix,Cream Tabby,9/9/2015 0:00,2,9/25/2015 14:30,12/1/2015 8:08,11,Male,Intact,Male,Neutered,124 W Anderson Ln,Austin,TX,1,47666
+A684216,Cheech,Stray,Normal,Dog,Chihuahua Shorthair Mix,Chocolate,7/21/2012 0:00,261,7/26/2017 17:02,7/31/2017 15:33,262,Male,Neutered,Male,Neutered,E Riverside Dr & Burton Dr,Austin,TX,1,1103
+A778487,Buddy,Public Assist,Normal,Dog,Jack Russell Terrier Mix,Brown,8/15/2016 0:00,104,8/15/2018 17:50,8/26/2018 13:35,105,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,1109
+A679274,Fudge,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/3/2014 0:00,6,5/18/2014 15:14,6/22/2014 14:50,11,Male,Intact,Male,Neutered,9607 Hansford Dr,Austin,TX,1,9196
+A739942,Spikey,Stray,Normal,Dog,Labrador Retriever Mix,Black,12/10/2013 0:00,156,12/9/2016 13:04,12/31/2016 13:17,159,Male,Neutered,Male,Neutered,13925 Maricella Dr,Travis,TX,1,3157
+A798014,Unknown,Stray,Normal,Cat,Domestic Medium Hair,Orange Tabby,4/5/2019 0:00,10,6/20/2019 11:53,6/28/2019 16:42,12,Female,Intact,Female,Spayed,5907 Nancy Drive,Austin,TX,1,2495
+A663479,Chato,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Tan,4/19/2013 0:00,42,2/13/2014 17:05,2/17/2014 15:15,43,Male,Neutered,Male,Neutered,305 Tillery Square,Austin,TX,1,1123
+A698835,Little Foot,Stray,Normal,Cat,Domestic Shorthair Mix,Black,3/12/2015 0:00,141,11/26/2017 11:00,11/26/2017 14:27,141,Male,Neutered,Male,Neutered,3203 Burley Cove,Austin,TX,1,99
+A753780,Tink,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Blue,7/11/2007 0:00,521,7/11/2017 10:48,7/25/2017 18:25,523,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2107
+A756972,Pelusa,Stray,Normal,Dog,Great Pyrenees,White,8/28/2016 0:00,52,8/28/2017 15:36,8/30/2017 13:13,52,Female,Intact,Female,Intact,Rundberg And Cameron,Austin,TX,1,99
+A751615,Kendra,Stray,Normal,Dog,Pit Bull Mix,Blue,6/10/2015 0:00,104,6/10/2017 13:00,8/11/2017 19:07,113,Female,Intact,Female,Spayed,Maha Loop,Travis,TX,1,9878
+A750395,Kessi,Owner Surrender,Normal,Cat,Siamese Mix,Blue Point,5/26/2012 0:00,260,5/26/2017 16:24,6/2/2017 13:20,261,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1103
+A738586,Zoey,Public Assist,Normal,Cat,Russian Blue Mix,Blue,11/27/2004 0:00,624,11/18/2016 16:45,11/27/2016 11:13,626,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2106
+A680236,Olivie,Owner Surrender,Normal,Cat,Domestic Longhair Mix,Torbie,5/31/2011 0:00,156,5/31/2014 11:48,5/31/2014 17:27,156,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A758569,Mia,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,8/3/2017 0:00,6,9/18/2017 17:13,9/24/2017 11:57,7,Male,Intact,Male,Intact,727 West Stassney Lane,Austin,TX,1,1262
+A778050,Kimmy,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,2/7/2018 0:00,25,8/7/2018 17:39,8/18/2018 15:15,27,Female,Intact,Female,Spayed,Decker Lane And Hog Eye Road,Austin,TX,1,2258
+A721081,Mittens,Stray,Normal,Dog,Brittany Mix,Liver,2/20/2008 0:00,417,2/20/2016 16:50,2/26/2016 11:30,418,Female,Spayed,Female,Spayed,Rollingwood Dr And Zilker Clubhouse Rd,Austin,TX,1,1102
+A745891,Nala,Owner Surrender,Normal,Dog,Pit Bull Mix,Tricolor,1/6/2017 0:00,13,4/11/2017 14:08,4/12/2017 16:11,13,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A696409,Hans,Stray,Normal,Cat,Domestic Shorthair Mix,Black,11/19/2014 0:00,11,2/4/2015 13:23,2/9/2015 18:46,11,Male,Intact,Male,Neutered,2101 E 12Th St,Austin,TX,1,99
+A770706,Charlie,Stray,Normal,Dog,Dachshund Mix,Tan,11/24/2017 0:00,21,4/24/2018 10:12,4/29/2018 13:03,22,Male,Intact,Male,Neutered,1001 Collinwood West Drive,Austin,TX,1,1146
+A808184,Girl,Owner Surrender,Normal,Dog,Chihuahua Shorthair,Brown,11/5/2015 0:00,208,11/5/2019 13:48,11/6/2019 0:00,208,Female,Intact,Female,Intact,Unknown address,Austin,TX,1,99
+A734335,Blanca,Stray,Normal,Cat,Siamese Mix,Lynx Point,8/8/2016 0:00,4,9/5/2016 11:41,12/6/2016 10:21,17,Male,Intact,Male,Intact,1406 Dale Dr,Austin,TX,0,54317
+A752175,Unknown,Stray,Sick,Cat,Domestic Shorthair Mix,Blue Tabby,6/4/2017 0:00,2,6/19/2017 13:28,6/25/2017 7:51,3,Female,Intact,Female,Intact,5800 Techni Center,Austin,TX,0,1571
+A770927,Chloe,Stray,Normal,Dog,Miniature Schnauzer Mix,Gray,4/27/2000 0:00,939,4/27/2018 14:36,4/27/2018 16:21,939,Female,Spayed,Female,Spayed,Taylor Ln And 969,Travis,TX,1,99
+A610320,Peter,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/21/2009 0:00,280,2/6/2015 10:59,2/11/2015 19:00,281,Male,Neutered,Male,Neutered,7619 East Ben White Boulevard,Austin,TX,1,1103
+A754133,Eclipse,Stray,Normal,Cat,Domestic Shorthair Mix,Black,5/16/2017 0:00,8,7/16/2017 11:08,8/13/2017 12:26,12,Female,Intact,Female,Spayed,9600 Escarpment Blvd,Austin,TX,1,6074
+A761439,Caroline,Stray,Normal,Dog,Pit Bull Mix,Black,11/4/2015 0:00,104,11/4/2017 16:37,11/8/2017 16:52,105,Female,Intact,Female,Spayed,Airport,Austin,TX,1,1109
+A779954,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Orange Tabby,9/7/2017 0:00,52,9/7/2018 12:58,9/12/2018 16:13,52,Male,Intact,Male,Neutered,11121 Boundless Valley Drive,Austin,TX,1,99
+A754421,Rousey,Stray,Normal,Dog,Boxer Mix,Brown Brindle,7/20/2015 0:00,104,7/20/2017 15:16,7/25/2017 17:40,105,Female,Spayed,Female,Spayed,4608 West Gate Blvd,Austin,TX,1,1109
+A798523,Gia,Owner Surrender,Normal,Dog,Australian Cattle Dog,Red,6/26/2018 0:00,76,12/16/2019 17:28,12/17/2019 12:16,77,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1113
+A688756,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,White,7/8/2014 0:00,11,9/23/2014 12:36,9/27/2014 17:08,11,Male,Intact,Male,Neutered,2502 E Oltorf,Austin,TX,1,99
+A748619,Hercules,Stray,Normal,Dog,Labrador Retriever Mix,Red,5/4/2016 0:00,52,5/4/2017 15:54,5/4/2017 18:46,52,Male,Intact,Male,Intact,5106 Kings Hwy,Austin,TX,1,99
+A686499,Unknown,Wildlife,Normal,Other,Bat Mix,Black,8/22/2013 0:00,52,8/22/2014 18:09,8/22/2014 18:27,52,Unknown,Unknown,Unknown,Unknown,2802 Crownover,Travis,TX,0,99
+A788323,Maggie,Stray,Normal,Dog,Labrador Retriever,Black,1/30/2018 0:00,52,1/30/2019 17:06,2/5/2019 12:29,53,Female,Intact,Female,Intact,10001 Burleson Road,Travis,TX,1,1119
+A811597,Hemi,Owner Surrender,Normal,Cat,Domestic Shorthair,Orange Tabby,1/12/2006 0:00,729,1/6/2020 12:09,1/17/2020 14:39,731,Male,Neutered,Male,Neutered,Unknown address,Travis,TX,1,2105
+A783676,Greta,Stray,Other,Dog,Dachshund,Black,11/4/2010 0:00,417,11/4/2018 11:50,1/25/2019 9:43,429,Female,Intact,Female,Intact,508 E. Howard,Austin,TX,1,12445
+A808873,Unknown,Stray,Normal,Dog,Labrador Retriever,Black,9/15/2019 0:00,8,11/15/2019 13:13,11/19/2019 17:35,9,Male,Intact,Male,Neutered,8216 Sigrid Drive,Travis,TX,1,1222
+A776528,Raiden,Owner Surrender,Normal,Dog,Boxer Mix,White,7/15/2017 0:00,124,12/4/2019 17:39,12/8/2019 17:40,125,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1107
+A713612,Lil Mama,Stray,Injured,Dog,Chihuahua Shorthair Mix,Buff,10/11/2007 0:00,417,10/9/2015 14:50,10/11/2015 13:01,417,Female,Intact,Female,Intact,William Cannon And S. 1St St,Austin,TX,1,99
+A726695,Molly,Euthanasia Request,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,5/13/2011 0:00,261,5/13/2016 12:39,6/26/2016 21:56,267,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,6237
+A721424,Jones,Owner Surrender,Normal,Dog,German Shepherd Mix,Black,1/26/2016 0:00,4,2/26/2016 15:55,2/28/2016 15:34,4,Male,Intact,Male,Intact,Unknown address,Travis,TX,1,97
+A689442,Lindy,Stray,Normal,Dog,Chihuahua Shorthair Mix,Tricolor,10/4/2009 0:00,260,10/4/2014 11:29,10/6/2014 11:17,261,Female,Intact,Female,Intact,6701 Galindo St,Austin,TX,1,1103
+A730430,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Tan,1/4/2015 0:00,78,7/4/2016 16:02,7/8/2016 17:00,78,Female,Intact,Female,Spayed,1830 Simond Ave,Austin,TX,1,99
+A749448,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Tan,3/15/2017 0:00,8,5/15/2017 11:18,5/19/2017 18:30,9,Male,Intact,Male,Neutered,7500 S Pleasant Valley Rd,Austin,TX,1,1222
+A682952,Teddy Roosev,Stray,Normal,Dog,Chihuahua Shorthair,Black,7/5/2010 0:00,208,7/5/2014 11:40,7/5/2014 15:27,208,Male,Neutered,Male,Neutered,Parker Ln And Woodland Ave,Austin,TX,1,99
+A749656,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,Orange Tabby,3/17/2017 0:00,8,5/17/2017 16:30,5/18/2017 10:44,8,Unknown,Unknown,Unknown,Unknown,2124 Burton Dr,Austin,TX,0,98
+A703340,Axel,Owner Surrender,Normal,Dog,Yorkshire Terrier Mix,Brown,5/23/2013 0:00,104,5/23/2015 12:55,5/23/2015 19:15,104,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A780855,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,Orange Tabby,9/21/2016 0:00,104,9/21/2018 10:30,9/21/2018 11:17,104,Unknown,Unknown,Unknown,Unknown,Hermitage Drive And Furness Drive,Austin,TX,0,99
+A751264,Billy,Stray,Normal,Dog,Pit Bull Mix,Black,6/6/2013 0:00,208,6/6/2017 8:43,6/8/2017 12:51,209,Male,Neutered,Male,Neutered,1700 E. Slaughter,Austin,TX,1,1104
+A762380,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Cream Tabby,1/19/2017 0:00,43,11/19/2017 14:03,11/22/2017 12:21,43,Male,Intact,Male,Intact,5803 Gloucester Lane,Austin,TX,1,99
+A730258,Teddy,Stray,Normal,Dog,German Shepherd Mix,Black,1/1/2016 0:00,26,7/1/2016 9:31,7/1/2016 13:36,26,Male,Intact,Male,Intact,S Congress And Stassney Ln,Austin,TX,1,99
+A741029,Socrates,Stray,Normal,Dog,Catahoula,Brown,12/30/2008 0:00,417,12/30/2016 14:03,1/5/2017 17:19,418,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1102
+A805539,Unknown,Wildlife,Normal,Other,Bat,Brown,9/28/2017 0:00,104,9/28/2019 13:35,9/28/2019 15:30,104,Unknown,Unknown,Unknown,Unknown,5525 Foxfield Lane,Travis,TX,0,99
+A696872,Kitty,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Calico,2/13/2002 0:00,678,2/13/2015 16:11,7/28/2015 11:42,701,Female,Spayed,Female,Spayed,Unknown address,Pflugerville,TX,1,23880
+A768652,Max,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Black,1/7/2018 0:00,10,3/23/2018 11:39,3/25/2018 18:42,11,Male,Intact,Male,Neutered,Unknown address,Del Valle,TX,1,1198
+A789263,Unknown,Wildlife,Sick,Other,Bat Mix,Black,2/18/2018 0:00,52,2/18/2019 14:50,2/18/2019 15:53,52,Unknown,Unknown,Unknown,Unknown,1402 Vargas,Austin,TX,0,99
+A747209,Eagle Bear,Stray,Normal,Dog,Labrador Retriever,Chocolate,12/1/2016 0:00,19,4/16/2017 14:08,4/17/2017 16:54,19,Female,Intact,Female,Intact,1849 River Crossing Circle,Austin,TX,1,99
+A809813,Unknown,Stray,Normal,Dog,Jack Russell Terrier,White,12/1/2018 0:00,52,12/2/2019 12:21,12/8/2019 17:49,53,Female,Intact,Female,Spayed,Twin Oaks Road,Travis,TX,1,1119
+A691772,Aniwaya,Stray,Normal,Dog,Labrador Retriever,Gold,11/9/2011 0:00,162,12/20/2014 17:27,12/20/2014 18:49,162,Male,Neutered,Male,Neutered,12609 Dessau Rd,Austin,TX,1,99
+A619852,Beau,Public Assist,Normal,Dog,Pit Bull,Tan,12/1/2011 0:00,161,1/5/2015 16:00,1/12/2015 11:37,162,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1106
+A744916,Corn Flake,Stray,Normal,Dog,Chihuahua Shorthair Mix,Tan,3/9/2016 0:00,52,3/9/2017 14:01,3/18/2017 16:58,53,Female,Intact,Female,Intact,9414 N Lamar Blvd,Austin,TX,1,1119
+A774378,Unknown,Stray,Aged,Cat,Domestic Shorthair Mix,Torbie,6/14/2006 0:00,626,6/14/2018 13:56,6/15/2018 11:07,626,Female,Intact,Female,Intact,2504 Huntwick Dr 504,Austin,TX,1,99
+A807878,Ray,Owner Surrender,Normal,Dog,Pointer,Red Tick,5/31/2019 0:00,21,10/31/2019 15:10,11/14/2019 17:46,23,Male,Intact,Male,Neutered,Unknown address,Leander,TX,1,2289
+A803941,Unknown,Public Assist,Normal,Other,Bat,Brown,9/8/2018 0:00,52,9/8/2019 15:57,9/9/2019 10:20,52,Unknown,Unknown,Unknown,Unknown,1300 E Riverside Dr,Austin,TX,0,99
+A766577,Nugget,Stray,Normal,Dog,Labrador Retriever Mix,Tan,2/12/2012 0:00,313,2/12/2018 13:16,3/4/2018 14:04,316,Male,Neutered,Male,Neutered,11920 Wilson Parke Avenue,Austin,TX,1,3128
+A726088,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/1/2016 0:00,5,5/6/2016 11:02,8/31/2016 9:31,21,Male,Intact,Male,Neutered,1302 May Dr,Austin,TX,1,66294
+A753603,Marsha,Stray,Normal,Dog,Catahoula,White,7/8/2015 0:00,104,7/8/2017 14:59,7/18/2017 15:44,105,Female,Intact,Female,Spayed,Thaxton Road And Mckinney Falls,Travis,TX,1,1109
+A807750,Unknown,Stray,Normal,Dog,Border Terrier,Black,10/29/2017 0:00,104,10/29/2019 11:20,11/2/2019 17:06,104,Male,Intact,Male,Neutered,6527 Moonglow,Austin,TX,1,99
+A705125,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/23/2015 0:00,3,6/13/2015 12:47,6/13/2015 14:32,3,Male,Intact,Male,Intact,1410 W North Loop Blvd,Austin,TX,1,96
+A777396,Paw Paw,Stray,Normal,Dog,Labrador Retriever Mix,Black,7/28/2016 0:00,104,7/28/2018 11:19,8/7/2018 14:10,105,Male,Intact,Male,Intact,8306 Breeze Way,Jonestown,TX,1,1109
+A797659,Lenny,Stray,Normal,Cat,Domestic Shorthair Mix,Black,5/25/2019 0:00,3,6/16/2019 12:05,9/2/2019 18:07,14,Male,Intact,Male,Neutered,21601 Crossover,Leander,TX,1,50129
+A690572,Bruno,Stray,Normal,Dog,Pit Bull Mix,Buff,10/22/2012 0:00,104,10/22/2014 16:03,12/6/2014 18:28,110,Male,Intact,Male,Neutered,15419 Giese Ln,Travis,TX,1,6445
+A792660,Shelly,Stray,Normal,Dog,Staffordshire Mix,Blue,4/13/2017 0:00,104,4/13/2019 15:42,9/24/2019 11:14,127,Female,Intact,Female,Spayed,11551 Maha Loop Road,Austin,TX,1,28181
+A781950,Unknown,Stray,Normal,Dog,Flat Coat Retriever Mix,Black,3/8/2018 0:00,30,10/8/2018 14:36,10/15/2018 18:02,31,Male,Intact,Male,Neutered,Bluff Springs Road And East William Cannon Drive,Austin,TX,1,1132
+A795499,Unknown,Stray,Nursing,Cat,Domestic Shorthair,Blue,4/26/2019 0:00,3,5/21/2019 12:15,7/20/2019 12:51,12,Female,Intact,Female,Spayed,15103 Oklahoma Street,Austin,TX,1,35225
+A668536,Bloo,Public Assist,Normal,Dog,Miniature Pinscher Mix,Black,12/4/2012 0:00,52,12/4/2013 23:12,12/9/2013 17:01,52,Male,Intact,Male,Neutered,Unknown address,Lago Vista,TX,1,99
+A727012,Libby,Stray,Normal,Dog,Labrador Retriever Mix,Tan,11/17/2014 0:00,78,5/17/2016 13:34,5/28/2016 18:17,79,Female,Intact,Female,Spayed,10550 Maha Cir,Travis,TX,1,1112
+A769129,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,3/30/2017 0:00,52,3/30/2018 18:11,4/2/2018 18:48,52,Male,Intact,Male,Intact,515 East Slaughter,Austin,TX,1,99
+A712880,Jonse,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,7/14/2015 0:00,11,9/29/2015 13:01,10/7/2015 12:21,12,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,1189
+A757232,Plex,Stray,Normal,Dog,American Bulldog Mix,Brown,8/31/2015 0:00,104,8/31/2017 15:51,11/1/2017 15:13,113,Male,Intact,Male,Neutered,Johnny Morrison And 969,Austin,TX,1,9878
+A758877,Hubert,Stray,Normal,Cat,Domestic Shorthair Mix,White,8/19/2017 0:00,5,9/23/2017 13:49,9/27/2017 17:49,5,Male,Intact,Male,Intact,8601 Anderson Mill Road,Austin,TX,1,98
+A672399,Pilar,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,8/9/2012 0:00,78,2/9/2014 13:54,2/13/2014 12:40,79,Female,Spayed,Female,Spayed,Timber Heights Dr,Austin,TX,1,1112
+A669198,Cooper,Stray,Normal,Dog,Pit Bull Mix,Tan,12/16/2011 0:00,104,12/16/2013 18:34,6/24/2014 18:56,131,Male,Intact,Male,Neutered,7500 S Pleasant Valley Dr,Austin,TX,1,34102
+A673140,Canella,Stray,Normal,Dog,Chihuahua Longhair Mix,Brown,9/19/2012 0:00,74,2/19/2014 15:27,2/20/2014 16:17,74,Female,Intact,Female,Intact,2900 N Ih 35,Austin,TX,1,99
+A716920,Unknown,Wildlife,Sick,Other,Raccoon,Brown,5/28/2015 0:00,26,11/28/2015 14:23,11/28/2015 15:42,26,Unknown,Unknown,Unknown,Unknown,3204 Tom Green St,Austin,TX,0,99
+A791227,Frank,Public Assist,Normal,Dog,Siberian Husky Mix,Black,3/23/2015 0:00,208,3/23/2019 10:01,3/27/2019 17:42,209,Male,Neutered,Male,Neutered,3909 North Interstate 35 Northbound,Austin,TX,1,1104
+A806077,Paula,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,10/5/2018 0:00,52,10/5/2019 13:07,11/10/2019 11:23,57,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,5579
+A750606,Shelley,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,5/4/2017 0:00,3,5/29/2017 14:16,6/8/2017 18:58,5,Female,Intact,Female,Intact,2904 Bond Drive,Austin,TX,1,3387
+A681088,Daisy,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Brown,6/12/2010 0:00,208,6/12/2014 12:35,8/19/2014 12:31,218,Female,Intact,Female,Intact,Unknown address,Travis,TX,1,10580
+A714273,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,Calico,10/20/2012 0:00,156,10/20/2015 14:37,10/20/2015 14:51,156,Female,Spayed,Female,Spayed,4017 Victory,Austin,TX,0,99
+A704333,Oso,Public Assist,Normal,Dog,Chihuahua Longhair,Buff,10/5/2014 0:00,34,6/5/2015 17:08,6/13/2015 17:24,35,Male,Neutered,Male,Neutered,4715 Cedargrove Dr,Austin,TX,1,1129
+A766797,Sadie,Stray,Normal,Dog,Labrador Retriever Mix,Black,2/16/2016 0:00,104,2/16/2018 18:07,2/17/2018 11:53,104,Female,Spayed,Female,Spayed,11921 North Mopac Expressway,Austin,TX,1,99
+A807148,Austin,Stray,Normal,Dog,Black,Black,10/21/2017 0:00,104,10/21/2019 12:41,11/4/2019 15:37,106,Female,Intact,Female,Spayed,South First Street And Oltorf Street,Austin,TX,1,2138
+A806527,Unknown,Stray,Injured,Cat,Domestic Shorthair,Blue Tabby,9/12/2011 0:00,421,10/12/2019 8:06,11/7/2019 11:44,425,Male,Neutered,Male,Neutered,1410 Sanchez,Austin,TX,1,4137
+A711516,Unknown,Stray,Normal,Dog,Australian Kelpie Mix,Black,6/7/2015 0:00,13,9/7/2015 18:53,9/9/2015 13:56,13,Female,Intact,Female,Intact,Unknown address,Outside Jurisdiction,unknown,1,99
+A741041,Paco,Public Assist,Normal,Dog,Soft Coated Wheaten Terrier,Brown,6/29/2016 0:00,26,12/29/2016 13:56,1/6/2017 18:59,27,Male,Intact,Male,Neutered,508 E Howard Ln,Austin,TX,1,1137
+A741427,Shadow,Stray,Normal,Dog,German Shepherd Mix,Black,6/2/2016 0:00,54,6/21/2017 16:08,6/21/2017 18:23,54,Male,Neutered,Male,Neutered,8106 Brodie Lane,Austin,TX,1,99
+A685544,Unknown,Wildlife,Normal,Other,Bat,Brown,7/9/2014 0:00,4,8/9/2014 0:13,8/9/2014 9:31,4,Unknown,Unknown,Unknown,Unknown,7201 S Congress Ave,Austin,TX,0,97
+A702209,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/20/2015 0:00,2,5/10/2015 16:55,5/10/2015 19:30,2,Unknown,Unknown,Unknown,Unknown,Thome Vally And Gilwell,Austin,TX,1,95
+A742119,Clara,Stray,Normal,Dog,Labrador Retriever Mix,Yellow,1/16/2013 0:00,208,1/15/2017 12:13,1/16/2017 13:10,208,Female,Spayed,Female,Spayed,18800 Hamilton Pool Rd,Travis,TX,1,99
+A687341,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Black Smoke,8/3/2014 0:00,4,9/3/2014 15:18,9/3/2014 18:52,4,Male,Intact,Male,Intact,4821 E Riverside Dr,Austin,TX,1,97
+A774763,Marco,Stray,Sick,Dog,Labrador Retriever Mix,Black,11/19/2017 0:00,30,6/19/2018 21:45,9/12/2018 12:42,42,Male,Intact,Male,Intact,5100 Blessing,Austin,TX,1,16883
+A717681,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,8/12/2015 0:00,17,12/12/2015 14:08,12/16/2015 19:40,18,Male,Intact,Male,Neutered,1221 Algarita Ave #202,Austin,TX,1,1157
+A720574,Mimi,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,2/12/2006 0:00,521,2/12/2016 7:24,2/16/2016 14:40,522,Female,Spayed,Female,Spayed,11160 Jollyville Rd,Austin,TX,0,1101
+A689169,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,9/15/2014 0:00,2,9/30/2014 12:04,9/30/2014 15:48,2,Female,Intact,Female,Intact,11106 Hialeah St,Del Valle,TX,1,95
+A778346,Unknown,Stray,Injured,Cat,Domestic Shorthair Mix,Orange Tabby,8/13/2017 0:00,52,8/13/2018 8:18,8/13/2018 21:50,52,Female,Intact,Female,Intact,Unknown address,Austin,TX,0,99
+A708613,Gia,Owner Surrender,Normal,Cat,Domestic Medium Hair Mix,Blue,7/29/2009 0:00,313,7/29/2015 16:00,8/6/2015 18:17,314,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1103
+A806309,Marianne,Owner Surrender,Normal,Cat,Domestic Shorthair,Calico,8/19/2019 0:00,12,11/15/2019 12:25,11/16/2019 18:30,12,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A760301,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,Brown Tabby,10/10/2017 0:00,0,10/16/2017 10:49,10/17/2017 13:09,1,Male,Intact,Male,Intact,417 Wye Oak,Austin,TX,1,11000
+A718087,Muskogee,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,6/21/2015 0:00,26,12/21/2015 11:16,12/29/2015 13:44,27,Male,Intact,Male,Neutered,3102 Windsor Rd,Austin,TX,1,1137
+A697148,Unknown,Stray,Injured,Dog,Maltese Mix,White,2/18/2011 0:00,208,2/18/2015 18:42,2/18/2015 19:15,208,Male,Neutered,Male,Neutered,900 Broken Feather Trl,Travis,TX,0,99
+A744937,Iya,Public Assist,Normal,Dog,Great Pyrenees Mix,White,9/9/2015 0:00,84,4/25/2017 9:58,4/26/2017 14:05,85,Female,Intact,Female,Intact,United Kingdom And Tensley Trl,Austin,TX,1,1111
+A751401,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,6/7/2015 0:00,104,6/7/2017 17:15,6/11/2017 10:00,105,Female,Intact,Female,Spayed,2010 E 10Th St,Austin,TX,1,1109
+A777481,Unknown,Stray,Normal,Cat,Siamese Mix,Lynx Point,5/29/2018 0:00,8,7/29/2018 13:30,8/2/2018 16:47,9,Female,Intact,Female,Spayed,5905 Clemenrine Lane,Austin,TX,1,1222
+A665102,Minnie,Stray,Normal,Dog,Pug Mix,Brown,7/29/2013 0:00,10,10/13/2013 16:46,10/18/2013 11:43,11,Female,Intact,Female,Spayed,9612 Carson Creek,Austin,TX,1,1198
+A798383,Paisley,Stray,Normal,Cat,Domestic Shorthair,Brown Tabby,5/18/2019 0:00,5,6/25/2019 12:57,12/2/2019 12:24,28,Female,Intact,Female,Spayed,7008 Bethune Avenue,Austin,TX,1,126823
+A668137,Gus,Stray,Normal,Dog,German Shepherd Mix,Black,10/20/2013 0:00,5,11/27/2013 15:15,12/23/2013 18:42,9,Male,Intact,Male,Neutered,10902 Mcangus Rd,Del Valle,TX,1,7235
+A774863,Unknown,Stray,Normal,Dog,Pit Bull Mix,Black,4/16/2018 0:00,9,6/21/2018 12:13,6/28/2018 16:21,10,Male,Intact,Male,Neutered,115 Heritage Drive,Austin,TX,1,1208
+A798538,Sebastian,Stray,Normal,Cat,Domestic Medium Hair,Black,5/1/2019 0:00,8,6/27/2019 11:25,8/7/2019 17:06,14,Male,Intact,Male,Neutered,10124 Aspen Street,Austin,TX,1,10543
+A789699,Hank,Owner Surrender,Normal,Dog,Staffordshire Mix,Brown,3/11/2009 0:00,522,3/13/2019 12:29,5/2/2019 7:59,529,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,7193
+A779281,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Black,6/26/2018 0:00,9,8/29/2018 12:18,9/3/2018 16:06,9,Male,Intact,Male,Neutered,Tortuga Trail And Odessa Lane,Austin,TX,1,98
+A791328,Unknown,Stray,Normal,Dog,Australian Cattle Dog,Red,8/28/2018 0:00,29,3/24/2019 14:15,3/28/2019 23:02,30,Male,Intact,Male,Neutered,Teri Road And East Stassney Lane,Austin,TX,1,1134
+A652827,Estrella,Stray,Normal,Dog,Labrador Retriever,Red,4/29/2012 0:00,80,11/15/2013 16:24,11/17/2013 17:19,81,Female,Intact,Female,Spayed,4405 Bucks Run,Austin,TX,1,1112
+A713531,Bruno,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Brown,12/8/2013 0:00,95,10/8/2015 11:01,10/12/2015 14:15,96,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,1110
+A785282,Rocky,Stray,Normal,Dog,German Shepherd Mix,Brown,11/30/2017 0:00,52,11/30/2018 10:39,12/11/2018 11:28,53,Male,Intact,Male,Intact,1802 Cannonwood Lane,Austin,TX,1,1119
+A774532,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,5/25/2018 0:00,3,6/16/2018 17:30,6/16/2018 17:58,3,Unknown,Unknown,Unknown,Unknown,Unknown address,Austin,TX,1,96
+A702547,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Brown,2/28/2015 0:00,10,5/15/2015 13:18,5/21/2015 17:42,11,Female,Intact,Female,Spayed,18101 Littig Rd,Manor,TX,1,1198
+A804788,Geer Oliver,Stray,Normal,Dog,Pointer Mix,White,9/19/2017 0:00,104,9/19/2019 11:04,9/19/2019 12:11,104,Male,Neutered,Male,Neutered,West 38Th Street And Oakmont Boulevard,Austin,TX,1,99
+A741573,Sweet Pea,Stray,Normal,Cat,Domestic Shorthair Mix,Black,5/4/2010 0:00,348,1/4/2017 10:32,1/4/2017 14:52,348,Female,Spayed,Female,Spayed,2801 Wells Branch Pkwy,Austin,TX,1,99
+A726717,Dumpling,Stray,Normal,Cat,Domestic Shorthair Mix,White,4/1/2016 0:00,6,5/13/2016 15:55,7/24/2016 17:14,16,Female,Intact,Female,Spayed,7912 Jester Blvd,Austin,TX,1,26491
+A667666,Justin,Stray,Normal,Cat,Domestic Medium Hair Mix,Brown Tabby,4/21/2013 0:00,30,11/21/2013 10:52,11/27/2013 16:09,31,Male,Neutered,Male,Neutered,E St Elmo Rd/Todd Ln,Austin,TX,1,1132
+A791302,Bear,Public Assist,Normal,Dog,Rottweiler,Black,3/24/2015 0:00,237,10/9/2019 18:52,10/14/2019 15:35,237,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,99
+A789336,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,2/18/2019 0:00,0,2/19/2019 18:15,2/19/2019 19:06,0,Unknown,Unknown,Unknown,Unknown,1088 Park Plaza,Austin,TX,1,0
+A737801,Sinatra,Public Assist,Normal,Dog,Siberian Husky,Buff,11/4/2014 0:00,104,11/7/2016 14:42,11/14/2016 12:11,105,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1109
+A705614,Blue,Stray,Normal,Cat,Domestic Longhair Mix,Blue Tabby,4/19/2015 0:00,8,6/19/2015 16:31,6/23/2015 18:05,9,Male,Intact,Male,Neutered,8023 Coulver Rd,Austin,TX,1,1222
+A664337,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,7/17/2013 0:00,11,10/2/2013 11:04,10/8/2013 18:45,11,Female,Intact,Female,Spayed,16801 Trevin Cv,Manor,TX,1,99
+A677090,Griffin,Stray,Normal,Cat,Siamese,Flame Point,2/19/2014 0:00,8,4/19/2014 12:49,6/28/2014 18:42,18,Male,Intact,Male,Neutered,8207 Canoga Ave,Austin,TX,1,22444
+A685948,Haley,Stray,Normal,Dog,Chihuahua Longhair Mix,Chocolate,3/11/2014 0:00,22,8/14/2014 17:46,8/26/2014 18:08,24,Female,Intact,Female,Spayed,Mercyside And Cambourne,Pflugerville,TX,1,2280
+A712162,Coco,Owner Surrender,Normal,Dog,Labrador Retriever,Chocolate,9/18/2014 0:00,52,9/18/2015 15:38,9/19/2015 16:30,52,Female,Spayed,Female,Spayed,Unknown address,Travis,TX,1,99
+A665625,Snickers,Owner Surrender,Normal,Dog,Basset Hound Mix,Tricolor,10/20/2012 0:00,371,12/4/2019 15:49,12/6/2019 11:41,371,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A491814,Sadie,Stray,Normal,Dog,Rat Terrier,White,11/7/2006 0:00,395,6/9/2014 11:31,6/9/2014 16:57,395,Female,Spayed,Female,Spayed,East Stassney & Teri Road,Austin,TX,1,99
+A690977,Willie,Stray,Normal,Dog,Pekingese Mix,Tan,10/28/2012 0:00,155,10/18/2015 17:16,10/23/2015 11:51,155,Male,Neutered,Male,Neutered,2237 East Riveride Drive,Austin,TX,1,99
+A709112,Jasmine,Stray,Normal,Dog,Pit Bull Mix,White,8/5/2009 0:00,313,8/5/2015 11:30,12/28/2015 11:13,333,Female,Intact,Female,Spayed,2850 State Hwy 71,Travis,TX,1,21377
+A710750,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,7/27/2015 0:00,4,8/27/2015 11:33,8/27/2015 17:24,4,Female,Intact,Female,Intact,4811 S Congress Ave,Austin,TX,1,97
+A672156,Blue,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,12/21/2013 0:00,6,2/5/2014 10:58,4/6/2014 17:32,15,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,22377
+A784904,Chewy,Public Assist,Normal,Dog,German Shepherd,Gold,11/24/2013 0:00,260,11/24/2018 11:39,11/28/2018 11:20,261,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1103
+A809815,Millie Petunia,Stray,Normal,Dog,Boxer,White,12/1/2015 0:00,208,12/1/2019 18:53,1/25/2020 19:04,216,Female,Intact,Female,Spayed,S Hwy 183 And Hwy 130,Austin,TX,1,8407
+A789537,Unknown,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,2/23/2018 0:00,52,2/25/2019 13:28,2/27/2019 18:54,52,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,99
+A692911,Lincoln,Stray,Normal,Dog,Australian Shepherd Mix,Brown Merle,11/28/2013 0:00,52,11/28/2014 12:32,12/7/2014 19:07,53,Male,Intact,Male,Neutered,Ed Bluestein/Hwy 183,Austin,TX,1,1119
+A689802,Mason,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,10/12/1997 0:00,886,10/9/2014 16:44,10/12/2014 16:54,887,Male,Neutered,Male,Neutered,1233 Broadmoor Dr,Austin,TX,1,1101
+A731644,Honeysuckle,Stray,Normal,Dog,Miniature Pinscher,Tricolor,7/25/2015 0:00,52,7/25/2016 13:15,8/2/2016 17:42,53,Female,Intact,Female,Spayed,6901 Wier Loop Rd,Austin,TX,1,1119
+A768626,Mocha,Stray,Normal,Dog,Pit Bull Mix,Tan,3/22/2011 0:00,365,3/22/2018 17:02,3/22/2018 18:35,365,Female,Spayed,Female,Spayed,Fm 812 And Lonesome Lane,Del Valle,TX,1,99
+A766390,Gypsy,Owner Surrender,Normal,Dog,Border Collie Mix,Black,2/8/2017 0:00,52,2/8/2018 12:06,2/16/2018 11:18,53,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1119
+A549917,Willow,Stray,Injured,Cat,Domestic Shorthair Mix,Brown Tabby,7/19/2008 0:00,548,1/20/2019 18:05,9/26/2019 12:16,583,Female,Spayed,Female,Spayed,1647 Rutland Dr,Austin,TX,1,37334
+A790221,Lukas,Stray,Normal,Dog,Rottweiler Mix,Black,3/6/2017 0:00,104,3/6/2019 16:07,3/15/2019 16:27,105,Male,Intact,Male,Neutered,11503 Parsons Rd,Manor,TX,1,1109
+A769906,Toast,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,3/22/2018 0:00,3,4/12/2018 12:20,6/18/2018 17:42,12,Male,Intact,Male,Neutered,7006 Bronco Court,Travis,TX,1,35225
+A738902,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,11/23/2015 0:00,52,11/23/2016 11:57,11/28/2016 18:10,53,Female,Intact,Female,Spayed,11215 Research Blvd  #204,Austin,TX,1,1119
+A690567,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,9/30/2014 0:00,3,10/22/2014 15:20,10/22/2014 17:40,3,Female,Intact,Female,Intact,9702 Swansons Ranch Rd,Austin,TX,1,96
+A759919,Unknown,Stray,Normal,Cat,Domestic Longhair Mix,Brown Tabby,8/18/2017 0:00,7,10/9/2017 16:39,10/13/2017 21:50,8,Male,Intact,Male,Neutered,Fm 969 And Johnny Morris Road,Austin,TX,1,1239
+A785641,Sony,Stray,Normal,Dog,Alaskan Husky,Brown,12/6/2016 0:00,104,12/9/2018 12:58,12/9/2018 14:25,104,Male,Intact,Male,Intact,North Pleasant Valley Road And East 5Th Street,Austin,TX,1,99
+A723255,Unknown,Wildlife,Sick,Other,Bat Mix,Brown,3/29/2015 0:00,52,3/29/2016 0:11,3/29/2016 8:37,52,Unknown,Unknown,Unknown,Unknown,Lonestar Dr,Travis,TX,0,99
+A780785,Esco,Stray,Normal,Dog,German Shepherd Mix,Cream,9/20/2015 0:00,156,9/20/2018 11:42,9/20/2018 19:01,156,Male,Intact,Male,Intact,7Th Street And Springdale Road,Austin,TX,1,99
+A745984,Gringo,Public Assist,Normal,Dog,Pit Bull Mix,Tan,3/27/2015 0:00,104,3/30/2017 18:42,4/2/2017 13:17,105,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1109
+A779915,Unknown,Stray,Normal,Cat,Siamese Mix,Lynx Point,9/3/2018 0:00,0,9/6/2018 16:05,11/16/2018 14:19,10,Male,Intact,Male,Neutered,2312 Rachael Street,Austin,TX,1,1009999
+A727392,Jessie,Stray,Normal,Dog,Dachshund Mix,Brown,5/21/2015 0:00,52,5/21/2016 15:59,5/24/2016 18:01,52,Female,Intact,Female,Spayed,Brodie Ln And Eskew Dr,Austin,TX,1,99
+A745406,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Tan,2/11/2017 0:00,4,3/17/2017 12:32,4/14/2017 9:12,8,Female,Intact,Female,Spayed,11719 Schriber Rd,Travis,TX,1,8000
+A790509,Baby,Stray,Normal,Dog,Australian Cattle Dog Mix,Tricolor,3/11/2017 0:00,104,3/11/2019 17:02,3/23/2019 0:00,106,Female,Intact,Female,Spayed,Parmer  Lane And Sh 130,Austin,TX,1,2138
+A648634,Deanna,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Tortie,3/1/2011 0:00,189,10/17/2014 15:07,10/22/2014 16:48,190,Female,Spayed,Female,Spayed,Unknown address,Hays,TX,1,1105
+A680419,Lizzy,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,4/2/2014 0:00,8,6/2/2014 15:17,6/8/2014 15:09,9,Female,Intact,Female,Intact,3702 Counselor,Austin,TX,1,1222
+A806941,Tabitha,Stray,Normal,Dog,Border Collie,Black,5/18/2019 0:00,21,10/18/2019 12:32,10/27/2019 17:53,23,Female,Intact,Female,Spayed,2302 East William Cannon Drive,Austin,TX,1,2289
+A678969,Cersei,Stray,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,4/9/2014 0:00,5,5/14/2014 15:20,7/12/2014 20:40,13,Female,Intact,Female,Spayed,Pearl/ 25Th,Austin,TX,1,20647
+A736183,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,8/15/2016 0:00,7,10/6/2016 11:34,10/8/2016 9:18,7,Female,Intact,Female,Intact,1905 Bitter Creek Dr,Austin,TX,0,98
+A763804,Unknown,Wildlife,Injured,Other,Raccoon Mix,Gray,12/16/2016 0:00,52,12/16/2017 11:54,12/17/2017 9:37,52,Unknown,Unknown,Unknown,Unknown,11809 Cedar Valley,Austin,TX,0,99
+A723327,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,3/29/2015 0:00,52,3/29/2016 22:56,3/30/2016 9:13,52,Unknown,Unknown,Unknown,Unknown,Lakeshore Blvd,Austin,TX,0,99
+A731842,Otto,Stray,Normal,Dog,Pug,Brown,7/28/2013 0:00,156,7/28/2016 10:32,8/4/2016 16:03,157,Male,Intact,Male,Neutered,Spellbrook Ln And Gold Crest Ln,Lakeway,TX,1,1106
+A790262,Mitzi,Owner Surrender,Normal,Dog,Dachshund,Black,3/7/2014 0:00,283,8/9/2019 10:38,8/17/2019 11:52,284,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1103
+A704872,Azalea,Stray,Normal,Dog,Chihuahua Shorthair Mix,White,6/10/2011 0:00,208,6/9/2015 18:56,7/5/2015 19:00,212,Female,Intact,Female,Spayed,710 E Ben White Blvd,Austin,TX,1,4176
+A770794,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,4/25/2017 0:00,52,4/25/2018 13:57,4/29/2018 15:00,52,Unknown,Unknown,Unknown,Unknown,610 Bouldin Avenue,Austin,TX,1,99
+A704353,Hugo,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,4/3/2015 0:00,8,6/3/2015 17:28,7/2/2015 0:00,12,Male,Intact,Male,Neutered,Hergotz Ln And Dalton Ln,Austin,TX,1,6074
+A750536,Coconut,Stray,Normal,Dog,Pit Bull Mix,Brown Brindle,5/28/2015 0:00,104,5/28/2017 14:19,6/10/2017 17:09,106,Female,Intact,Female,Spayed,9826 North Lake Creek Pkwy,Austin,TX,1,2138
+A679785,Ivy,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/20/2014 0:00,5,5/26/2014 12:24,6/29/2014 12:08,10,Female,Intact,Female,Spayed,2204 Vanderbilt Ln,Austin,TX,1,10000
+A776966,Cupcake,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Tan,6/5/2018 0:00,6,7/21/2018 13:53,7/22/2018 0:00,6,Female,Intact,Female,Intact,Unknown address,Austin,TX,1,98
+A687316,Harpo,Stray,Injured,Dog,Pit Bull Mix,Brown,9/3/2012 0:00,104,9/3/2014 13:17,9/26/2014 11:39,107,Male,Intact,Male,Neutered,6506 Williamson Rd,Travis,TX,1,3186
+A679157,Unknown,Stray,Nursing,Dog,Labrador Retriever,Cream,5/5/2014 0:00,1,5/17/2014 7:49,6/30/2014 17:15,8,Male,Intact,Male,Neutered,4434 Frontier Trl,Austin,TX,1,51636
+A797130,Grumpy,Stray,Normal,Cat,Domestic Shorthair,Blue,5/13/2019 0:00,3,6/9/2019 16:29,6/28/2019 12:08,6,Male,Intact,Male,Intact,6121 Ponca Street,Austin,TX,1,6000
+A780414,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,12/14/2017 0:00,39,9/14/2018 14:00,9/23/2018 13:49,40,Female,Intact,Female,Spayed,6Th Street And Ih35,Austin,TX,1,1125
+A771940,Archie,Stray,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,4/5/2018 0:00,5,5/12/2018 12:34,7/10/2018 7:40,13,Male,Intact,Male,Neutered,South 1St And Ben White,Austin,TX,1,20647
+A743860,Unknown,Owner Surrender,Nursing,Dog,Great Pyrenees Mix,White,2/16/2017 0:00,0,2/18/2017 14:03,2/25/2017 15:27,1,Unknown,Unknown,Unknown,Unknown,Unknown address,Travis,TX,1,11000
+A693788,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Cream,12/13/2014 0:00,0,12/14/2014 16:29,2/7/2015 17:45,8,Male,Intact,Male,Neutered,13808  Maha Rd,Austin,TX,1,647999
+A733324,Unknown,Stray,Normal,Dog,Rat Terrier Mix,Black,6/28/2016 0:00,7,8/20/2016 12:30,9/13/2016 13:40,11,Male,Intact,Male,Neutered,11752 Von Quintus Dr,Austin,TX,1,6352
+A623871,Slinky,Owner Surrender,Sick,Dog,Dachshund,Red,4/7/2006 0:00,570,3/14/2017 10:06,3/15/2017 16:23,570,Male,Neutered,Male,Neutered,Unknown address,Travis,TX,1,99
+A726189,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,4/15/2016 0:00,3,5/7/2016 14:04,5/8/2016 0:00,3,Male,Intact,Male,Intact,1701 Briarcliff Blvd,Austin,TX,1,96
+A798964,Unknown,Stray,Normal,Cat,Domestic Shorthair,Orange Tabby,5/2/2019 0:00,8,7/2/2019 14:38,7/7/2019 19:43,9,Male,Intact,Male,Neutered,14001 Dewberry Drive,Pflugerville,TX,1,1222
+A801087,Unknown,Stray,Sick,Cat,Domestic Shorthair,Black,7/16/2019 0:00,2,7/31/2019 9:53,7/31/2019 14:46,2,Female,Intact,Female,Intact,2106 Lamplight Village,Austin,TX,1,95
+A663550,Gus,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,7/11/2013 0:00,14,10/22/2013 13:36,10/27/2013 11:45,15,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1170
+A761508,Elliott,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,10/4/2017 0:00,4,11/6/2017 11:01,12/27/2017 7:13,12,Male,Intact,Male,Neutered,8005 Brockman,Austin,TX,1,23707
+A660790,Clyde,Stray,Normal,Dog,Siberian Husky Mix,Silver,2/12/2013 0:00,244,10/19/2017 16:47,10/20/2017 11:32,244,Male,Neutered,Male,Neutered,6300 Emerald Forest,Austin,TX,1,99
+A689836,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/18/2014 0:00,3,10/10/2014 12:45,10/10/2014 14:39,3,Female,Intact,Female,Intact,6918 Carwheel Dr,Austin,TX,1,96
+A539175,Jabon,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,3/31/2008 0:00,290,10/24/2013 21:33,10/25/2013 14:51,290,Male,Neutered,Male,Neutered,2302 E. William Cannon,Austin,TX,1,99
+A691544,Spruce,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,10/9/2014 0:00,4,11/6/2014 10:53,11/9/2014 17:31,4,Male,Intact,Male,Intact,6810 Kings West Point,Austin,TX,1,97
+A778731,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Black,6/19/2018 0:00,8,8/19/2018 13:01,8/25/2018 19:07,9,Male,Intact,Male,Neutered,507 West Applegate,Austin,TX,1,1222
+A735187,Morris,Stray,Normal,Cat,Domestic Shorthair Mix,Black,8/20/2016 0:00,4,9/20/2016 11:27,9/30/2016 0:00,5,Male,Intact,Male,Intact,3001 Yandall,Austin,TX,1,1341
+A762195,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,11/15/2016 0:00,52,11/15/2017 18:46,11/18/2017 19:09,52,Male,Intact,Male,Intact,Burleson Road And Princeton Drive,Austin,TX,1,99
+A678116,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,4/5/2014 0:00,4,5/4/2014 12:00,5/4/2014 13:47,4,Female,Intact,Female,Intact,4511 Lucksinger Ln,Austin,TX,1,97
+A747220,Jordan,Owner Surrender,Normal,Dog,German Shepherd Mix,Black,9/24/2016 0:00,29,4/16/2017 18:11,4/18/2017 15:24,29,Female,Intact,Female,Spayed,Unknown address,Manor,TX,1,99
+A793272,Maybel,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Black,10/22/2017 0:00,107,11/11/2019 11:13,11/22/2019 17:42,108,Female,Spayed,Female,Spayed,Unknown address,Outside Jurisdiction,unknown,1,1109
+A689698,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,10/8/2013 0:00,52,10/8/2014 11:17,10/9/2014 9:00,52,Female,Intact,Female,Intact,1902 Mirabeau St,Austin,TX,1,99
+A741779,Teddy,Stray,Normal,Dog,Shih Tzu Mix,Black,1/8/2012 0:00,261,1/8/2017 16:36,1/12/2017 18:47,261,Male,Intact,Male,Neutered,813 Sahara Ave,Austin,TX,1,99
+A670606,Bella,Public Assist,Normal,Cat,Domestic Shorthair Mix,Calico,1/11/2012 0:00,104,1/11/2014 1:23,1/11/2014 18:24,104,Female,Spayed,Female,Spayed,6920 Manchaca,Austin,TX,1,99
+A685823,Walker,Stray,Normal,Dog,Pit Bull Mix,Black,8/13/2011 0:00,156,8/13/2014 10:23,8/15/2014 17:17,156,Male,Neutered,Male,Neutered,Franklins Tail & Canon Yeomans Trl,Austin,TX,1,99
+A749412,Emerit,Stray,Normal,Dog,Australian Cattle Dog Mix,Red Tick,5/14/2016 0:00,52,5/14/2017 15:50,5/31/2017 10:36,54,Male,Intact,Male,Neutered,2001 Bastrop Hwy,Austin,TX,1,2176
+A749430,Maria,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Brown,11/30/2016 0:00,24,5/22/2017 18:30,5/25/2017 11:24,25,Female,Spayed,Female,Spayed,Unknown address,Travis,TX,1,1141
+A803672,Talulah,Owner Surrender,Normal,Cat,Domestic Shorthair,Blue,3/5/2019 0:00,26,9/4/2019 12:24,9/6/2019 17:56,26,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,99
+A810684,Charlie,Owner Surrender,Normal,Other,Hotot,White,3/18/2019 0:00,39,12/18/2019 11:37,1/14/2020 18:52,43,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,4508
+A754136,Audrey,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/16/2011 0:00,313,7/16/2017 11:53,7/19/2017 11:24,313,Female,Spayed,Female,Spayed,1311 Norwalk Ln,Austin,TX,1,99
+A729840,Unknown,Stray,Normal,Dog,Dachshund Mix,Red,6/24/2013 0:00,156,6/24/2016 14:35,6/28/2016 19:19,157,Male,Intact,Male,Neutered,Manchaca Rd And W William Cannon Dr,Austin,TX,1,1106
+A687082,Unknown,Stray,Sick,Cat,Domestic Shorthair Mix,Torbie,5/1/2014 0:00,17,8/31/2014 10:14,9/1/2014 17:04,17,Female,Intact,Female,Intact,4502 Gillis St,Austin,TX,0,99
+A678356,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Brown,3/7/2014 0:00,8,5/7/2014 17:24,5/11/2014 11:39,9,Female,Intact,Female,Intact,189 Jacobson Rd,Del Valle,TX,1,1222
+A684608,Button,Stray,Normal,Cat,Domestic Shorthair Mix,Black,6/26/2014 0:00,4,7/26/2014 10:51,10/4/2014 13:28,14,Male,Intact,Male,Neutered,5560 El Molino Cir,Del Valle,TX,1,34487
+A759600,Canelo,Public Assist,Normal,Dog,Jack Russell Terrier Mix,Black,10/4/2016 0:00,52,10/5/2017 15:58,10/15/2017 18:09,53,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,1119
+A795283,Sammy,Stray,Normal,Dog,Bruss Griffon,Red,9/18/2004 0:00,765,5/18/2019 18:33,11/30/2019 14:26,793,Male,Neutered,Male,Neutered,7512 Cayenne Lane,Austin,TX,1,29124
+A737601,Ham,Stray,Normal,Cat,Domestic Longhair Mix,Tortie,9/24/2016 0:00,5,11/1/2016 12:30,12/23/2016 15:36,12,Female,Intact,Female,Spayed,9102 Shepard Dr,Austin,TX,1,16705
+A676936,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,3/26/2014 0:00,3,4/17/2014 11:56,4/17/2014 14:30,3,Male,Intact,Male,Intact,7132 W 71 Hwy,Austin,TX,1,96
+A706942,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,6/13/2015 0:00,3,7/5/2015 15:21,7/5/2015 17:36,3,Unknown,Unknown,Unknown,Unknown,Ranch Rd 12 And Hamilton Pool Rd,Travis,TX,1,96
+A667361,Grizz,Stray,Normal,Dog,Pit Bull Mix,Brown,11/16/2012 0:00,52,11/16/2013 15:18,8/19/2014 14:38,91,Male,Intact,Male,Neutered,18748 Imperial Eagle Ln,Travis,TX,1,68293
+A768549,Unknown,Stray,Normal,Dog,American Bulldog Mix,Brown,2/21/2018 0:00,4,3/21/2018 12:44,3/21/2018 16:11,4,Male,Intact,Male,Intact,8104 Decker Lane,Austin,TX,1,97
+A801942,Unknown,Stray,Sick,Cat,Domestic Shorthair,Black,7/12/2019 0:00,4,8/12/2019 9:30,8/12/2019 9:56,4,Male,Intact,Male,Intact,1807 Belford Dr,Austin,TX,0,97
+A675344,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,12/26/2013 0:00,12,3/26/2014 14:41,3/28/2014 15:04,13,Female,Intact,Female,Intact,Twin Creek/ Twin Creek Cir,Austin,TX,1,1181
+A773212,Rain,Public Assist,Normal,Dog,German Shepherd Mix,Black,5/29/2015 0:00,156,5/29/2018 12:53,5/31/2018 11:34,156,Female,Spayed,Female,Spayed,10401 Anderson Mill Rd,Austin,TX,1,99
+A758853,Buggs,Owner Surrender,Injured,Dog,Chihuahua Longhair Mix,White,3/23/2015 0:00,130,9/23/2017 9:23,10/14/2017 17:40,133,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,3169
+A800517,Logan,Owner Surrender,Normal,Dog,Dachshund,Black,5/7/2019 0:00,10,7/22/2019 14:04,7/24/2019 21:46,11,Female,Intact,Female,Spayed,9345 East Highway  290,Austin,TX,1,1198
+A722847,Gloria,Stray,Injured,Cat,Domestic Medium Hair Mix,Calico,3/23/2012 0:00,208,3/23/2016 8:45,4/13/2016 0:00,211,Female,Intact,Female,Spayed,9210 Northgate Blvd,Austin,TX,1,3143
+A733677,Ortney,Stray,Normal,Dog,Jack Russell Terrier Mix,Tan,3/25/2016 0:00,21,8/25/2016 15:58,8/29/2016 18:42,22,Female,Intact,Female,Spayed,Mopac Blvd & Steck,Austin,TX,1,1146
+A685189,Willie,Stray,Normal,Dog,Field Spaniel Mix,Black,8/3/2004 0:00,521,8/3/2014 18:05,3/14/2015 12:57,553,Male,Intact,Male,Neutered,1603 E Oltorf St,Austin,TX,1,34065
+A712920,Sylvester,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,9/30/2013 0:00,104,9/30/2015 10:44,10/8/2015 17:06,105,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1109
+A726151,Whiskey,Stray,Normal,Dog,Labrador Retriever Mix,Black,6/17/2015 0:00,154,6/1/2018 18:35,6/8/2018 18:32,155,Male,Intact,Male,Neutered,Lemon Grass Lane,Pflugerville,TX,1,1106
+A742399,Moonpie,Stray,Normal,Dog,Australian Shepherd Mix,White,12/6/2016 0:00,6,1/21/2017 11:01,2/24/2017 17:05,11,Male,Intact,Male,Neutered,9201 Circuit Of The Americas Blvd,Travis,TX,1,9196
+A768421,Unknown,Stray,Pregnant,Cat,Domestic Shorthair Mix,Blue Tabby,3/19/2017 0:00,52,3/19/2018 13:24,3/22/2018 18:05,52,Female,Intact,Female,Intact,Unknown address,Austin,TX,1,99
+A766425,Blossom,Stray,Normal,Dog,Boxer Mix,White,2/8/2015 0:00,156,2/8/2018 17:45,4/16/2019 9:12,218,Female,Intact,Female,Spayed,7603 Wynne Ln,Austin,TX,1,86725
+A710765,Princess,Stray,Normal,Dog,Pit Bull,White,2/28/2007 0:00,443,8/27/2015 13:27,8/28/2015 18:48,443,Female,Spayed,Female,Spayed,11680 Research Blvd,Austin,TX,1,99
+A682767,Chico,Stray,Normal,Dog,Manchester Terrier,Black,1/2/2014 0:00,200,11/4/2017 17:52,11/5/2017 16:26,200,Male,Neutered,Male,Neutered,Airport Blvd And Shady Lane,Austin,TX,1,99
+A773924,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/11/2018 0:00,8,6/7/2018 14:23,6/11/2018 17:49,8,Male,Intact,Male,Neutered,4607 Cypress Bend,Austin,TX,1,98
+A743701,Satin,Stray,Injured,Cat,Domestic Shorthair Mix,Black,2/15/2014 0:00,156,2/15/2017 8:15,3/15/2017 20:27,160,Male,Intact,Male,Neutered,3400 Research,Austin,TX,0,4202
+A790273,Casper,Owner Surrender,Aged,Dog,Chihuahua Longhair,White,3/7/2000 0:00,991,3/7/2019 13:23,3/7/2019 13:48,991,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,0,99
+A806632,Unknown,Stray,Injured,Dog,Alaskan Husky,Black,10/13/2018 0:00,52,10/13/2019 15:33,10/19/2019 16:45,53,Male,Intact,Male,Neutered,21310 Lindeman Lane,Travis,TX,1,1119
+A720057,Unknown,Wildlife,Sick,Other,Bat Mix,Brown,2/2/2014 0:00,104,2/2/2016 23:41,3/10/2016 9:27,109,Unknown,Unknown,Unknown,Unknown,2905 Swisher St,Austin,TX,0,5340
+A794381,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Gray Tabby,3/7/2019 0:00,8,5/7/2019 15:37,5/11/2019 17:49,9,Male,Intact,Male,Neutered,22813 Hwy 71,Travis,TX,1,1222
+A784616,Unknown,Stray,Sick,Cat,Domestic Shorthair Mix,Cream Tabby,10/2/2018 0:00,6,11/17/2018 14:27,3/6/2019 9:03,22,Male,Intact,Male,Intact,6805 Meadow Circle,Austin,TX,0,58065
+A767155,Cinnamon,Owner Surrender,Normal,Dog,Australian Cattle Dog Mix,Tricolor,2/28/2017 0:00,53,3/7/2018 11:07,3/11/2018 17:14,53,Female,Spayed,Female,Spayed,Unknown address,Outside Jurisdiction,unknown,1,99
+A779155,Powell 4,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,8/26/2010 0:00,417,8/26/2018 13:50,9/1/2018 11:59,418,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1102
+A699506,Pepper,Stray,Normal,Dog,Australian Cattle Dog Mix,Black,10/28/2014 0:00,21,3/28/2015 15:30,3/28/2015 16:34,21,Female,Spayed,Female,Spayed,2008 Grey Castle Dr,Austin,TX,1,99
+A777846,Spike,Stray,Normal,Dog,Pit Bull,Tan,8/4/2016 0:00,104,8/4/2018 13:03,8/18/2018 15:46,106,Male,Neutered,Male,Neutered,3501 Ranch Road,Austin,TX,1,2138
+A682435,Unknown,Wildlife,Injured,Other,Opossum Mix,Gray,6/27/2013 0:00,52,6/27/2014 16:21,6/27/2014 16:50,52,Unknown,Unknown,Unknown,Unknown,6409 Sunstrip Dr,Austin,TX,0,99
+A806908,Chaos,Stray,Normal,Dog,Labrador Retriever,Brown Brindle,10/18/2016 0:00,156,10/17/2019 13:52,10/18/2019 11:29,156,Male,Neutered,Male,Neutered,Molokai,Austin,TX,1,99
+A601363,Stacie,Owner Surrender,Normal,Dog,Pointer,White,7/9/2009 0:00,387,12/14/2016 9:48,12/26/2016 18:12,389,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2110
+A761356,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,9/18/2017 0:00,6,11/3/2017 11:20,11/9/2017 14:46,7,Male,Intact,Male,Intact,5800 Techni Center,Austin,TX,1,1262
+A776327,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,6/26/2018 0:00,2,7/11/2018 17:22,7/12/2018 12:05,2,Unknown,Unknown,Unknown,Unknown,2412 Kramer Lane,Austin,TX,1,95
+A781677,Izzie,Stray,Normal,Dog,Cavalier Span Mix,Tricolor,10/4/2008 0:00,521,10/3/2018 16:10,10/8/2018 15:49,522,Female,Spayed,Female,Spayed,508 West Odell Street,Austin,TX,1,1101
+A690401,Unknown,Wildlife,Sick,Other,Bat Mix,Brown,4/19/2014 0:00,26,10/19/2014 23:45,10/20/2014 8:06,26,Unknown,Unknown,Unknown,Unknown,500 E. Cesar Chavez St,Austin,TX,0,99
+A677930,Oakley,Stray,Normal,Dog,Boxer,Tricolor,5/1/2012 0:00,104,5/1/2014 13:19,5/2/2014 16:56,104,Male,Intact,Male,Neutered,12304 Pleasant Hill Ct,Austin,TX,1,99
+A734272,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Black,9/3/2011 0:00,261,9/3/2016 16:20,9/4/2016 15:43,261,Female,Spayed,Female,Spayed,Manchaca Rd And Berkeley Ave,Austin,TX,1,99
+A710903,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,8/16/2015 0:00,1,8/29/2015 16:59,8/29/2015 18:33,1,Unknown,Unknown,Unknown,Unknown,5934 Hammermill Run,Austin,TX,1,90
+A668289,Unknown,Stray,Feral,Cat,Domestic Medium Hair Mix,Calico,6/1/2012 0:00,78,12/1/2013 13:44,12/6/2013 11:29,79,Female,Intact,Female,Spayed,15301 Brenda St,Austin,TX,1,1112
+A781536,Harley,Stray,Normal,Dog,Australian Kelpie Mix,Black,9/1/2018 0:00,4,10/1/2018 11:58,11/17/2018 14:19,11,Male,Intact,Male,Neutered,10804 Mc Angus,Del Valle,TX,1,19048
+A746626,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,4/5/2016 0:00,52,4/5/2017 18:48,4/6/2017 14:51,52,Male,Neutered,Male,Neutered,1505 Willow,Austin,TX,0,99
+A790422,Osa,Stray,Normal,Dog,Siberian Husky,Black,2/23/2017 0:00,106,3/10/2019 10:54,3/10/2019 17:49,106,Female,Intact,Female,Intact,8314 West Highway 71,Austin,TX,1,99
+A714133,Rose,Owner Surrender,Normal,Dog,Soft Coated Wheaten Terrier Mix,Chocolate,10/18/2014 0:00,52,10/18/2015 13:43,10/19/2015 14:55,52,Female,Intact,Female,Intact,112134 County Line Road,Travis,TX,1,99
+A709374,Emily,Stray,Normal,Dog,Pit Bull Mix,Tan,8/8/2014 0:00,52,8/8/2015 11:26,9/29/2015 16:03,59,Female,Intact,Female,Spayed,14510 Wells School Rd,Manor,TX,1,8040
+A756074,Mirame,Stray,Normal,Dog,Chihuahua Shorthair Mix,White,5/30/2017 0:00,10,8/14/2017 9:02,8/18/2017 18:07,11,Female,Intact,Female,Spayed,Montopolis Dr And Riverside,Austin,TX,1,1198
+A670041,Halo,Stray,Normal,Dog,German Shepherd Mix,Black,1/1/2002 0:00,626,1/1/2014 11:29,1/1/2014 16:01,626,Female,Spayed,Female,Spayed,Braker And Oakwood Dr,Austin,TX,1,99
+A772450,Unknown,Wildlife,Sick,Other,Bat,Brown,5/19/2016 0:00,104,5/19/2018 17:14,5/20/2018 9:13,104,Unknown,Unknown,Unknown,Unknown,900 Barton Springs Rd,Austin,TX,0,99
+A676315,Unknown,Wildlife,Injured,Other,Fox Mix,Brown,4/8/2013 0:00,52,4/8/2014 8:53,4/8/2014 9:03,52,Unknown,Unknown,Unknown,Unknown,1309 Bonham Ter.,Austin,TX,0,99
+A787220,Unknown,Wildlife,Injured,Other,Bat Mix,Black,1/9/2017 0:00,104,1/9/2019 16:19,1/10/2019 9:32,104,Unknown,Unknown,Unknown,Unknown,1800 East Stassney Lane,Austin,TX,0,99
+A740303,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,11/29/2016 0:00,2,12/14/2016 15:53,12/15/2016 15:36,2,Female,Intact,Female,Intact,22129 Silvia Dr,Travis,TX,1,95
+A691217,Lucy,Stray,Normal,Dog,Labrador Retriever Mix,Red,8/20/2014 0:00,10,10/31/2014 17:25,11/4/2014 17:44,10,Female,Intact,Female,Spayed,7201 Levander Loop,Austin,TX,1,99
+A753974,Squirrel,Owner Surrender,Normal,Cat,Domestic Medium Hair Mix,Brown Tabby,4/13/2017 0:00,13,7/13/2017 17:21,7/28/2017 22:16,15,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,2404
+A781718,Unknown,Owner Surrender,Normal,Dog,Cairn Terrier Mix,White,3/8/2018 0:00,30,10/9/2018 18:30,10/10/2018 13:34,30,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A726279,Mac,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,4/6/2016 0:00,4,5/9/2016 11:28,5/28/2016 15:53,7,Male,Intact,Male,Intact,1308 Thornberry Rd,Austin,TX,1,5292
+A714073,Mercury,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,9/17/2015 0:00,4,10/17/2015 14:00,10/21/2015 12:02,4,Male,Intact,Male,Intact,6375 E Highway 290,Austin,TX,1,97
+A696691,Aries,Owner Surrender,Normal,Dog,Pit Bull Mix,Black,2/10/2010 0:00,261,2/11/2015 13:05,2/13/2015 17:17,261,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A678811,Onyx,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,5/13/2008 0:00,313,5/13/2014 10:59,5/26/2014 18:04,314,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1103
+A771127,Unknown,Stray,Nursing,Dog,Pit Bull Mix,Black,4/24/2018 0:00,0,4/30/2018 19:18,5/3/2018 14:29,1,Female,Intact,Female,Intact,1501 S 973,Austin,TX,1,11000
+A748100,Robin,Stray,Normal,Cat,Domestic Shorthair Mix,White,2/22/2017 0:00,9,4/29/2017 11:38,5/18/2017 18:27,12,Male,Intact,Male,Neutered,1220 Camino La Costa,Austin,TX,1,4087
+A781223,Unknown,Stray,Normal,Cat,Siamese Mix,Lynx Point,4/26/2018 0:00,21,9/25/2018 18:52,11/23/2018 8:18,30,Male,Intact,Male,Intact,1325 North Fm 973 Road,Austin,TX,0,12938
+A790799,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,Black,3/16/2019 0:00,0,3/16/2019 16:01,5/28/2019 12:28,10,Male,Intact,Male,Neutered,Unknown address,Pflugerville,TX,1,1009999
+A805416,Obsidian Gomez,Owner Surrender,Normal,Cat,Domestic Shorthair,Black,9/26/2017 0:00,104,9/26/2019 15:44,12/5/2019 19:10,114,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,11060
+A677564,Unknown,Stray,Sick,Cat,Domestic Shorthair Mix,Black,4/4/2014 0:00,3,4/26/2014 13:08,4/26/2014 13:41,3,Male,Intact,Male,Intact,1941 Webberville Rd,Austin,TX,0,96
+A801468,Creamsicle,Stray,Normal,Cat,Domestic Shorthair,Cream Tabby,7/3/2019 0:00,4,8/4/2019 17:21,10/22/2019 14:17,15,Male,Intact,Male,Neutered,5708 Silver Screen Drive,Austin,TX,1,40609
+A710031,Piper,Stray,Normal,Dog,Labrador Retriever,Black,6/8/2015 0:00,9,8/16/2015 11:40,8/25/2015 15:15,11,Female,Intact,Female,Spayed,Redwater Dr And Manchaca Rd,Austin,TX,1,2538
+A665376,Unknown,Stray,Injured,Dog,Chihuahua Shorthair Mix,Tan,10/17/2005 0:00,417,10/16/2013 19:08,10/20/2013 13:35,417,Male,Neutered,Male,Neutered,Travy Lynn,Austin,TX,0,99
+A737848,Charlie,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,White,11/5/2008 0:00,417,11/5/2016 14:15,12/6/2016 18:26,421,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,4138
+A661639,Achilles,Stray,Normal,Dog,German Shepherd Mix,Brown,8/23/2012 0:00,149,7/7/2015 7:54,7/8/2015 19:05,149,Male,Intact,Male,Neutered,Thornton & Austin,Austin,TX,1,99
+A792889,Piggiesmalls,Stray,Normal,Other,Guinea Pig Mix,Gray,4/4/2019 0:00,1,4/16/2019 18:00,4/18/2019 16:14,2,Unknown,Unknown,Unknown,Unknown,Congress And Wasson,Austin,TX,1,2000
+A695070,David,Stray,Normal,Cat,Russian Blue Mix,Blue,1/8/2014 0:00,52,1/8/2015 14:17,1/12/2015 0:00,52,Male,Neutered,Male,Neutered,3400 Ranch Rd 620 S,Bee Cave,TX,1,99
+A673221,Timmie,Stray,Normal,Dog,Dachshund Mix,Brown,9/20/2013 0:00,21,2/20/2014 13:31,2/28/2014 15:24,23,Female,Intact,Female,Spayed,5807 Sweeney Cir,Austin,TX,1,2289
+A682925,Astrid,Stray,Normal,Dog,Manchester Terrier Mix,Black,7/4/2012 0:00,104,7/4/2014 19:26,9/3/2014 17:58,113,Female,Intact,Female,Spayed,51St And Marymount,Austin,TX,1,9878
+A733559,Guacamole,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/24/2016 0:00,4,8/23/2016 16:58,10/2/2016 17:46,10,Male,Intact,Male,Neutered,7001 South Congress Avenue,Austin,TX,1,14878
+A731344,Sam,Stray,Normal,Dog,Labrador Retriever Mix,Tan,7/20/2010 0:00,313,7/20/2016 17:04,8/13/2016 18:09,316,Male,Intact,Male,Neutered,Anderson Mill Rd And 183,Austin,TX,1,3128
+A765969,Gordo,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Cream Tabby,1/30/2013 0:00,260,1/30/2018 14:33,2/19/2018 17:10,263,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,3134
+A798781,Unknown,Owner Surrender,Nursing,Cat,Domestic Shorthair,White,6/16/2019 0:00,2,6/30/2019 14:03,6/30/2019 19:00,2,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,95
+A705379,Belle,Owner Surrender,Normal,Dog,Maltese,White,3/16/2015 0:00,13,6/16/2015 15:08,7/10/2015 15:02,16,Female,Intact,Female,Spayed,12308 Limerick Ave,Austin,TX,1,3786
+A736622,Fresca,Stray,Normal,Cat,Domestic Longhair Mix,Calico,8/5/2009 0:00,375,10/14/2016 11:18,10/19/2016 14:37,376,Female,Intact,Female,Intact,2501 Manor Rd,Austin,TX,1,1102
+A787890,Unknown,Stray,Normal,Dog,Boxer Mix,Brown Brindle,11/11/2018 0:00,10,1/22/2019 11:18,1/27/2019 13:02,11,Male,Intact,Male,Neutered,6223 Boling Drive,Austin,TX,1,1198
+A790533,Madie,Public Assist,Normal,Dog,Australian Shepherd Mix,Tricolor,3/12/2015 0:00,208,3/12/2019 9:33,3/12/2019 16:44,208,Female,Spayed,Female,Spayed,4201 Ed Bluestein,Austin,TX,1,99
+A756764,Hero,Stray,Injured,Dog,Chihuahua Shorthair Mix,Tan,8/25/2014 0:00,156,8/25/2017 0:01,9/1/2017 19:39,157,Male,Intact,Male,Neutered,6011 Jacqueline Ln,Travis,TX,1,1106
+A654541,Target,Public Assist,Normal,Dog,Great Pyrenees,White,5/22/2010 0:00,263,6/11/2015 13:48,6/14/2015 14:56,264,Male,Neutered,Male,Neutered,13712 Hwy 20,Travis,TX,1,1103
+A683024,Ruby,Stray,Aged,Dog,Collie Rough Mix,White,7/6/2001 0:00,678,7/6/2014 8:31,7/10/2014 14:13,678,Female,Intact,Female,Intact,12034 Research,Austin,TX,0,99
+A751019,Luna,Stray,Normal,Other,Rabbit Sh Mix,Black,5/19/2017 0:00,2,6/3/2017 11:59,9/2/2017 14:29,15,Female,Intact,Female,Intact,6506 High Point Cove,Austin,TX,1,93571
+A684959,Pandora,Stray,Normal,Dog,Labrador Retriever Mix,Black,5/30/2014 0:00,8,7/30/2014 18:55,8/3/2014 13:42,9,Female,Intact,Female,Intact,E Parmer Ln And Hwy 130,Travis,TX,1,1222
+A732458,Kelso,Stray,Normal,Dog,Hovawart,Black,8/8/2015 0:00,52,8/8/2016 12:13,8/16/2016 18:20,53,Male,Intact,Male,Neutered,Great Falls Dr And Belfry Pass,Travis,TX,1,1119
+A689568,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,10/6/2011 0:00,156,10/6/2014 12:08,10/7/2014 9:00,156,Female,Spayed,Female,Spayed,12402 Knoll Ridge Dr,Austin,TX,1,99
+A595993,Pluto,Public Assist,Normal,Dog,Pit Bull,Red,3/9/2011 0:00,184,9/23/2014 14:43,10/3/2014 17:19,186,Male,Neutered,Male,Neutered,1156 Cesar Chavez,Austin,TX,1,2121
+A784842,Jax,Stray,Normal,Dog,Pit Bull Mix,White,11/20/2017 0:00,52,11/20/2018 15:17,8/19/2019 17:52,91,Male,Intact,Male,Neutered,Wells Branch Parkway And Dessau Road,Pflugerville,TX,1,68293
+A697029,Unknown,Stray,Normal,Dog,Collie Smooth,White,10/1/2014 0:00,19,2/16/2015 13:46,2/20/2015 17:14,20,Male,Intact,Male,Neutered,Wedding Dr And Chime Dr,Manor,TX,1,1151
+A664258,Sylvio,Stray,Normal,Dog,Weimaraner Mix,Silver,10/1/2006 0:00,365,10/1/2013 11:15,10/1/2013 12:27,365,Male,Neutered,Male,Neutered,Fm 1626/Manchaca Rd,Travis,TX,1,99
+A688538,Jack,Stray,Normal,Dog,Labrador Retriever Mix,Black,7/5/2014 0:00,11,9/20/2014 15:09,9/27/2014 12:33,12,Female,Intact,Female,Spayed,9201 Circuit Of Americas Blvd,Del Valle,TX,1,1189
+A687132,Benz,Stray,Normal,Dog,German Shepherd,Brown,9/2/2012 0:00,104,9/1/2014 11:03,9/4/2014 18:34,104,Male,Neutered,Male,Neutered,9500 Dessau Rd,Austin,TX,1,99
+A805610,Tofu,Owner Surrender,Normal,Dog,Labrador Retriever,Black,9/28/2019 0:00,0,9/29/2019 13:05,11/27/2019 15:44,8,Male,Intact,Male,Neutered,5804 Burleson Road,Austin,TX,1,647999
+A726980,Kion,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Chocolate,3/22/2016 0:00,8,5/22/2016 11:55,5/22/2016 12:57,8,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,98
+A793817,Flannel,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,3/17/2019 0:00,6,4/30/2019 12:26,7/3/2019 7:19,15,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,22377
+A589009,Rogue Momo,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/18/2010 0:00,230,12/15/2014 16:08,12/15/2014 19:17,230,Male,Neutered,Male,Neutered,11200 Lakeline Mall Drive,Cedar Park,TX,1,99
+A673884,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,Brown Tabby,2/10/2014 0:00,3,3/4/2014 11:01,3/7/2014 14:38,3,Female,Intact,Female,Intact,Andtree And Springdale,Austin,TX,1,96
+A800641,Unknown,Stray,Normal,Cat,Domestic Shorthair,White,4/9/2019 0:00,15,7/24/2019 12:42,8/4/2019 16:12,16,Female,Intact,Female,Intact,11728 Day Camp Lane,Austin,TX,1,1165
+A724076,Ghost,Stray,Normal,Dog,Labrador Retriever Mix,White,4/11/2014 0:00,133,11/2/2016 14:26,11/2/2016 17:13,133,Male,Neutered,Male,Neutered,7113 Brick Slope Path,Austin,TX,1,99
+A748876,Grizzley,Stray,Normal,Dog,Siberian Husky Mix,Red,5/8/2016 0:00,52,5/8/2017 11:48,5/8/2017 13:17,52,Male,Intact,Male,Intact,N Lamar Blvd & W 29Th St,Austin,TX,1,99
+A749790,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Brown Brindle,4/27/2017 0:00,3,5/19/2017 14:31,5/26/2017 9:54,4,Male,Intact,Male,Intact,Davis And Manchaca,Austin,TX,1,1419
+A741493,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,1/3/2016 0:00,52,1/3/2017 0:43,1/3/2017 9:50,52,Unknown,Unknown,Unknown,Unknown,13201 Jacobson,Travis,TX,0,99
+A735319,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,9/7/2016 0:00,2,9/22/2016 11:53,9/22/2016 18:46,2,Female,Intact,Female,Intact,2317 S Pleasant Valley Rd,Austin,TX,1,95
+A690279,Dingo,Owner Surrender,Normal,Dog,Carolina Dog Mix,Tan,12/17/2013 0:00,43,10/17/2014 12:34,10/26/2014 16:19,44,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1122
+A772116,Lulu,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Calico,8/14/2017 0:00,39,5/14/2018 16:31,5/27/2018 19:32,40,Female,Intact,Female,Spayed,Unknown address,Outside Jurisdiction,unknown,1,1125
+A794679,Gilgamesh,Stray,Normal,Dog,Picardy Sheepdog Mix,Tan,5/10/2017 0:00,104,5/10/2019 18:29,5/17/2019 17:08,105,Male,Intact,Male,Neutered,5501 Ed Bluestein,Austin,TX,1,1109
+A665297,Unknown,Stray,Nursing,Cat,Domestic Medium Hair Mix,Blue,10/1/2013 0:00,2,10/16/2013 10:45,10/16/2013 11:50,2,Female,Intact,Female,Intact,6001 Perlita Dr,Austin,TX,1,95
+A756533,Jawa,Owner Surrender,Normal,Dog,Rat Terrier,Tricolor,8/21/2014 0:00,156,8/21/2017 15:15,8/22/2017 12:04,156,Female,Intact,Female,Intact,Unknown address,Austin,TX,1,99
+A769524,Unknown,Wildlife,Injured,Other,Bat Mix,Brown,4/5/2016 0:00,104,4/5/2018 22:40,4/6/2018 9:11,104,Unknown,Unknown,Unknown,Unknown,4619 Gillis Street,Austin,TX,0,99
+A686365,Hazel,Owner Surrender,Normal,Dog,Carolina Dog,Tan,10/20/2013 0:00,99,9/14/2015 11:50,10/22/2017 14:22,209,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,232198
+A695438,Ginger,Owner Surrender,Normal,Dog,Australian Kelpie Mix,Red,1/15/2012 0:00,158,1/26/2015 18:05,2/2/2015 16:30,159,Female,Spayed,Female,Spayed,Unknown address,Outside Jurisdiction,unknown,1,1106
+A719853,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,5/29/2015 0:00,35,1/29/2016 11:16,2/2/2016 18:53,35,Female,Intact,Female,Spayed,11900 Buckingham Rd,Austin,TX,1,99
+A790859,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,3/17/2011 0:00,417,3/17/2019 19:25,3/21/2019 17:10,418,Female,Spayed,Female,Spayed,1833 Cheddar Loop Road,Travis,TX,1,1102
+A695594,Doug,Stray,Normal,Dog,Pit Bull Mix,Brown,1/18/2014 0:00,52,1/18/2015 15:48,1/29/2015 18:46,53,Male,Intact,Male,Neutered,Doug Sahm Hill Path,Austin,TX,1,1119
+A757418,Raider,Stray,Normal,Dog,Labrador Retriever Mix,Black,6/21/2017 0:00,10,9/2/2017 10:40,9/6/2017 17:13,11,Male,Intact,Male,Neutered,183 And 1327,Austin,TX,1,1198
+A640106,Sam,Public Assist,Normal,Dog,Australian Cattle Dog Mix,White,4/20/2012 0:00,112,6/13/2014 17:25,6/24/2014 12:12,113,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,1108
+A808551,Unknown,Stray,Normal,Dog,Chihuahua Shorthair Mix,Tan,11/10/2017 0:00,104,11/10/2019 14:41,11/29/2019 13:33,107,Female,Intact,Female,Spayed,Loyola And Johhny Morris Road,Austin,TX,1,3186
+A807852,Unknown,Stray,Normal,Cat,Domestic Shorthair,Brown Tabby,7/31/2019 0:00,13,10/31/2019 11:04,11/5/2019 11:45,13,Male,Intact,Male,Intact,6303 Dooley Trail,Austin,TX,1,99
+A713572,Seven,Public Assist,Normal,Dog,Pit Bull,Brown Brindle,10/8/2014 0:00,52,10/8/2015 21:01,10/21/2015 11:39,54,Female,Intact,Female,Intact,802 Yarbers,Travis,TX,1,2176
+A792825,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,Blue,4/5/2019 0:00,1,4/15/2019 18:10,4/15/2019 18:54,1,Male,Intact,Male,Intact,10801 Old San Antonio Road,Austin,TX,1,90
+A729153,Rex,Owner Surrender,Normal,Dog,German Shepherd,Brown Brindle,6/14/2013 0:00,168,9/2/2016 9:35,9/18/2016 18:55,170,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,2123
+A786530,Chloe,Stray,Normal,Cat,Domestic Longhair Mix,Blue Tabby,4/27/2018 0:00,34,12/27/2018 11:03,12/31/2018 16:47,35,Female,Intact,Female,Spayed,5604 Mesquite Grove Road,Austin,TX,1,1129
+A704515,Unknown,Owner Surrender,Normal,Dog,Chihuahua Shorthair Mix,Tricolor,5/26/2015 0:00,1,6/5/2015 17:05,6/5/2015 18:20,1,Female,Intact,Female,Intact,2904 Ellon Rd,Del Valle,TX,1,90
+A770701,Unknown,Public Assist,Normal,Other,Mouse Mix,White,4/24/2017 0:00,52,4/24/2018 8:01,5/3/2018 16:32,53,Unknown,Unknown,Unknown,Unknown,4434 Frontier Trl,Austin,TX,1,1119
+A721729,Brucie,Owner Surrender,Normal,Dog,German Shepherd Mix,Tan,5/2/2015 0:00,58,6/11/2016 15:34,6/12/2016 16:48,58,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A792446,Watson,Stray,Normal,Dog,Rat Terrier Mix,Tan,4/10/2017 0:00,121,8/11/2019 17:42,8/15/2019 14:27,122,Male,Neutered,Male,Neutered,2909 Stock Drive,Austin,TX,1,1108
+A755732,Spooner,Stray,Normal,Dog,Papillon Mix,Red,8/8/2016 0:00,54,8/21/2017 12:14,8/21/2017 14:43,54,Male,Intact,Male,Intact,Sparkle Road And Elm Creek Valley,Travis,TX,1,99
+A770622,Unknown,Stray,Normal,Dog,Pekingese,Black,4/23/2010 0:00,417,4/22/2018 18:20,4/26/2018 12:05,417,Male,Neutered,Male,Neutered,100800 Lakeline Boulevard,Austin,TX,1,99
+A802881,Unknown,Owner Surrender,Normal,Cat,Domestic Shorthair,Blue,6/17/2019 0:00,9,8/24/2019 12:00,8/29/2019 17:50,10,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,1208
+A587190,Ruby,Stray,Injured,Dog,Brittany Mix,White,10/19/2006 0:00,370,11/21/2013 22:20,11/22/2013 18:50,370,Female,Spayed,Female,Spayed,6607 Circle S Rd.,Austin,TX,1,99
+A698595,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,3/14/2013 0:00,104,3/14/2015 13:03,3/15/2015 9:00,104,Unknown,Unknown,Unknown,Unknown,5712 Fitchwood Lane,Austin,TX,1,99
+A797766,Louise,Stray,Normal,Dog,Labrador Retriever Mix,Tan,11/17/2018 0:00,30,6/17/2019 15:07,6/28/2019 10:27,31,Female,Intact,Female,Intact,6808 South Ih 35,Austin,TX,1,1132
+A676631,Toothless,Stray,Sick,Cat,Domestic Shorthair Mix,Black,10/12/2013 0:00,26,4/12/2014 17:46,4/24/2014 13:08,27,Female,Intact,Female,Intact,1601 E Slaughter Ln,Austin,TX,1,1137
+A710936,Thor,Public Assist,Normal,Dog,German Shepherd Mix,Sable,8/30/2012 0:00,156,8/30/2015 12:38,9/10/2015 16:43,158,Male,Intact,Male,Neutered,Unknown address,Del Valle,TX,1,2125
+A747406,Sigmund,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,4/19/2000 0:00,887,4/19/2017 13:08,5/1/2017 11:17,888,Male,Neutered,Male,Neutered,11625 Rydalwater Ln,Austin,TX,1,1101
+A798175,Unknown,Stray,Normal,Dog,Cairn Terrier,Black,6/22/2017 0:00,104,6/22/2019 13:56,6/27/2019 0:00,105,Male,Intact,Male,Neutered,17102 Prestons Braid Lane,Pflugerville,TX,1,1109
+A690483,Dexter,Stray,Normal,Dog,Border Terrier Mix,Tan,8/21/2014 0:00,8,10/21/2014 13:39,11/13/2014 15:48,12,Male,Intact,Male,Intact,1840 Burton Drive,Austin,TX,1,6074
+A646896,Bruiser,Owner Surrender,Normal,Dog,Jack Russell Terrier Mix,White,2/1/2010 0:00,285,7/20/2015 14:00,8/3/2015 11:32,287,Male,Neutered,Male,Neutered,11606 Mary Hargrove Ln,Austin,TX,1,2113
+A666202,Unknown,Wildlife,Normal,Other,Bat,Brown,9/28/2013 0:00,4,10/28/2013 17:49,10/28/2013 18:03,4,Unknown,Unknown,Unknown,Unknown,201 E 4Th St,Austin,TX,0,97
+A730069,Milo,Stray,Normal,Cat,Domestic Shorthair Mix,Black,5/22/2016 0:00,5,6/28/2016 7:12,7/31/2016 17:59,10,Male,Intact,Male,Intact,7418 Cameron Rd,Austin,TX,1,10000
+A691935,Bruno,Public Assist,Sick,Dog,Pit Bull Mix,Brown,11/12/2011 0:00,156,11/12/2014 14:01,12/9/2014 13:09,160,Male,Neutered,Male,Neutered,711 E 50Th # B,Austin,TX,1,4202
+A796125,Unknown,Stray,Normal,Dog,Pit Bull,White,12/29/2018 0:00,21,5/29/2019 11:44,6/2/2019 18:36,22,Female,Intact,Female,Spayed,2101 Jesse E Segovia Street,Austin,TX,1,1146
+A802717,Rotelli,Stray,Normal,Dog,Miniature Poodle,Tan,8/21/2017 0:00,104,8/21/2019 16:33,9/1/2019 17:13,105,Female,Intact,Female,Spayed,Estrellas Dr,Austin,TX,1,1109
+A721962,Unknown,Stray,Normal,Dog,Dachshund Mix,Black,1/16/2016 0:00,7,3/8/2016 12:44,3/17/2016 17:04,8,Male,Intact,Male,Neutered,S 1St St & Eberhart Ln,Austin,TX,1,1239
+A739026,Dolores,Stray,Normal,Cat,Domestic Shorthair Mix,White,11/26/2015 0:00,52,11/26/2016 14:58,1/22/2017 18:24,60,Female,Intact,Female,Spayed,11609 Morgans Point St,Manor,TX,1,9328
+A790564,Unknown,Stray,Normal,Dog,Catahoula Mix,Blue Merle,11/5/2018 0:00,18,3/12/2019 14:41,3/16/2019 16:07,18,Male,Intact,Male,Neutered,Manor And Rogge,Austin,TX,1,99
+A694402,Peluchin,Owner Surrender,Normal,Dog,Toy Poodle Mix,Buff,12/27/2012 0:00,104,12/27/2014 15:30,12/28/2014 12:58,104,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A786376,Vixen,Stray,Normal,Dog,Australian Shepherd Mix,White,11/13/2018 0:00,5,12/23/2018 11:20,1/11/2019 17:56,8,Female,Intact,Female,Spayed,11551 Maha Loop,Austin,TX,1,4862
+A792046,Inky,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,4/4/2009 0:00,521,4/4/2019 18:42,4/16/2019 9:56,523,Male,Neutered,Male,Neutered,6603 Nasco,Austin,TX,1,2107
+A711074,Ms Roper,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,9/1/2014 0:00,52,9/1/2015 13:38,9/3/2015 14:24,52,Female,Intact,Female,Intact,1406 Smith Rd,Austin,TX,1,99
+A637504,Birdie,Owner Surrender,Normal,Dog,Pit Bull Mix,White,7/7/2012 0:00,270,9/12/2017 12:34,9/26/2017 13:39,272,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,2114
+A798075,Teddy,Public Assist,Normal,Cat,Domestic Shorthair,Brown Tabby,5/6/2019 0:00,6,6/21/2019 11:38,8/17/2019 14:55,14,Male,Intact,Male,Neutered,4423 Magin Meadows,Austin,TX,1,18590
+A792082,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Cream,4/3/2019 0:00,0,4/5/2019 14:48,6/4/2019 19:09,8,Female,Intact,Female,Spayed,6410 Distant View Drive,Austin,TX,1,647999
+A769625,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,4/7/2017 0:00,52,4/7/2018 13:48,4/10/2018 18:31,52,Male,Intact,Male,Intact,8903 Pointer Lane,Austin,TX,1,99
+A793989,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,4/10/2019 0:00,3,5/2/2019 14:29,5/2/2019 16:05,3,Female,Intact,Female,Intact,Unknown address,Manor,TX,1,96
+A786333,Olivia,Stray,Normal,Dog,German Shepherd Mix,Brown,7/22/2018 0:00,21,12/22/2018 13:41,12/23/2018 16:38,22,Female,Intact,Female,Intact,2500 Scarbrough Drive #150,Austin,TX,1,1146
+A794687,Hound,Stray,Injured,Cat,Domestic Shorthair,Brown Tabby,5/11/2017 0:00,104,5/11/2019 8:02,5/18/2019 14:05,105,Male,Neutered,Male,Neutered,10020 Hwy 183 South,Austin,TX,1,1109
+A686443,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,7/22/2014 0:00,4,8/21/2014 23:00,8/22/2014 11:23,4,Female,Intact,Female,Intact,13034 Pond Springs,Austin,TX,1,97
+A669903,Cuervo,Stray,Normal,Cat,Bengal Mix,Brown Tabby,12/29/2011 0:00,104,12/29/2013 16:33,12/30/2013 17:55,104,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A707314,Rocky,Stray,Normal,Dog,German Shepherd Mix,Brown,7/11/2011 0:00,208,7/11/2015 12:17,7/19/2015 17:30,209,Male,Neutered,Male,Neutered,4713 Dorchester,Austin,TX,1,1104
+A686057,Unknown,Wildlife,Normal,Other,Bat Mix,Brown,8/15/2013 0:00,52,8/15/2014 18:48,9/17/2014 17:27,56,Unknown,Unknown,Unknown,Unknown,12901 N Ih 35 #1100,Austin,TX,0,4406
+A665659,Marie,Stray,Normal,Cat,Balinese Mix,Flame Point,9/17/2013 0:00,4,10/21/2013 13:16,11/22/2013 17:26,9,Female,Intact,Female,Spayed,509 W St John Ave,Austin,TX,1,11195
+A721352,Cooper,Owner Surrender,Normal,Dog,Maltese Mix,White,2/25/2002 0:00,730,2/25/2016 11:52,2/27/2016 13:18,730,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A689997,Bonnie,Stray,Normal,Cat,Domestic Shorthair Mix,Torbie,8/28/2014 0:00,6,10/12/2014 16:42,11/10/2014 15:53,10,Female,Intact,Female,Spayed,2403 Dove Springs Drive,Austin,TX,1,6721
+A706951,Chomps,Stray,Normal,Dog,Pit Bull Mix,Brown Brindle,7/6/2013 0:00,104,7/6/2015 0:26,12/19/2015 17:50,128,Male,Intact,Male,Neutered,3621 Long Day,Austin,TX,1,29633
+A682020,King,Owner Surrender,Normal,Dog,Pit Bull Mix,Blue,6/23/2012 0:00,104,6/23/2014 11:50,7/7/2014 17:38,106,Male,Intact,Male,Intact,Unknown address,Austin,TX,0,2138
+A737520,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,10/30/2016 0:00,0,10/30/2016 14:51,1/24/2017 13:30,12,Male,Intact,Male,Neutered,7201 Levander Loop,Austin,TX,1,1451999
+A731921,Drifter,Stray,Normal,Dog,Labrador Retriever Mix,Tan,7/29/2003 0:00,678,7/29/2016 11:57,7/29/2016 16:23,678,Male,Intact,Male,Intact,Hillbrook Dr And Hillbrook Cir,Austin,TX,1,99
+A696104,Tink Tink,Stray,Injured,Dog,Pomeranian,Red,1/29/2012 0:00,168,4/24/2015 7:47,4/25/2015 16:11,168,Female,Spayed,Female,Spayed,Lazy Ridge Howard /Dessau,Travis,TX,1,99
+A780474,Manchita,Public Assist,Normal,Dog,Chihuahua Shorthair,White,9/15/2017 0:00,52,9/15/2018 13:21,9/24/2018 22:00,53,Female,Intact,Female,Spayed,903 Fairfield Dr,Austin,TX,1,1119
+A778505,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,8/15/2008 0:00,521,8/15/2018 16:18,8/18/2018 17:13,522,Male,Neutered,Male,Neutered,1645 East 6Th Street,Austin,TX,1,1101
+A680920,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,6/2/2014 0:00,1,6/9/2014 19:03,6/9/2014 19:15,1,Unknown,Unknown,Unknown,Unknown,5502 Sapote Court,Austin,TX,1,90
+A764567,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,1/2/2016 0:00,104,1/2/2018 8:10,1/3/2018 14:01,104,Female,Intact,Female,Intact,Slaughter And South 1St,Austin,TX,0,99
+A664628,Unknown,Stray,Nursing,Cat,Domestic Medium Hair Mix,Torbie,9/24/2013 0:00,1,10/6/2013 14:47,10/6/2013 15:45,1,Female,Intact,Female,Intact,Unknown address,Austin,TX,1,90
+A708890,Obsidian,Stray,Normal,Cat,Domestic Shorthair Mix,Black,6/17/2015 0:00,6,8/2/2015 11:30,12/10/2015 11:47,25,Male,Intact,Male,Neutered,12600 Quirin Dr,Del Valle,TX,1,78278
+A750052,John,Stray,Normal,Cat,Domestic Shorthair Mix,White,4/23/2017 0:00,4,5/23/2017 11:05,8/16/2017 8:28,16,Male,Intact,Male,Neutered,5600 Decker Creek Cv,Travis,TX,1,47219
+A776708,Sisi,Public Assist,Normal,Cat,Domestic Longhair Mix,Black,7/17/2012 0:00,313,7/17/2018 19:25,8/15/2018 19:41,317,Female,Spayed,Female,Spayed,Convict Hill,Austin,TX,1,4151
+A771986,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/13/2015 0:00,156,5/13/2018 11:14,5/16/2018 17:02,157,Male,Intact,Male,Intact,Floral Park Drive And Rain Creek Parkway,Austin,TX,1,1106
+A801555,Jack,Stray,Nursing,Cat,Siamese Mix,Flame Point,8/5/2019 0:00,0,8/5/2019 18:12,10/26/2019 13:21,11,Male,Intact,Male,Neutered,9704 Giles Road,Austin,TX,1,1220999
+A767556,Unknown,Owner Surrender,Normal,Dog,Labrador Retriever Mix,Brown,1/27/2018 0:00,5,3/3/2018 12:54,3/3/2018 16:23,5,Male,Intact,Male,Intact,Unknown address,Travis,TX,1,98
+A720086,Unknown,Public Assist,Normal,Dog,Labrador Retriever Mix,Blue Merle,1/26/2016 0:00,1,2/2/2016 13:00,2/15/2016 0:00,2,Male,Intact,Male,Intact,1128 Gardner,Austin,TX,1,2000
+A802957,Aden,Stray,Normal,Cat,Domestic Shorthair,Brown Tabby,7/25/2019 0:00,4,8/25/2019 11:44,11/30/2019 11:05,18,Male,Intact,Male,Neutered,10953 West Cave Boluvard,Travis,TX,1,61902
+A665071,Mary,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,9/13/2013 0:00,4,10/13/2013 11:13,12/7/2013 14:57,12,Female,Intact,Female,Spayed,13203 Von Quintus Rd,Austin,TX,1,23707
+A738754,Alvador,Stray,Normal,Dog,Cocker Spaniel Mix,Black,3/30/2007 0:00,503,11/20/2016 12:44,11/20/2016 14:52,503,Male,Neutered,Male,Neutered,Braker And N Lamar Blvd,Austin,TX,1,99
+A681156,Unknown,Stray,Normal,Dog,Chihuahua Shorthair,Tan,3/13/2014 0:00,13,6/13/2014 13:18,6/17/2014 17:40,13,Male,Intact,Male,Neutered,Dewight Eisnerhower & Rutherford,Manor,TX,1,99
+A753028,Isadora,Stray,Normal,Cat,Domestic Shorthair Mix,Tortie,4/15/2017 0:00,10,6/30/2017 14:22,7/6/2017 11:48,11,Female,Intact,Female,Spayed,2601 South Pleasant Valley,Austin,TX,1,1198
+A734595,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,8/2/2016 0:00,5,9/9/2016 12:49,9/10/2016 17:38,5,Male,Intact,Male,Intact,6109 Richardson Ln,Austin,TX,1,98
+A704727,Boots,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,8/12/2014 0:00,42,6/8/2015 12:44,6/23/2015 13:40,45,Male,Intact,Male,Neutered,12100 Metric Blvd,Austin,TX,1,3313
+A750918,Blossom,Stray,Normal,Cat,Domestic Shorthair Mix,Calico,5/2/2017 0:00,4,6/2/2017 11:07,7/10/2017 0:00,9,Female,Intact,Female,Intact,519 Thrasher Ln,Austin,TX,1,11195
+A730998,Ryder,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,4/14/2016 0:00,13,7/14/2016 14:04,8/20/2016 19:25,18,Male,Intact,Male,Neutered,4913 Hudson Bend Rd,Austin,TX,1,7007
+A714793,Unknown,Wildlife,Normal,Other,Bat,Brown,10/28/2014 0:00,52,10/28/2015 8:33,10/28/2015 8:48,52,Unknown,Unknown,Unknown,Unknown,300 E Trinity,Austin,TX,0,99
+A727274,Unknown,Stray,Nursing,Cat,Domestic Shorthair Mix,White,5/6/2016 0:00,2,5/20/2016 14:47,5/21/2016 11:22,2,Male,Intact,Male,Intact,10710 Moore Rd,Austin,TX,1,95
+A767520,Unknown,Stray,Normal,Dog,Plott Hound Mix,Brown,1/2/2018 0:00,8,3/2/2018 9:55,3/2/2018 16:01,8,Male,Intact,Male,Intact,Bittern Hollow And W Braker Lane,Austin,TX,1,98
+A770484,Rosie,Owner Surrender,Normal,Dog,German Shepherd Mix,Tan,4/20/2006 0:00,654,11/4/2018 12:44,11/7/2018 13:06,654,Female,Spayed,Female,Spayed,Unknown address,Austin,TX,1,99
+A488066,Doc,Stray,Normal,Dog,Border Collie Mix,Brown,1/1/2007 0:00,389,6/18/2014 15:13,6/30/2014 11:37,391,Male,Neutered,Male,Neutered,Hwy 71 And Old Bee Caves Road,Austin,TX,1,2110
+A681866,D. J.,Public Assist,Normal,Dog,Labrador Retriever,Black,6/21/2012 0:00,104,6/21/2014 10:37,6/21/2014 15:10,104,Male,Neutered,Male,Neutered,90 N Ih35,Austin,TX,1,99
+A695371,Sylvie,Stray,Normal,Dog,Catahoula Mix,Yellow Brindle,1/14/2014 0:00,52,1/14/2015 15:57,1/19/2015 12:36,52,Female,Intact,Female,Spayed,U.S. 290 & Abrahamson Rd,Travis,TX,1,99
+A771892,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/11/2018 0:00,4,5/11/2018 15:09,6/23/2018 17:01,10,Female,Intact,Female,Spayed,2908 Ellon Road,Del Valle,TX,1,14878
+A750406,Lucy,Stray,Sick,Dog,Siberian Husky,White,5/26/2016 0:00,54,6/8/2017 9:08,6/8/2017 13:47,54,Female,Intact,Female,Intact,10000 N Lamar,Austin,TX,1,99
+A743082,Amba,Owner Surrender,Normal,Cat,Himalayan Mix,White,2/3/2011 0:00,313,2/3/2017 14:00,2/23/2017 9:48,316,Female,Spayed,Female,Spayed,Unknown address,Travis,TX,1,3128
+A804720,Bandit,Public Assist,Nursing,Cat,Domestic Medium Hair,Brown Tabby,9/17/2019 0:00,0,9/18/2019 7:45,11/27/2019 16:18,10,Male,Intact,Male,Neutered,4434 Frontier Trl,Austin,TX,1,1009999
+A803418,Unknown,Stray,Normal,Dog,Chihuahua Shorthair,Black,7/1/2019 0:00,8,8/31/2019 18:29,9/7/2019 11:28,9,Male,Intact,Male,Neutered,Highway 290 And Blue Goose Road,Austin,TX,1,1222
+A774037,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,4/16/2018 0:00,7,6/9/2018 12:40,6/24/2018 16:54,9,Male,Intact,Male,Neutered,907 Newport Avenue,Austin,TX,1,2661
+A716390,Bullet,Public Assist,Normal,Dog,Bull Terrier,Brown Brindle,6/8/2015 0:00,24,11/23/2015 11:46,11/29/2015 14:27,24,Male,Intact,Male,Intact,Unknown address,Austin,TX,1,99
+A664438,Unknown,Wildlife,Injured,Other,Raccoon Mix,Black,10/3/2011 0:00,104,10/3/2013 12:14,10/3/2013 12:33,104,Unknown,Unknown,Unknown,Unknown,9721 Meadowheath Dr,Austin,TX,0,99
+A676445,Pluto,Stray,Normal,Dog,Pit Bull Mix,Blue,4/10/2012 0:00,104,4/10/2014 11:39,4/21/2014 14:59,105,Male,Intact,Male,Intact,7201 Levander,Austin,TX,1,1109
+A641846,Daisy,Stray,Normal,Dog,Labrador Retriever,Brown,5/14/2009 0:00,241,12/29/2013 13:30,12/29/2013 14:34,241,Female,Spayed,Female,Spayed,Davis Ln & Slaughter Ln,Austin,TX,1,99
+A309706,Sammy,Stray,Normal,Dog,Pit Bull,Black,2/1/2003 0:00,736,3/13/2017 12:09,3/13/2017 18:58,736,Female,Spayed,Female,Spayed,Bull Creek Rd & W 40Th St,Austin,TX,1,99
+A786028,Milly,Stray,Normal,Dog,Labrador Retriever,White,9/30/2018 0:00,10,12/15/2018 11:32,10/2/2019 15:56,52,Female,Intact,Female,Spayed,2213 Town Lake Circle,Austin,TX,1,216752
+A701778,Macho,Owner Surrender,Injured,Dog,Pit Bull Mix,Brown,5/4/2011 0:00,208,5/4/2015 16:32,5/7/2015 15:18,209,Male,Intact,Male,Intact,2713 East 3Rd Street,Austin,TX,0,1104
+A702975,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue,4/27/2015 0:00,3,5/19/2015 17:14,5/19/2015 18:50,3,Unknown,Unknown,Unknown,Unknown,Riverside And Wickersham,Austin,TX,1,96
+A697732,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,11/27/2014 0:00,13,2/27/2015 13:06,3/3/2015 18:15,13,Female,Intact,Female,Spayed,412 W Alpine,Austin,TX,1,99
+A750329,Caribou,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,4/25/2017 0:00,4,5/25/2017 16:58,6/5/2017 0:00,5,Male,Intact,Male,Intact,12414 Beartrap Ln,Austin,TX,1,1341
+A694781,Savannah,Stray,Normal,Dog,Yorkshire Terrier,White,11/4/2014 0:00,8,1/4/2015 11:21,1/5/2015 18:26,8,Female,Intact,Female,Spayed,8733 Birmingham,Austin,TX,1,98
+A702175,Unknown,Stray,Normal,Dog,American Bulldog Mix,Blue,5/10/2011 0:00,208,5/10/2015 12:11,5/16/2015 10:50,209,Male,Neutered,Male,Neutered,1001 E Ben White Blvd,Austin,TX,1,1104
+A740967,Lil Crunchy,Stray,Normal,Dog,Cairn Terrier Mix,Tan,12/26/2015 0:00,52,12/26/2016 11:10,1/5/2017 0:00,53,Male,Intact,Male,Intact,17900 Prairie Verbena Ln,Travis,TX,1,1119
+A728307,Unknown,Owner Surrender,Nursing,Dog,Pit Bull Mix,Tan,6/2/2016 0:00,0,6/2/2016 19:21,6/3/2016 10:39,0,Female,Intact,Female,Intact,Unknown address,Austin,TX,0,0
+A742897,Nala,Stray,Injured,Dog,Pit Bull Mix,Brown,2/5/2016 0:00,53,2/10/2017 18:30,2/2/2020 23:19,208,Female,Spayed,Female,Spayed,1800 E Oltorf,Austin,TX,1,607548
+A683580,Jack,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,7/12/2012 0:00,104,7/12/2014 12:29,7/12/2014 14:09,104,Male,Neutered,Male,Neutered,Barton Springs Rd And S Mopac Expy,Austin,TX,1,99
+A529609,Billy Jean,Stray,Normal,Dog,Belgian Malinois,Brown,4/4/2008 0:00,288,10/13/2013 16:01,10/14/2013 11:10,288,Female,Spayed,Female,Spayed,3200 Duval,Austin,TX,1,99
+A725023,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,White,4/17/2016 0:00,1,4/24/2016 15:37,4/24/2016 16:32,1,Unknown,Unknown,Unknown,Unknown,2401 Manchaca Rd,Austin,TX,1,90
+A711971,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,9/14/2013 0:00,104,9/14/2015 17:50,9/15/2015 9:00,104,Unknown,Unknown,Unknown,Unknown,8515 S 35 Nb,Austin,TX,1,99
+A691205,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Blue Tabby,10/9/2014 0:00,3,10/31/2014 15:06,10/31/2014 15:58,3,Male,Intact,Male,Intact,7102 Providence,Austin,TX,1,96
+A798245,Unknown,Wildlife,Injured,Other,Raccoon,Gray,5/23/2019 0:00,4,6/23/2019 14:28,6/24/2019 18:06,4,Unknown,Unknown,Unknown,Unknown,6700 Wolfcreek Pass,Austin,TX,0,97
+A686936,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,7/29/2014 0:00,4,8/29/2014 10:43,8/29/2014 18:03,4,Male,Intact,Male,Intact,302 Provines Dr,Austin,TX,1,97
+A751291,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,White,4/6/2017 0:00,8,6/6/2017 14:05,6/9/2017 19:24,9,Male,Neutered,Male,Neutered,1015 E Yager Ln,Austin,TX,1,1222
+A695418,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Orange Tabby,9/15/2014 0:00,17,1/15/2015 13:50,1/16/2015 9:00,17,Male,Intact,Male,Intact,1600 Wickersham Ln,Austin,TX,1,99
+A784125,Erika,Stray,Normal,Dog,Chihuahua Shorthair Mix,Tan,11/12/2017 0:00,52,11/12/2018 10:29,11/15/2018 17:54,52,Female,Intact,Female,Intact,Congress Avenue And East 1St Street,Austin,TX,1,99
+A749130,Mite,Stray,Normal,Cat,Domestic Shorthair Mix,Black,4/11/2017 0:00,4,5/11/2017 13:05,8/12/2017 14:39,17,Male,Intact,Male,Neutered,2601 Mchale Court,Austin,TX,1,54317
+A749244,Unknown,Stray,Normal,Cat,Domestic Shorthair Mix,Brown Tabby,5/7/2017 0:00,0,5/12/2017 15:05,5/12/2017 17:07,0,Unknown,Unknown,Unknown,Unknown,1016 S Meadows Dr,Austin,TX,1,0
+A797494,Unknown,Stray,Normal,Other,Guinea Pig,Orange,6/14/2018 0:00,52,6/14/2019 11:19,6/17/2019 19:14,52,Unknown,Unknown,Unknown,Unknown,1100 East Oltorf Street,Austin,TX,1,99
+A773207,Frankie,Stray,Normal,Cat,Domestic Shorthair Mix,Orange Tabby,5/14/2018 0:00,2,5/29/2018 12:25,6/22/2018 18:48,5,Male,Intact,Male,Intact,1700 Montopolis Drive,Austin,TX,1,7380
+A695795,Amos,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,1/23/2007 0:00,417,1/23/2015 10:54,1/25/2015 15:40,417,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,99
+A665948,Unknown,Stray,Normal,Dog,American Bulldog Mix,Brown Brindle,6/9/2013 0:00,19,10/24/2013 16:50,10/25/2013 10:58,19,Male,Intact,Male,Intact,7Th And Pleasant Valley,Austin,TX,1,99
+A648915,Princess,Stray,Normal,Dog,Chihuahua Shorthair Mix,Black,3/7/2008 0:00,305,1/15/2014 15:24,1/16/2014 16:49,305,Female,Spayed,Female,Spayed,2201 Patsy Pkwy,Austin,TX,1,99
+A521233,Buttons,Stray,Normal,Dog,Maltese Mix,White,9/4/2006 0:00,550,3/22/2017 15:10,3/27/2017 16:02,551,Male,Neutered,Male,Neutered,Loyola Ln And Kings Point,Austin,TX,1,1101
+A708407,Unknown,Stray,Injured,Dog,Pit Bull Mix,Blue,2/12/2015 0:00,23,7/27/2015 13:58,7/31/2015 14:33,24,Female,Intact,Female,Intact,4712 East Mlk Blvd,Austin,TX,1,1142
+A765885,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Orange Tabby,1/29/2017 0:00,52,1/29/2018 13:17,1/31/2018 18:14,52,Female,Intact,Female,Intact,12611 Maha Loop Road,Austin,TX,1,99
+A787995,Unknown,Stray,Normal,Cat,Domestic Medium Hair Mix,Black,3/24/2018 0:00,43,1/24/2019 13:22,1/28/2019 14:37,44,Male,Intact,Male,Intact,400 West Saint Elmo Road,Austin,TX,1,1122
+A714395,Handsome,Stray,Normal,Dog,Harrier Mix,White,4/25/2015 0:00,25,10/22/2015 15:59,10/31/2015 17:49,27,Male,Intact,Male,Neutered,5702 Honeybee Bend,Austin,TX,1,2258
+A665192,Phoenix,Stray,Injured,Dog,Australian Shepherd Mix,Brown,3/15/2013 0:00,30,10/15/2013 8:34,12/3/2013 18:45,37,Female,Intact,Female,Spayed,Unknown address,Austin,TX,1,8727
+A705995,Sasha,Owner Surrender,Normal,Dog,American Bulldog Mix,White,6/23/2010 0:00,260,6/23/2015 12:58,7/9/2015 15:25,263,Female,Intact,Female,Intact,Unknown address,Austin,TX,0,3134
+A773606,London,Owner Surrender,Normal,Cat,Domestic Shorthair Mix,Black,4/17/2018 0:00,8,6/13/2018 11:28,6/16/2018 12:23,8,Male,Intact,Male,Neutered,Unknown address,Austin,TX,1,98
+A808956,Noelle,Stray,Normal,Cat,Domestic Shorthair,Calico,8/16/2019 0:00,13,11/16/2019 16:14,12/9/2019 17:44,16,Female,Intact,Female,Spayed,10504 Ruidosa Street,Austin,TX,1,3786
+A578318,Hamilton,Stray,Injured,Dog,German Shepherd Mix,Brown,1/5/2009 0:00,322,3/14/2015 15:20,3/24/2015 14:57,324,Male,Neutered,Male,Neutered,4520 Rimrock,Austin,TX,1,2112
+A692449,Daisy,Stray,Normal,Dog,Pit Bull Mix,Tan,11/20/2012 0:00,104,11/20/2014 15:38,12/4/2014 17:25,106,Female,Intact,Female,Spayed,1900 San Gabriel St,Austin,TX,1,2138
+A700246,Unknown,Stray,Sick,Cat,Domestic Shorthair Mix,Calico,4/10/2014 0:00,52,4/10/2015 13:58,4/11/2015 9:00,52,Female,Intact,Female,Intact,206 E Skyview Rd,Austin,TX,1,99
+A778652,Unknown,Stray,Normal,Dog,Pit Bull Mix,Black,1/18/2018 0:00,30,8/18/2018 13:27,8/24/2018 16:07,31,Female,Intact,Female,Spayed,1030 Norwood Park Boulevard,Austin,TX,1,1132
+A693885,Rufio,Stray,Normal,Dog,Boxer Mix,Brown Brindle,12/16/2013 0:00,52,12/16/2014 13:00,11/1/2015 13:15,97,Male,Neutered,Male,Neutered,Steck Ave & Mopac Expy,Austin,TX,1,83967
+A778739,Baxter,Stray,Normal,Dog,Boxer Mix,Brown Brindle,3/19/2017 0:00,74,8/19/2018 14:53,10/4/2018 16:29,80,Male,Intact,Male,Neutered,7201 Levander Loop,Austin,TX,1,6585
+A769859,Theo,Owner Surrender,Normal,Dog,Swedish Vallhund Mix,Tan,4/11/2011 0:00,365,4/11/2018 14:08,4/20/2018 16:07,366,Male,Neutered,Male,Neutered,Unknown address,Austin,TX,1,1102
+A755737,Unknown,Stray,Normal,Dog,Labrador Retriever Mix,Black,8/8/2015 0:00,104,8/8/2017 12:07,8/14/2017 19:02,105,Male,Intact,Male,Neutered,1600 Barton Springs Road,Austin,TX,1,1109
+A695882,Sonora,Stray,Normal,Dog,Labrador Retriever Mix,White,1/24/2012 0:00,156,1/24/2015 18:05,10/25/2015 15:05,195,Female,Intact,Female,Spayed,11801 Doyle Overton Rd,Travis,TX,1,48843
+A740163,Peanut,Stray,Normal,Dog,Pit Bull Mix,White,12/12/2014 0:00,215,1/31/2019 8:12,1/31/2019 13:46,215,Male,Intact,Male,Intact,Mlk & Airport,Austin,TX,1,99
+A571053,Monty,Stray,Normal,Dog,Miniature Poodle,Gray,10/24/2008 0:00,572,10/12/2019 14:43,10/12/2019 17:33,572,Male,Neutered,Male,Neutered,2104 East Anderson Lane,Austin,TX,1,99
