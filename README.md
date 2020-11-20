@@ -1,2 +1,6 @@
-# Personal and academic projects - EDA, Feature engineering, Feature Selection, Regression, Classification, DTree approach  
-
+# Personal and academic projects
+---
+### EDA and Feature engineering
+### Feature Selection
+### Classification  
+### Clustering
