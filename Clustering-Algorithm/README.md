@@ -1,5 +1,4 @@
 # Unsupervised learning - Clustering
----
 A clustering model tries to group together similar training data points into “Classes”. New data belonging to a class C would have similar characteristics like existing class member data points. Also, it shall be closer to those training data points in n dimensional feature space. This “Tendency of cooccurrence” is used in unsupervised classification method of clustering.
 
 ## Original data
