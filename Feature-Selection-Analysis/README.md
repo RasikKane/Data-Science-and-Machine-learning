@@ -20,6 +20,7 @@ Gradient Boosting works on principal of "Ensemble of Decision Tree". **Gradient 
 * GB builds an additive model of weak decision trees in a forward stage-wise fashion
 * The weak decison tree is successively Optimized using arbitrary differentiable loss functions.
 * In each stage, n_classes_ regression trees are fit on the negative gradient of the binomial or multinomial deviance loss function. **But, addressed classification problem is Binary, hence it has induced only a single regression tree**
+![baseline](https://user-images.githubusercontent.com/32463890/99881518-3d098680-2c12-11eb-8aaf-e7d13c9f687a.jpg)
 
 <br>
 
@@ -42,11 +43,23 @@ In Feature selection we need to find the best subset of all available features, 
 
 ### Recurssive feature eliminator with cross validation : Choosen for experiment
 * Implement similar algorithm alike backward selection; BUT **AUTOMATES ADDITIONAL STEP TO LOCATE AND RETRAIN INNER MODEL WITH OPTIMAL k-features**
+![RFECV](https://user-images.githubusercontent.com/32463890/99881520-409d0d80-2c12-11eb-9169-169eb6a8b834.jpg)
+![RFECV_score](https://user-images.githubusercontent.com/32463890/99881523-4397fe00-2c12-11eb-8a38-4453ec05677b.jpg)
 
 ### Sequential Backward FLOATING Eilimination selection: Choosen for experiement
 * It adds a recosideration stage to INCLUDE PREVIOUSELY REMOVED samples which may improve performance with PRESENT SAMPLE-SPACE. THIS METHOD INADVENTLY CONSIDERS POSTERIORI "Support" of features for each other. This is neglected in FILTER TYPES OF SELECTIONS.
 
+#### Original Data features
+* **Numerical attributes** [age, cr_ph, eject_frac, platelets, serum_cr, serum_sod, time]
+* **Categorical attributes** [anaemia, diabetes, high_bp, gender, smoke]
+![sbfs1](https://user-images.githubusercontent.com/32463890/99881699-1d269280-2c13-11eb-8e43-c6512dc390dc.PNG)
+<br>
+#### Selected features
+('age', 'anaemia', 'diabetes', 'eject_fr', 'platelets', 'serum_cr', 'serum_sod', 'gender', 'smoke', 'time')
+![sbfs2](https://user-images.githubusercontent.com/32463890/99881702-20ba1980-2c13-11eb-9edc-fc9c268913b6.PNG)
+
 ## Inference
+![sbfs](https://user-images.githubusercontent.com/32463890/99881689-1730b180-2c13-11eb-8cbc-f9a2b9c4c68b.PNG)
 
 **FEATURE SELECTION METHOD**
 * Based on the resultant graph,  resultant accuracies for training data using cross validation are consistent across all feature sets
