@@ -56,6 +56,7 @@ In Feature selection we need to find the best subset of all available features, 
 * **Categorical attributes** [anaemia, diabetes, high_bp, gender, smoke]
 ![sbfs1](https://user-images.githubusercontent.com/32463890/99881699-1d269280-2c13-11eb-8e43-c6512dc390dc.PNG)
 <br>
+
 #### Selected features
 ('age', 'anaemia', 'diabetes', 'eject_fr', 'platelets', 'serum_cr', 'serum_sod', 'gender', 'smoke', 'time')
 ![sbfs2](https://user-images.githubusercontent.com/32463890/99881702-20ba1980-2c13-11eb-9edc-fc9c268913b6.PNG)
