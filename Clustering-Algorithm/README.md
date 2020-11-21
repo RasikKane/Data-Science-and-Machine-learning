@@ -32,11 +32,11 @@ It  defines distance regulator **epsilon**, which is maximum distance between da
 ### Results
 
  * Smaller value of epsilon = 0.04 force stringent clustering. Hence, highly dense data points are  part  of  cluster.  Whereas,  less  dense points  which  formed  cluster  4  and  5  in  case  of kmeans are defined as outliers.
-![dbscan1](https://user-images.githubusercontent.com/32463890/99880222-16475200-2c0a-11eb-9d61-631f65f52425.PNG)
+ ![dbscan1](https://user-images.githubusercontent.com/32463890/99880222-16475200-2c0a-11eb-9d61-631f65f52425.PNG)
 
 <br>
  * When epsilon is made   less   stringent   i.e.   0.08,   more non-core samples   are   incorporated   in   cluster. But, it lost  distinct  cluster  3&4 obtained in previously. Both are fused into cluster 3, as shown in Figure.Same thing happens with cluster 1&2 in previous Figure, which fuse together into cluster2.
-![dbscan2](https://user-images.githubusercontent.com/32463890/99880226-19424280-2c0a-11eb-9de0-dd5ab34dedd8.PNG)
+ ![dbscan2](https://user-images.githubusercontent.com/32463890/99880226-19424280-2c0a-11eb-9de0-dd5ab34dedd8.PNG)
 
 <br>
 
