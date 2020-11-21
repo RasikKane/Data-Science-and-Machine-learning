@@ -35,15 +35,17 @@ In Feature selection we need to find the best subset of all available features, 
 * **Embedded methods**: This is typically implemented by using a sparsity regularizer orconstraint which makes the weight of some features become zero. eg. Sparse Multinomial Logistic Regression, Automatic Relevance Determination Regression, LASSO, Ridge regression.
 * **Wrapper**
     * **Sequential feature selection**: The classifier is “wrapped” in the feature selection mechanism. Feature subsets are evaluated directly based on their performance when used with that specific classifier. A key aspect of wrappers is the search strategy which generates the candidate feature subsets for evaluation.
-        * **Sequential Forward Selection (SFS)**: This method starts with empty feature subset. In each step, algorithm adds  most informative feature to subset. This procedure repeats till model performance does not improve any further.
-        * **Sequential Backward Eilimination (SBE)**: This method starts with whole feature space as subset. In each step, algorithm removes least informative feature. This procedure repeats till model performance does not improve any further. Hence, this is *feature selection by EXCLUSION*.  
-        * **Floating Selection (FS))**: Floating selection is variant used with both above methods.
+     * **Sequential Forward Selection (SFS)**: This method starts with empty feature subset. In each step, algorithm adds  most informative feature to subset. This procedure repeats till model performance does not improve any further.
+     * **Sequential Backward Eilimination (SBE)**: This method starts with whole feature space as subset. In each step, algorithm removes least informative feature. This procedure repeats till model performance does not improve any further. Hence, this is *feature selection by EXCLUSION*.  
+     * **Floating Selection (FS))**: Floating selection is variant used with both above methods.
          
     * **Recurssive feature eliminator with cross validation** [[Ref](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFECV.html#sklearn.feature_selection.RFECV)]: scikit-learn implements RFECV : Feature ranking with recursive feature elimination and cross-validated selection of the best number of features. This is also a greedy - aproach algorithm which works on similar algorithm like *Sequential Backward Eilimination (SBE)*.     
 
 ### Recurssive feature eliminator with cross validation : Choosen for experiment
 * Implement similar algorithm alike backward selection; BUT **AUTOMATES ADDITIONAL STEP TO LOCATE AND RETRAIN INNER MODEL WITH OPTIMAL k-features**
+
 ![RFECV](https://user-images.githubusercontent.com/32463890/99881520-409d0d80-2c12-11eb-9169-169eb6a8b834.jpg)
+<br>
 ![RFECV_score](https://user-images.githubusercontent.com/32463890/99881523-4397fe00-2c12-11eb-8a38-4453ec05677b.jpg)
 
 ### Sequential Backward FLOATING Eilimination selection: Choosen for experiement
