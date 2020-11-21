@@ -2,6 +2,11 @@
 ---
 A clustering model tries to group together similar training data points into “Classes”. New data belonging to a class C would have similar characteristics like existing class member data points. Also, it shall be closer to those training data points in n dimensional feature space. This “Tendency of cooccurrence” is used in unsupervised classification method of clustering.
 
+## Original data
+Roughly, 7 clusters can be seen in data. 
+![data](https://user-images.githubusercontent.com/32463890/99880189-c9637b80-2c09-11eb-9d2b-ec2f4c02f2a1.PNG)
+
+
 ## k-means clustering
 * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering#Algorithms) is a partition based algorithm. It fits algorithm to find centroids which define an “area of coverage”.
 * Classically, when k-means model is fitted, it starts with 3 random centroids. By default,sklearn uses kmeans++ algorithm, which initializes a datapoint as first  centroid  using  random_state.  Remaining  centroids  are  synthetically  generated  so  that distance between all clusters is maximized; which shall yield better results
