@@ -35,15 +35,16 @@ It  defines distance regulator **epsilon**, which is maximum distance between da
  ![dbscan1](https://user-images.githubusercontent.com/32463890/99880222-16475200-2c0a-11eb-9d61-631f65f52425.PNG)
 
 <br>
+
  * When epsilon is made   less   stringent   i.e.   0.08,   more non-core samples   are   incorporated   in   cluster. But, it lost  distinct  cluster  3&4 obtained in previously. Both are fused into cluster 3, as shown in Figure.Same thing happens with cluster 1&2 in previous Figure, which fuse together into cluster2.
- ![dbscan2](https://user-images.githubusercontent.com/32463890/99880226-19424280-2c0a-11eb-9de0-dd5ab34dedd8.PNG)
+![dbscan2](https://user-images.githubusercontent.com/32463890/99880292-86ee6e80-2c0a-11eb-9859-4582bde92f81.PNG)
 
 <br>
 
 ## Quantitative Evaluation
 * Performance of all algorithms is evaluated with **[silhouette_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html#sklearn.metrics.silhouette_score)**. It is average of silhouette coefficients; which  gives a measure of how close each point in one cluster is to points in the neighbouring clusters.
 Kmeans and dbscan2 have good scores. 
-* But in  case  of  dbscan1, silhouette  scorefor  DBSCAN  is heavily penalized  given  presence  of outliers,  which  essentially  gave  no  cluster. So, silhoutte score is  not  powerful  metric  to  assess  DBSCAN. Hence, **[calinski_harabasz  score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html#sklearn.metrics.calinski_harabasz_score)**[4]  is  used, which  is defined as  ratio  between  the  within-cluster  dispersion and  the  between-cluster  dispersion.  Minimum  score  shows  good  clustering. 
+* But in  case  of  dbscan1, silhouette  scorefor  DBSCAN  is heavily penalized  given  presence  of outliers,  which  essentially  gave  no  cluster. So, silhoutte score is  not  powerful  metric  to  assess  DBSCAN. Hence, **[calinski_harabasz  score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html#sklearn.metrics.calinski_harabasz_score)**  is  used, which  is defined as  ratio  between  the  within-cluster  dispersion and  the  between-cluster  dispersion.  Minimum  score  shows  good  clustering. 
 ![result](https://user-images.githubusercontent.com/32463890/99880233-22cbaa80-2c0a-11eb-86fb-a0b07b11dad6.PNG)
 <br>
 ## Inference
