@@ -47,5 +47,6 @@ Kmeans and dbscan2 have good scores.
 * But in  case  of  dbscan1, silhouette  scorefor  DBSCAN  is heavily penalized  given  presence  of outliers,  which  essentially  gave  no  cluster. So, silhoutte score is  not  powerful  metric  to  assess  DBSCAN. Hence, **[calinski_harabasz  score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html#sklearn.metrics.calinski_harabasz_score)**  is  used, which  is defined as  ratio  between  the  within-cluster  dispersion and  the  between-cluster  dispersion.  Minimum  score  shows  good  clustering. 
 ![result](https://user-images.githubusercontent.com/32463890/99880233-22cbaa80-2c0a-11eb-86fb-a0b07b11dad6.PNG)
 <br>
+
 ## Inference
 dbscan model with eps=0.8 and min_samples=4 is model of choice for given dataset. But,  results  can  be  finetuned  by  trying  out  values  for  eps  in  range  0.04 < eps < 0.08  to  get  optimal classification which leaves out outliers and disintegrate fused clusters discussed in previously.
