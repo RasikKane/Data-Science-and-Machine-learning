@@ -33,33 +33,31 @@ In this stage, performance of ML algorithms as well as correaltion of specific s
 Results for old model with top20 optimal features:
 
 ==============================================================================
-Accuracy:  0.95
-Confusion matrix: 
- [[ 49  48]
- [  2 901]]
-Classification report:
-                precision    recall  f1-score   support
-
-         0.0       0.96      0.51      0.66        97
-         1.0       0.95      1.00      0.97       903
-
-    accuracy                           0.95      1000
-   macro avg       0.96      0.75      0.82      1000
-weighted avg       0.95      0.95      0.94      1000
+Accuracy:  0.95<br>
+Confusion matrix: <br>
+ [[ 49  48]<br>
+ [  2 901]]<br>
+Classification report: <br>
+|           | precision | recall | f1-score | support |
+|:-----     | :-----    |:-----  |:-----    |:-----   |
+|0.0        | 0.96      | 0.51   | 0.66     | 97      | 
+|1.0        | 0.95      | 1.00   | 0.97     | 903     |
+| accuracy  |           |        |  0.95    | 1000    |
+| macro avg |0.96       |  0.75  |  0.82    | 1000    |           
+| weighted avg| 0.95    |  0.95  |  0.94    | 1000    |
 
 Results for new model with top20 optimal features available in new data :
 
 ==============================================================================
-Accuracy:  0.958
-Confusion matrix: 
- [[134  41]
- [  1 824]]
-Classification report:
-                precision    recall  f1-score   support
-
-         0.0       0.99      0.77      0.86       175
-         1.0       0.95      1.00      0.98       825
-
-    accuracy                           0.96      1000
-   macro avg       0.97      0.88      0.92      1000
-weighted avg       0.96      0.96      0.96      1000
+Accuracy:  0.958 <br>
+Confusion matrix:<br> 
+ [[134  41]<br>
+ [  1 824]]<br>
+Classification report: <br>
+|      |precision|    recall|  f1-score|   support|
+|:-----|:-----|:-----|:-----|:-----|
+|0.0|       0.99|      0.77|      0.86|       175|
+|1.0|       0.95|      1.00|      0.98|       825|
+|accuracy|           |          |      0.96|      1000|
+|macro avg|       0.97|      0.88|      0.92|      1000|
+|weighted avg|       0.96|      0.96|      0.96|      1000|
