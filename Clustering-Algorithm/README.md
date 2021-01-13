@@ -3,7 +3,8 @@ A clustering model tries to group together similar training data points into “
 
 ## Original data
 Roughly, 7 clusters can be seen in data. 
-![data](https://user-images.githubusercontent.com/32463890/99880189-c9637b80-2c09-11eb-9d2b-ec2f4c02f2a1.PNG)
+![question_3_data](https://user-images.githubusercontent.com/32463890/104487902-944e2680-55c5-11eb-81d2-6f84d10aacec.jpg)
+
 
 
 ## k-means clustering
